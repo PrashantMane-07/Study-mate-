@@ -1,0 +1,1003 @@
+Name,Branch,Pass-out Year,Gender,Skills_1,Skills_2,Skills_3,Interests_1,Interests_2,Interests_3,Hobbies_1,Hobbies_2,Hobbies_3,10th Marks,12th Marks/Diploma Marks,Study Goals,Dream Companies,Currently Working On,Spoken Languages_1,Spoken Languages_2,Spoken Languages_3
+Student_1,Information Technology,2027,Male,C++,Node.js,Java,Coding,Drawing,Data Science,Cricket,Reading,Singing,72,87,Entrepreneurship,EPAM,Internship,English,Tamil,Telugu
+Student_2,Civil,2027,Female,Java,CSS,SQL,Sports,Coding,Gaming,Yoga,Reading,Painting,81,67,Good Job Placement,Wipro,Final Year Project,Tamil,English,Bengali
+Student_3,Electronics,2025,Male,Java,Node.js,Python,Machine Learning,UI/UX Design,Sports,Gardening,Cricket,Football,78,90,Entrepreneurship,Wipro,Personal Project,Hindi,Marathi,Bengali
+Student_4,Civil,2024,Female,React,JavaScript,Java,Coding,UI/UX Design,Machine Learning,Cricket,Reading,Singing,77,98,Good Job Placement,Infosys,Final Year Project,Bengali,Marathi,English
+Student_5,Electronics,2024,Male,DBMS,React,C++,Drawing,Music,Gaming,Singing,Reading,Yoga,82,86,Good Job Placement,Microsoft,Personal Project,English,Marathi,Hindi
+Student_6,Electronics,2026,Female,C++,CSS,Python,UI/UX Design,Music,Drawing,Painting,Football,Gardening,97,82,Entrepreneurship,Amazon,Internship,Marathi,Telugu,Bengali
+Student_7,Mechanical,2026,Male,Node.js,React,SQL,Gaming,Coding,Drawing,Painting,Gardening,Football,89,70,Entrepreneurship,LTI Mindtree,Personal Project,Bengali,English,Tamil
+Student_8,Information Technology,2023,Female,CSS,Python,DBMS,Data Science,UI/UX Design,Coding,Cricket,Yoga,Painting,97,65,Entrepreneurship,Microsoft,Final Year Project,Tamil,Hindi,English
+Student_9,Computer Science,2026,Female,HTML,Python,CSS,Sports,Music,Machine Learning,Reading,Yoga,Cricket,98,67,Entrepreneurship,Infosys,Final Year Project,Telugu,Hindi,Marathi
+Student_10,Mechanical,2024,Non-binary,SQL,CSS,Python,Coding,Music,UI/UX Design,Singing,Reading,Football,72,88,Entrepreneurship,Wipro,Final Year Project,Marathi,Tamil,Bengali
+Student_11,Electronics,2025,Non-binary,React,JavaScript,Python,Music,Drawing,UI/UX Design,Yoga,Football,Dancing,96,70,Entrepreneurship,LTI Mindtree,Personal Project,Marathi,Telugu,Tamil
+Student_12,Information Technology,2027,Male,React,Java,CSS,Gaming,Sports,UI/UX Design,Football,Dancing,Cricket,71,96,Higher Studies,TCS,Final Year Project,Hindi,Bengali,Telugu
+Student_13,Mechanical,2024,Female,JavaScript,CSS,HTML,Data Science,Drawing,UI/UX Design,Dancing,Painting,Yoga,78,98,Entrepreneurship,Amazon,Internship,Marathi,Telugu,Tamil
+Student_14,Electronics,2023,Female,Python,DBMS,C++,Data Science,Gaming,Coding,Reading,Football,Cricket,97,89,Higher Studies,EPAM,Final Year Project,Telugu,Marathi,English
+Student_15,Computer Science,2027,Female,JavaScript,HTML,DBMS,Coding,Music,Drawing,Reading,Painting,Singing,77,72,Entrepreneurship,Infosys,Personal Project,Hindi,English,Marathi
+Student_16,Mechanical,2027,Non-binary,SQL,DBMS,Node.js,Data Science,Sports,UI/UX Design,Painting,Singing,Yoga,84,98,Entrepreneurship,Wipro,Internship,Marathi,Hindi,Tamil
+Student_17,Computer Science,2025,Male,React,HTML,Python,UI/UX Design,Gaming,Sports,Reading,Cricket,Painting,71,86,Entrepreneurship,Infosys,Personal Project,English,Hindi,Tamil
+Student_18,Civil,2024,Male,JavaScript,Python,CSS,Sports,UI/UX Design,Data Science,Singing,Painting,Cricket,72,81,Good Job Placement,Infosys,Personal Project,Tamil,Marathi,Telugu
+Student_19,Mechanical,2026,Non-binary,DBMS,Node.js,Java,UI/UX Design,Machine Learning,Coding,Dancing,Football,Gardening,97,74,Good Job Placement,Google,Final Year Project,Bengali,English,Telugu
+Student_20,Computer Science,2026,Non-binary,Java,Node.js,Python,Drawing,Music,Gaming,Yoga,Painting,Football,99,65,Entrepreneurship,TCS,Internship,Tamil,Bengali,English
+Student_21,Civil,2026,Male,HTML,Java,JavaScript,Music,Machine Learning,Data Science,Cricket,Reading,Gardening,89,65,Higher Studies,Infosys,Final Year Project,English,Bengali,Telugu
+Student_22,Electronics,2023,Male,DBMS,C++,JavaScript,Data Science,Machine Learning,Sports,Cricket,Singing,Reading,86,74,Higher Studies,Wipro,Final Year Project,Tamil,Hindi,English
+Student_23,Civil,2026,Male,C++,React,DBMS,Gaming,Sports,Music,Football,Cricket,Singing,71,79,Entrepreneurship,Amazon,Final Year Project,Bengali,Marathi,English
+Student_24,Computer Science,2025,Female,React,Python,HTML,Gaming,Coding,Drawing,Painting,Cricket,Gardening,90,73,Good Job Placement,EPAM,Personal Project,Telugu,Marathi,Tamil
+Student_25,Computer Science,2023,Male,CSS,JavaScript,Python,Data Science,Music,Machine Learning,Football,Painting,Gardening,75,100,Higher Studies,Wipro,Final Year Project,Marathi,Hindi,Tamil
+Student_26,Civil,2027,Male,Java,DBMS,SQL,Gaming,Drawing,UI/UX Design,Painting,Singing,Gardening,90,76,Entrepreneurship,TCS,Personal Project,Tamil,Bengali,Marathi
+Student_27,Information Technology,2026,Female,C++,React,DBMS,Gaming,Coding,UI/UX Design,Reading,Football,Painting,64,79,Good Job Placement,Google,Final Year Project,Hindi,Marathi,Bengali
+Student_28,Electronics,2023,Male,Python,SQL,C++,Sports,Coding,Drawing,Football,Dancing,Gardening,64,94,Higher Studies,Infosys,Final Year Project,English,Bengali,Telugu
+Student_29,Electronics,2025,Male,C++,React,JavaScript,Data Science,Sports,Coding,Dancing,Cricket,Singing,94,82,Good Job Placement,Amazon,Final Year Project,Marathi,Tamil,Hindi
+Student_30,Civil,2026,Male,SQL,Java,C++,Music,Data Science,Drawing,Football,Cricket,Singing,86,90,Good Job Placement,Google,Final Year Project,Tamil,Telugu,Marathi
+Student_31,Information Technology,2026,Non-binary,Node.js,DBMS,HTML,Machine Learning,Music,Sports,Reading,Football,Singing,95,64,Higher Studies,TCS,Personal Project,Telugu,Bengali,Tamil
+Student_32,Information Technology,2024,Female,SQL,React,Java,Coding,Data Science,Machine Learning,Gardening,Cricket,Football,70,75,Higher Studies,Amazon,Personal Project,Telugu,Tamil,Marathi
+Student_33,Electronics,2026,Male,JavaScript,React,C++,Sports,Machine Learning,Coding,Reading,Cricket,Yoga,81,98,Good Job Placement,TCS,Internship,Telugu,Bengali,English
+Student_34,Civil,2023,Female,Python,HTML,React,Gaming,Music,Drawing,Painting,Football,Cricket,85,86,Higher Studies,Google,Personal Project,English,Bengali,Telugu
+Student_35,Information Technology,2025,Male,Python,HTML,Java,Music,Coding,Sports,Singing,Yoga,Dancing,78,87,Good Job Placement,Microsoft,Final Year Project,Hindi,English,Tamil
+Student_36,Civil,2025,Non-binary,C++,Node.js,React,Drawing,Music,Sports,Reading,Painting,Gardening,92,88,Good Job Placement,TCS,Final Year Project,Bengali,Tamil,Telugu
+Student_37,Civil,2026,Non-binary,SQL,Node.js,Java,Data Science,Drawing,Music,Reading,Gardening,Painting,75,69,Good Job Placement,EPAM,Final Year Project,Tamil,Bengali,Telugu
+Student_38,Electronics,2023,Female,Python,Node.js,C++,Drawing,Coding,UI/UX Design,Dancing,Football,Yoga,69,66,Good Job Placement,EPAM,Internship,Tamil,Bengali,Hindi
+Student_39,Computer Science,2025,Female,React,C++,SQL,Machine Learning,Sports,Drawing,Painting,Gardening,Singing,63,81,Entrepreneurship,EPAM,Final Year Project,Hindi,Telugu,Tamil
+Student_40,Electronics,2023,Male,React,Node.js,Python,Gaming,Machine Learning,Sports,Gardening,Football,Painting,85,62,Good Job Placement,Microsoft,Internship,Bengali,Telugu,Hindi
+Student_41,Civil,2025,Male,JavaScript,Python,CSS,UI/UX Design,Drawing,Coding,Dancing,Singing,Football,68,89,Higher Studies,Amazon,Final Year Project,Marathi,Bengali,Tamil
+Student_42,Information Technology,2026,Female,Python,HTML,CSS,Sports,Drawing,Machine Learning,Painting,Cricket,Yoga,100,61,Good Job Placement,Wipro,Personal Project,Telugu,Tamil,Marathi
+Student_43,Information Technology,2024,Non-binary,Node.js,Python,SQL,Music,Data Science,Drawing,Dancing,Reading,Football,63,93,Higher Studies,Google,Internship,English,Hindi,Bengali
+Student_44,Civil,2027,Female,DBMS,JavaScript,React,Coding,Music,Gaming,Yoga,Cricket,Football,66,73,Higher Studies,LTI Mindtree,Personal Project,Telugu,English,Tamil
+Student_45,Civil,2026,Female,Java,SQL,Python,Drawing,UI/UX Design,Coding,Singing,Cricket,Painting,97,68,Entrepreneurship,Amazon,Internship,Bengali,Hindi,Marathi
+Student_46,Civil,2026,Non-binary,JavaScript,Node.js,C++,UI/UX Design,Sports,Drawing,Gardening,Football,Dancing,85,98,Entrepreneurship,Amazon,Internship,Tamil,English,Bengali
+Student_47,Electronics,2023,Female,Java,SQL,CSS,Drawing,Machine Learning,Gaming,Dancing,Football,Gardening,97,73,Entrepreneurship,Wipro,Personal Project,Telugu,English,Bengali
+Student_48,Information Technology,2024,Non-binary,JavaScript,Java,React,Music,Machine Learning,UI/UX Design,Painting,Singing,Dancing,72,88,Entrepreneurship,LTI Mindtree,Final Year Project,Hindi,Marathi,Telugu
+Student_49,Mechanical,2026,Female,DBMS,CSS,Java,Machine Learning,Music,UI/UX Design,Singing,Painting,Reading,93,66,Entrepreneurship,Infosys,Final Year Project,Tamil,English,Telugu
+Student_50,Mechanical,2027,Female,Node.js,HTML,CSS,Machine Learning,Music,Sports,Singing,Gardening,Cricket,97,98,Good Job Placement,Wipro,Final Year Project,Bengali,Tamil,Hindi
+Student_51,Information Technology,2025,Male,HTML,DBMS,C++,Coding,Music,Drawing,Gardening,Cricket,Singing,76,70,Good Job Placement,LTI Mindtree,Internship,Marathi,Telugu,English
+Student_52,Electronics,2026,Female,C++,HTML,JavaScript,Drawing,Data Science,Machine Learning,Dancing,Painting,Cricket,86,86,Good Job Placement,Infosys,Internship,Marathi,English,Telugu
+Student_53,Electronics,2025,Male,JavaScript,Node.js,React,Machine Learning,Music,Sports,Reading,Gardening,Football,67,63,Higher Studies,EPAM,Internship,Bengali,Tamil,Telugu
+Student_54,Information Technology,2026,Non-binary,DBMS,Node.js,React,UI/UX Design,Drawing,Coding,Cricket,Football,Dancing,84,77,Good Job Placement,EPAM,Internship,Marathi,Tamil,Bengali
+Student_55,Information Technology,2026,Male,JavaScript,Node.js,Java,Music,Data Science,Sports,Dancing,Cricket,Reading,77,64,Entrepreneurship,Microsoft,Internship,English,Tamil,Telugu
+Student_56,Information Technology,2026,Female,C++,Python,Node.js,Data Science,Gaming,Coding,Dancing,Gardening,Cricket,60,82,Higher Studies,Amazon,Final Year Project,Telugu,Marathi,Hindi
+Student_57,Computer Science,2027,Non-binary,React,JavaScript,Java,Sports,Music,Data Science,Singing,Reading,Football,74,62,Entrepreneurship,TCS,Final Year Project,Hindi,Telugu,Marathi
+Student_58,Mechanical,2023,Female,DBMS,CSS,HTML,Music,Machine Learning,Drawing,Football,Singing,Gardening,69,92,Good Job Placement,Amazon,Personal Project,Bengali,Marathi,Telugu
+Student_59,Computer Science,2024,Male,C++,React,JavaScript,Sports,Music,Gaming,Cricket,Yoga,Reading,67,76,Higher Studies,Microsoft,Personal Project,Marathi,Bengali,Hindi
+Student_60,Information Technology,2025,Male,Node.js,JavaScript,Python,Sports,Coding,Music,Singing,Yoga,Football,81,79,Good Job Placement,Amazon,Personal Project,Tamil,Bengali,Telugu
+Student_61,Mechanical,2025,Non-binary,CSS,DBMS,Java,Gaming,Drawing,Coding,Reading,Cricket,Football,74,100,Higher Studies,EPAM,Final Year Project,Telugu,Hindi,English
+Student_62,Information Technology,2023,Female,SQL,HTML,Python,Sports,Gaming,Music,Cricket,Singing,Reading,70,72,Good Job Placement,LTI Mindtree,Internship,Marathi,Hindi,Telugu
+Student_63,Electronics,2026,Non-binary,JavaScript,DBMS,React,Coding,Data Science,Music,Painting,Singing,Gardening,100,81,Entrepreneurship,EPAM,Final Year Project,Tamil,Marathi,Telugu
+Student_64,Civil,2025,Non-binary,HTML,CSS,DBMS,Data Science,Coding,Drawing,Painting,Dancing,Yoga,62,97,Entrepreneurship,Microsoft,Personal Project,Bengali,Tamil,Hindi
+Student_65,Civil,2023,Male,Node.js,C++,HTML,Gaming,Coding,Music,Singing,Reading,Cricket,70,61,Entrepreneurship,Google,Internship,English,Marathi,Bengali
+Student_66,Information Technology,2026,Male,C++,React,DBMS,Machine Learning,UI/UX Design,Drawing,Reading,Cricket,Football,87,83,Higher Studies,Wipro,Final Year Project,Marathi,English,Bengali
+Student_67,Information Technology,2023,Non-binary,Node.js,HTML,DBMS,Coding,Music,Sports,Dancing,Singing,Yoga,81,62,Higher Studies,EPAM,Internship,Bengali,Telugu,Hindi
+Student_68,Computer Science,2025,Non-binary,C++,Python,React,Music,Gaming,Coding,Reading,Cricket,Painting,95,92,Entrepreneurship,Microsoft,Final Year Project,Hindi,Bengali,Marathi
+Student_69,Civil,2026,Non-binary,C++,JavaScript,React,Drawing,UI/UX Design,Gaming,Cricket,Yoga,Reading,91,92,Entrepreneurship,Microsoft,Internship,English,Marathi,Bengali
+Student_70,Computer Science,2024,Female,Java,HTML,CSS,UI/UX Design,Drawing,Gaming,Reading,Cricket,Gardening,99,74,Higher Studies,Infosys,Personal Project,Bengali,Marathi,Telugu
+Student_71,Computer Science,2026,Non-binary,SQL,JavaScript,Node.js,Sports,Data Science,UI/UX Design,Cricket,Singing,Dancing,76,75,Higher Studies,Google,Final Year Project,English,Bengali,Marathi
+Student_72,Electronics,2025,Non-binary,Java,Node.js,Python,Coding,Data Science,Machine Learning,Dancing,Gardening,Painting,72,74,Entrepreneurship,Amazon,Personal Project,Telugu,Marathi,English
+Student_73,Electronics,2027,Male,DBMS,React,Java,Gaming,Coding,Data Science,Dancing,Football,Cricket,63,94,Higher Studies,LTI Mindtree,Personal Project,Bengali,English,Marathi
+Student_74,Information Technology,2025,Non-binary,Python,DBMS,SQL,Music,UI/UX Design,Sports,Singing,Football,Dancing,71,65,Higher Studies,TCS,Internship,Tamil,Marathi,English
+Student_75,Mechanical,2025,Female,React,HTML,CSS,Coding,Drawing,Data Science,Cricket,Singing,Painting,80,81,Higher Studies,TCS,Personal Project,Hindi,English,Telugu
+Student_76,Information Technology,2026,Non-binary,HTML,JavaScript,Java,Drawing,Data Science,Gaming,Reading,Dancing,Singing,87,66,Good Job Placement,Google,Internship,Hindi,Telugu,Marathi
+Student_77,Computer Science,2024,Non-binary,Python,DBMS,Node.js,Music,Machine Learning,Coding,Gardening,Singing,Dancing,81,94,Entrepreneurship,EPAM,Internship,Hindi,Marathi,Tamil
+Student_78,Electronics,2024,Non-binary,React,SQL,Node.js,Coding,Drawing,Music,Reading,Gardening,Yoga,60,72,Higher Studies,Microsoft,Internship,Telugu,Bengali,English
+Student_79,Computer Science,2026,Female,C++,Java,CSS,Music,Data Science,Gaming,Gardening,Football,Reading,90,92,Entrepreneurship,Microsoft,Internship,Marathi,Telugu,Bengali
+Student_80,Information Technology,2024,Non-binary,SQL,HTML,C++,Music,Coding,Machine Learning,Reading,Gardening,Singing,64,67,Entrepreneurship,EPAM,Personal Project,Hindi,Telugu,English
+Student_81,Computer Science,2024,Male,Node.js,DBMS,SQL,Machine Learning,Music,Data Science,Dancing,Reading,Cricket,85,86,Higher Studies,EPAM,Personal Project,Marathi,Bengali,Telugu
+Student_82,Information Technology,2024,Male,React,Node.js,C++,Sports,Machine Learning,Music,Painting,Yoga,Football,92,69,Entrepreneurship,Wipro,Internship,Bengali,Tamil,English
+Student_83,Mechanical,2027,Male,Java,Python,SQL,Machine Learning,Data Science,Music,Yoga,Painting,Football,76,82,Higher Studies,Wipro,Internship,English,Hindi,Telugu
+Student_84,Information Technology,2024,Female,Python,Node.js,Java,Coding,UI/UX Design,Machine Learning,Painting,Reading,Cricket,90,72,Entrepreneurship,Wipro,Final Year Project,English,Tamil,Telugu
+Student_85,Electronics,2023,Female,Node.js,Python,Java,Gaming,Music,Machine Learning,Singing,Football,Painting,86,81,Good Job Placement,LTI Mindtree,Personal Project,English,Bengali,Marathi
+Student_86,Mechanical,2027,Female,DBMS,SQL,Node.js,Drawing,Data Science,Music,Reading,Singing,Cricket,63,64,Good Job Placement,Google,Internship,Marathi,Telugu,Hindi
+Student_87,Mechanical,2026,Male,JavaScript,React,C++,Machine Learning,Gaming,Data Science,Reading,Cricket,Gardening,77,99,Higher Studies,LTI Mindtree,Internship,Marathi,Tamil,Bengali
+Student_88,Information Technology,2023,Male,SQL,Python,Java,Sports,Machine Learning,Data Science,Singing,Cricket,Painting,61,62,Good Job Placement,EPAM,Internship,Tamil,English,Bengali
+Student_89,Information Technology,2024,Non-binary,C++,CSS,Java,Sports,Music,UI/UX Design,Gardening,Singing,Cricket,86,94,Higher Studies,Google,Final Year Project,English,Hindi,Bengali
+Student_90,Information Technology,2026,Male,SQL,Node.js,HTML,Music,Gaming,Data Science,Yoga,Singing,Reading,93,90,Entrepreneurship,Google,Internship,Tamil,English,Hindi
+Student_91,Computer Science,2026,Male,React,Node.js,SQL,Machine Learning,Music,Drawing,Yoga,Painting,Football,85,66,Higher Studies,Google,Personal Project,Bengali,English,Tamil
+Student_92,Mechanical,2023,Non-binary,DBMS,CSS,Python,Data Science,Music,Coding,Singing,Reading,Painting,88,74,Entrepreneurship,Wipro,Personal Project,Bengali,Tamil,Hindi
+Student_93,Computer Science,2025,Male,SQL,CSS,DBMS,Drawing,Music,Coding,Singing,Gardening,Football,88,97,Higher Studies,TCS,Personal Project,Hindi,Tamil,Bengali
+Student_94,Information Technology,2024,Male,DBMS,JavaScript,C++,Music,Drawing,UI/UX Design,Reading,Yoga,Singing,74,92,Good Job Placement,TCS,Final Year Project,Tamil,Bengali,English
+Student_95,Computer Science,2027,Male,Node.js,CSS,JavaScript,Sports,Machine Learning,UI/UX Design,Gardening,Painting,Dancing,76,66,Higher Studies,Google,Internship,Hindi,Marathi,English
+Student_96,Mechanical,2025,Non-binary,CSS,C++,Node.js,Gaming,Drawing,Music,Cricket,Singing,Painting,72,97,Entrepreneurship,Amazon,Personal Project,English,Tamil,Telugu
+Student_97,Mechanical,2024,Female,CSS,Java,SQL,Gaming,Machine Learning,Data Science,Cricket,Football,Reading,70,97,Good Job Placement,Wipro,Final Year Project,Telugu,Hindi,Tamil
+Student_98,Electronics,2026,Female,Java,React,CSS,Machine Learning,Gaming,Sports,Painting,Cricket,Dancing,84,96,Higher Studies,Amazon,Final Year Project,Hindi,English,Bengali
+Student_99,Electronics,2027,Non-binary,HTML,JavaScript,CSS,Coding,Machine Learning,UI/UX Design,Football,Reading,Singing,95,95,Good Job Placement,Microsoft,Personal Project,Marathi,Hindi,Telugu
+Student_100,Information Technology,2025,Female,DBMS,Python,SQL,Music,Drawing,Sports,Reading,Cricket,Singing,79,85,Good Job Placement,TCS,Final Year Project,Marathi,Telugu,Tamil
+Student_101,Information Technology,2023,Male,SQL,DBMS,Node.js,Data Science,Coding,Gaming,Gardening,Dancing,Reading,79,95,Good Job Placement,Infosys,Internship,Telugu,Tamil,Bengali
+Student_102,Mechanical,2026,Non-binary,Java,Python,DBMS,Music,Coding,Sports,Yoga,Football,Cricket,75,69,Higher Studies,Google,Personal Project,Marathi,Bengali,Hindi
+Student_103,Civil,2024,Female,HTML,CSS,DBMS,Gaming,Music,Machine Learning,Football,Dancing,Gardening,74,75,Good Job Placement,LTI Mindtree,Final Year Project,Bengali,English,Hindi
+Student_104,Mechanical,2027,Male,CSS,JavaScript,React,Music,Machine Learning,UI/UX Design,Yoga,Football,Gardening,82,78,Good Job Placement,Google,Final Year Project,Bengali,Telugu,Hindi
+Student_105,Computer Science,2026,Non-binary,DBMS,CSS,React,Gaming,UI/UX Design,Data Science,Singing,Dancing,Football,76,73,Entrepreneurship,Wipro,Personal Project,Hindi,Telugu,English
+Student_106,Civil,2024,Female,CSS,Java,DBMS,Coding,Sports,Drawing,Gardening,Yoga,Singing,82,99,Entrepreneurship,Google,Internship,Hindi,Telugu,English
+Student_107,Civil,2023,Non-binary,CSS,SQL,Node.js,Coding,Music,Machine Learning,Yoga,Gardening,Painting,61,79,Good Job Placement,Google,Personal Project,Tamil,English,Telugu
+Student_108,Electronics,2023,Non-binary,Java,Node.js,C++,Machine Learning,Music,Coding,Dancing,Cricket,Painting,84,88,Entrepreneurship,Google,Internship,Telugu,Bengali,English
+Student_109,Computer Science,2025,Female,React,SQL,CSS,UI/UX Design,Data Science,Machine Learning,Singing,Football,Reading,82,82,Higher Studies,Microsoft,Internship,Marathi,Hindi,English
+Student_110,Mechanical,2026,Female,JavaScript,C++,Java,UI/UX Design,Sports,Music,Singing,Painting,Yoga,73,71,Good Job Placement,Amazon,Personal Project,Telugu,Marathi,Bengali
+Student_111,Computer Science,2024,Female,HTML,DBMS,C++,Coding,Data Science,UI/UX Design,Cricket,Reading,Gardening,81,73,Good Job Placement,Infosys,Internship,Marathi,Bengali,English
+Student_112,Computer Science,2027,Female,SQL,Python,Node.js,Data Science,Music,Gaming,Dancing,Football,Singing,71,91,Higher Studies,EPAM,Internship,Bengali,Marathi,Telugu
+Student_113,Electronics,2027,Male,React,Node.js,SQL,Coding,Drawing,Music,Singing,Yoga,Reading,68,82,Higher Studies,LTI Mindtree,Internship,Tamil,Marathi,Telugu
+Student_114,Electronics,2024,Male,C++,Node.js,JavaScript,Gaming,Music,Machine Learning,Yoga,Painting,Gardening,68,72,Entrepreneurship,Google,Final Year Project,Bengali,Marathi,English
+Student_115,Electronics,2024,Male,Node.js,Java,DBMS,Data Science,Coding,Sports,Dancing,Cricket,Gardening,62,78,Good Job Placement,Microsoft,Personal Project,Bengali,Marathi,Hindi
+Student_116,Electronics,2024,Male,DBMS,SQL,Python,Coding,Data Science,Sports,Gardening,Football,Dancing,84,100,Entrepreneurship,TCS,Internship,Bengali,Marathi,Tamil
+Student_117,Electronics,2024,Female,React,Python,HTML,Music,Machine Learning,Gaming,Dancing,Painting,Reading,76,88,Entrepreneurship,Wipro,Personal Project,English,Marathi,Tamil
+Student_118,Electronics,2023,Female,HTML,SQL,C++,Gaming,Drawing,Machine Learning,Painting,Football,Yoga,83,64,Higher Studies,Microsoft,Internship,English,Telugu,Hindi
+Student_119,Mechanical,2023,Non-binary,CSS,React,Java,Drawing,Data Science,Gaming,Reading,Singing,Cricket,93,100,Good Job Placement,Wipro,Final Year Project,Bengali,Telugu,Hindi
+Student_120,Mechanical,2025,Male,C++,DBMS,Python,Music,Data Science,Machine Learning,Football,Yoga,Cricket,64,93,Entrepreneurship,TCS,Personal Project,Hindi,English,Bengali
+Student_121,Civil,2024,Male,HTML,Java,JavaScript,Sports,Data Science,Drawing,Painting,Gardening,Reading,64,61,Higher Studies,Infosys,Internship,English,Tamil,Bengali
+Student_122,Electronics,2024,Male,Python,JavaScript,Java,Music,Coding,Machine Learning,Cricket,Singing,Painting,86,60,Entrepreneurship,EPAM,Personal Project,Marathi,English,Hindi
+Student_123,Information Technology,2024,Male,Node.js,CSS,SQL,Gaming,Music,Machine Learning,Cricket,Gardening,Reading,80,62,Good Job Placement,TCS,Internship,Hindi,Tamil,Telugu
+Student_124,Electronics,2024,Female,Python,DBMS,Node.js,Gaming,Drawing,Data Science,Dancing,Reading,Yoga,96,75,Good Job Placement,Amazon,Personal Project,Telugu,Marathi,English
+Student_125,Civil,2024,Non-binary,React,DBMS,SQL,Machine Learning,Data Science,Gaming,Football,Cricket,Singing,72,77,Higher Studies,LTI Mindtree,Final Year Project,Tamil,Hindi,Marathi
+Student_126,Information Technology,2024,Non-binary,SQL,DBMS,Node.js,Sports,Gaming,Coding,Singing,Yoga,Painting,83,78,Entrepreneurship,Microsoft,Personal Project,Tamil,Marathi,Hindi
+Student_127,Computer Science,2024,Male,DBMS,Python,CSS,Drawing,Machine Learning,Coding,Yoga,Gardening,Cricket,65,72,Entrepreneurship,Microsoft,Final Year Project,Bengali,Telugu,Tamil
+Student_128,Information Technology,2026,Non-binary,DBMS,C++,SQL,Drawing,Gaming,Data Science,Football,Painting,Yoga,76,79,Good Job Placement,Wipro,Personal Project,Hindi,Marathi,English
+Student_129,Information Technology,2027,Male,Java,CSS,JavaScript,Data Science,UI/UX Design,Drawing,Dancing,Reading,Gardening,75,67,Higher Studies,Microsoft,Final Year Project,Bengali,Tamil,Telugu
+Student_130,Electronics,2023,Non-binary,CSS,C++,SQL,Music,Machine Learning,Data Science,Cricket,Football,Gardening,96,100,Higher Studies,TCS,Final Year Project,Bengali,Marathi,Tamil
+Student_131,Information Technology,2027,Male,Java,C++,CSS,Music,Coding,Gaming,Gardening,Dancing,Cricket,91,69,Good Job Placement,Wipro,Internship,Bengali,Tamil,Telugu
+Student_132,Civil,2025,Female,C++,Node.js,SQL,Machine Learning,Drawing,Music,Singing,Painting,Gardening,78,68,Good Job Placement,Amazon,Personal Project,Marathi,English,Bengali
+Student_133,Information Technology,2026,Female,React,Java,Python,Data Science,Music,UI/UX Design,Painting,Singing,Gardening,80,69,Entrepreneurship,Infosys,Personal Project,English,Marathi,Tamil
+Student_134,Civil,2027,Male,CSS,Java,C++,Sports,Coding,Music,Painting,Gardening,Reading,97,78,Good Job Placement,EPAM,Personal Project,Hindi,English,Bengali
+Student_135,Mechanical,2025,Female,Node.js,CSS,JavaScript,Coding,Gaming,Data Science,Cricket,Yoga,Painting,70,65,Good Job Placement,Wipro,Personal Project,Hindi,English,Bengali
+Student_136,Computer Science,2026,Male,JavaScript,CSS,SQL,Machine Learning,Music,Coding,Football,Gardening,Cricket,66,70,Good Job Placement,TCS,Internship,Hindi,Telugu,Bengali
+Student_137,Electronics,2023,Female,React,DBMS,Node.js,Gaming,Sports,Music,Painting,Singing,Reading,60,64,Higher Studies,Google,Internship,Telugu,Hindi,Bengali
+Student_138,Computer Science,2024,Female,Java,DBMS,SQL,Drawing,Sports,Machine Learning,Dancing,Yoga,Reading,67,61,Good Job Placement,EPAM,Internship,Marathi,Tamil,Bengali
+Student_139,Information Technology,2026,Non-binary,SQL,JavaScript,CSS,Drawing,Sports,Coding,Dancing,Football,Singing,89,67,Higher Studies,Amazon,Internship,Telugu,English,Bengali
+Student_140,Civil,2025,Male,JavaScript,DBMS,Node.js,UI/UX Design,Drawing,Data Science,Painting,Cricket,Singing,84,79,Higher Studies,EPAM,Personal Project,English,Bengali,Tamil
+Student_141,Mechanical,2027,Non-binary,React,JavaScript,Node.js,Data Science,Coding,Music,Yoga,Reading,Painting,70,93,Good Job Placement,Wipro,Internship,Bengali,Hindi,English
+Student_142,Information Technology,2027,Non-binary,Java,DBMS,HTML,Drawing,Coding,UI/UX Design,Cricket,Painting,Singing,61,92,Good Job Placement,Microsoft,Personal Project,English,Bengali,Tamil
+Student_143,Civil,2027,Non-binary,React,SQL,Node.js,UI/UX Design,Gaming,Data Science,Gardening,Football,Singing,62,63,Entrepreneurship,TCS,Internship,Hindi,English,Telugu
+Student_144,Electronics,2024,Male,HTML,Node.js,React,Music,Data Science,Gaming,Gardening,Football,Dancing,92,62,Entrepreneurship,Wipro,Internship,English,Telugu,Tamil
+Student_145,Mechanical,2026,Non-binary,HTML,DBMS,SQL,Drawing,Data Science,Music,Gardening,Dancing,Singing,80,66,Higher Studies,Microsoft,Personal Project,Bengali,English,Telugu
+Student_146,Civil,2026,Male,Node.js,CSS,React,Coding,UI/UX Design,Music,Cricket,Dancing,Gardening,62,74,Higher Studies,Google,Final Year Project,Marathi,Telugu,Tamil
+Student_147,Civil,2026,Non-binary,SQL,JavaScript,C++,Music,Gaming,Data Science,Singing,Painting,Gardening,83,67,Higher Studies,TCS,Personal Project,English,Tamil,Hindi
+Student_148,Computer Science,2025,Female,DBMS,JavaScript,HTML,Gaming,Sports,UI/UX Design,Gardening,Reading,Football,84,87,Higher Studies,Microsoft,Personal Project,Tamil,Marathi,Telugu
+Student_149,Civil,2027,Female,CSS,SQL,React,Gaming,Sports,Drawing,Yoga,Painting,Cricket,97,65,Higher Studies,Amazon,Personal Project,Telugu,English,Hindi
+Student_150,Electronics,2024,Non-binary,C++,Python,DBMS,Music,Coding,Data Science,Cricket,Reading,Gardening,83,72,Higher Studies,LTI Mindtree,Personal Project,Tamil,Marathi,Telugu
+Student_151,Electronics,2025,Female,HTML,CSS,JavaScript,Coding,Data Science,Music,Painting,Singing,Dancing,65,92,Entrepreneurship,LTI Mindtree,Internship,Marathi,Hindi,English
+Student_152,Computer Science,2027,Female,JavaScript,C++,Java,Gaming,Machine Learning,Data Science,Football,Dancing,Yoga,83,96,Good Job Placement,Amazon,Final Year Project,Marathi,Bengali,Tamil
+Student_153,Civil,2023,Non-binary,React,JavaScript,Python,Drawing,Data Science,Gaming,Painting,Football,Yoga,98,66,Entrepreneurship,Infosys,Internship,English,Hindi,Bengali
+Student_154,Information Technology,2026,Female,Node.js,JavaScript,React,UI/UX Design,Data Science,Drawing,Football,Yoga,Reading,60,89,Higher Studies,Infosys,Final Year Project,Hindi,Tamil,Marathi
+Student_155,Mechanical,2023,Male,C++,Java,Python,UI/UX Design,Machine Learning,Music,Football,Cricket,Dancing,63,66,Entrepreneurship,Amazon,Final Year Project,Bengali,Hindi,Tamil
+Student_156,Electronics,2023,Male,Java,Node.js,SQL,Data Science,Sports,Coding,Singing,Painting,Cricket,74,64,Entrepreneurship,Infosys,Internship,Telugu,English,Marathi
+Student_157,Information Technology,2023,Female,JavaScript,CSS,Java,Machine Learning,Gaming,Data Science,Cricket,Painting,Singing,68,74,Good Job Placement,LTI Mindtree,Personal Project,Telugu,English,Marathi
+Student_158,Computer Science,2026,Female,Python,React,HTML,Sports,Drawing,Data Science,Singing,Reading,Dancing,60,89,Good Job Placement,Google,Personal Project,Tamil,Telugu,Marathi
+Student_159,Computer Science,2023,Non-binary,HTML,Node.js,React,Sports,Coding,UI/UX Design,Gardening,Yoga,Singing,60,90,Higher Studies,TCS,Internship,Bengali,Tamil,Telugu
+Student_160,Computer Science,2027,Male,DBMS,Python,CSS,UI/UX Design,Music,Drawing,Singing,Painting,Gardening,89,61,Higher Studies,EPAM,Personal Project,Telugu,Hindi,Tamil
+Student_161,Electronics,2023,Female,Python,JavaScript,Java,Machine Learning,Sports,UI/UX Design,Singing,Cricket,Painting,90,80,Higher Studies,Microsoft,Internship,Hindi,Tamil,Bengali
+Student_162,Information Technology,2026,Non-binary,React,JavaScript,Java,Gaming,Music,Sports,Dancing,Football,Yoga,88,81,Entrepreneurship,Amazon,Personal Project,Tamil,Marathi,English
+Student_163,Computer Science,2027,Male,DBMS,HTML,Python,Data Science,UI/UX Design,Sports,Dancing,Reading,Yoga,71,73,Higher Studies,TCS,Internship,Telugu,Bengali,Tamil
+Student_164,Civil,2026,Non-binary,Java,React,C++,UI/UX Design,Data Science,Sports,Dancing,Yoga,Reading,65,70,Good Job Placement,EPAM,Internship,Bengali,Telugu,Tamil
+Student_165,Computer Science,2025,Male,Python,Node.js,C++,Machine Learning,Coding,Drawing,Painting,Singing,Reading,84,62,Entrepreneurship,TCS,Internship,Tamil,Bengali,English
+Student_166,Civil,2025,Non-binary,Python,React,Node.js,Music,Sports,Machine Learning,Football,Painting,Dancing,85,75,Entrepreneurship,LTI Mindtree,Final Year Project,Tamil,English,Bengali
+Student_167,Computer Science,2025,Male,C++,Node.js,CSS,Music,Machine Learning,Gaming,Dancing,Cricket,Yoga,67,71,Good Job Placement,Amazon,Final Year Project,Telugu,Marathi,Bengali
+Student_168,Mechanical,2023,Female,C++,Node.js,SQL,UI/UX Design,Gaming,Data Science,Reading,Dancing,Cricket,94,98,Entrepreneurship,Infosys,Final Year Project,Marathi,Hindi,English
+Student_169,Computer Science,2025,Male,Python,C++,HTML,Coding,Music,Data Science,Gardening,Reading,Football,93,70,Entrepreneurship,Microsoft,Personal Project,Marathi,Bengali,Tamil
+Student_170,Mechanical,2023,Male,JavaScript,Python,SQL,Machine Learning,Data Science,Music,Football,Yoga,Painting,81,91,Higher Studies,TCS,Personal Project,Telugu,Bengali,Hindi
+Student_171,Information Technology,2027,Non-binary,HTML,Node.js,CSS,UI/UX Design,Machine Learning,Music,Yoga,Reading,Singing,92,81,Good Job Placement,Infosys,Internship,Marathi,Bengali,English
+Student_172,Computer Science,2025,Male,Java,JavaScript,SQL,Drawing,Coding,Machine Learning,Cricket,Yoga,Singing,83,74,Good Job Placement,Amazon,Personal Project,Hindi,Bengali,Marathi
+Student_173,Information Technology,2023,Female,Java,React,JavaScript,UI/UX Design,Data Science,Machine Learning,Cricket,Painting,Reading,86,89,Entrepreneurship,LTI Mindtree,Internship,English,Marathi,Bengali
+Student_174,Civil,2024,Non-binary,C++,SQL,HTML,Data Science,Sports,UI/UX Design,Yoga,Reading,Singing,75,82,Good Job Placement,Amazon,Final Year Project,Bengali,Marathi,Tamil
+Student_175,Information Technology,2027,Female,DBMS,Python,C++,Coding,Machine Learning,Data Science,Football,Singing,Yoga,78,86,Higher Studies,Microsoft,Final Year Project,English,Telugu,Marathi
+Student_176,Information Technology,2027,Male,DBMS,Java,C++,Machine Learning,UI/UX Design,Gaming,Painting,Cricket,Yoga,74,79,Higher Studies,Microsoft,Final Year Project,Tamil,Marathi,Hindi
+Student_177,Electronics,2024,Female,SQL,Java,CSS,Sports,Drawing,Data Science,Dancing,Painting,Reading,90,73,Higher Studies,Microsoft,Final Year Project,Telugu,English,Bengali
+Student_178,Mechanical,2024,Male,Java,SQL,CSS,Coding,Data Science,Drawing,Dancing,Singing,Reading,74,68,Higher Studies,Google,Final Year Project,Bengali,Telugu,Marathi
+Student_179,Information Technology,2025,Male,DBMS,JavaScript,HTML,Machine Learning,Data Science,UI/UX Design,Football,Dancing,Reading,93,65,Good Job Placement,Infosys,Internship,Marathi,Hindi,Bengali
+Student_180,Civil,2025,Non-binary,SQL,DBMS,Java,Machine Learning,Sports,Gaming,Dancing,Singing,Painting,71,71,Higher Studies,EPAM,Final Year Project,Bengali,Hindi,Tamil
+Student_181,Electronics,2024,Female,C++,JavaScript,CSS,Drawing,Sports,UI/UX Design,Yoga,Cricket,Gardening,85,100,Good Job Placement,Google,Personal Project,English,Marathi,Telugu
+Student_182,Information Technology,2024,Non-binary,HTML,Java,JavaScript,Gaming,Machine Learning,Data Science,Gardening,Reading,Yoga,85,66,Good Job Placement,Microsoft,Personal Project,Bengali,Telugu,Hindi
+Student_183,Electronics,2024,Non-binary,CSS,DBMS,Python,Sports,Machine Learning,Data Science,Cricket,Dancing,Singing,63,77,Good Job Placement,TCS,Internship,English,Telugu,Bengali
+Student_184,Computer Science,2024,Non-binary,Node.js,DBMS,Java,Music,Sports,Coding,Yoga,Reading,Painting,99,96,Entrepreneurship,Infosys,Final Year Project,Tamil,Telugu,Marathi
+Student_185,Information Technology,2024,Female,SQL,Node.js,HTML,Gaming,Coding,Music,Painting,Reading,Football,89,65,Higher Studies,Wipro,Internship,Tamil,Telugu,Hindi
+Student_186,Computer Science,2023,Female,Python,Node.js,Java,Drawing,Data Science,Music,Singing,Gardening,Yoga,69,71,Entrepreneurship,Amazon,Personal Project,Bengali,Tamil,Telugu
+Student_187,Civil,2023,Male,Python,DBMS,C++,Sports,Music,Data Science,Singing,Yoga,Reading,99,99,Entrepreneurship,Amazon,Personal Project,Hindi,Telugu,Marathi
+Student_188,Civil,2023,Male,CSS,React,HTML,Coding,UI/UX Design,Machine Learning,Painting,Reading,Cricket,91,66,Good Job Placement,EPAM,Personal Project,Tamil,Marathi,Bengali
+Student_189,Information Technology,2027,Non-binary,JavaScript,C++,SQL,Coding,Sports,Machine Learning,Reading,Cricket,Singing,60,94,Higher Studies,Microsoft,Final Year Project,Bengali,English,Telugu
+Student_190,Mechanical,2027,Female,JavaScript,Python,DBMS,Machine Learning,Music,UI/UX Design,Dancing,Reading,Painting,70,77,Entrepreneurship,Google,Final Year Project,English,Hindi,Telugu
+Student_191,Information Technology,2026,Female,CSS,React,HTML,UI/UX Design,Gaming,Machine Learning,Dancing,Reading,Yoga,79,60,Entrepreneurship,EPAM,Internship,Bengali,Telugu,English
+Student_192,Electronics,2026,Non-binary,HTML,JavaScript,SQL,UI/UX Design,Gaming,Data Science,Gardening,Football,Reading,69,81,Entrepreneurship,Google,Final Year Project,Bengali,Marathi,Tamil
+Student_193,Computer Science,2023,Male,SQL,HTML,Node.js,Music,Sports,Coding,Reading,Yoga,Football,99,100,Entrepreneurship,TCS,Internship,English,Bengali,Marathi
+Student_194,Information Technology,2027,Female,Python,HTML,Node.js,Gaming,UI/UX Design,Coding,Gardening,Dancing,Singing,96,82,Good Job Placement,Infosys,Final Year Project,English,Bengali,Telugu
+Student_195,Information Technology,2027,Female,JavaScript,Java,SQL,Music,Sports,Data Science,Football,Cricket,Reading,83,77,Good Job Placement,LTI Mindtree,Internship,Marathi,Telugu,Hindi
+Student_196,Computer Science,2023,Female,Node.js,JavaScript,HTML,Gaming,Sports,Data Science,Reading,Painting,Gardening,71,63,Entrepreneurship,Google,Final Year Project,Hindi,Marathi,Telugu
+Student_197,Computer Science,2023,Male,Node.js,HTML,CSS,Coding,Machine Learning,UI/UX Design,Cricket,Reading,Painting,61,95,Entrepreneurship,TCS,Internship,Tamil,Marathi,Hindi
+Student_198,Information Technology,2023,Female,JavaScript,SQL,DBMS,Coding,Drawing,UI/UX Design,Gardening,Singing,Cricket,83,72,Entrepreneurship,Infosys,Final Year Project,Tamil,Bengali,Marathi
+Student_199,Information Technology,2027,Male,Python,JavaScript,CSS,Coding,Drawing,Machine Learning,Gardening,Painting,Football,64,95,Higher Studies,Microsoft,Final Year Project,Telugu,Marathi,Tamil
+Student_200,Computer Science,2023,Non-binary,CSS,Node.js,JavaScript,Sports,Music,Data Science,Yoga,Football,Reading,70,74,Higher Studies,Google,Internship,Telugu,Tamil,English
+Student_201,Mechanical,2026,Non-binary,Node.js,Java,Python,Data Science,Sports,UI/UX Design,Singing,Reading,Gardening,60,93,Entrepreneurship,TCS,Internship,English,Bengali,Hindi
+Student_202,Civil,2027,Non-binary,CSS,Python,SQL,UI/UX Design,Gaming,Sports,Dancing,Painting,Football,60,81,Good Job Placement,TCS,Personal Project,English,Marathi,Hindi
+Student_203,Mechanical,2025,Female,Java,DBMS,CSS,Drawing,Music,Sports,Painting,Dancing,Yoga,92,92,Higher Studies,EPAM,Personal Project,Telugu,Bengali,English
+Student_204,Civil,2025,Male,JavaScript,SQL,Node.js,Gaming,UI/UX Design,Sports,Painting,Singing,Dancing,89,74,Good Job Placement,Infosys,Personal Project,English,Tamil,Marathi
+Student_205,Information Technology,2025,Non-binary,Java,Python,SQL,Machine Learning,Coding,Drawing,Gardening,Cricket,Singing,65,70,Entrepreneurship,Wipro,Personal Project,Telugu,Tamil,Bengali
+Student_206,Civil,2023,Male,HTML,SQL,JavaScript,Sports,Music,UI/UX Design,Cricket,Reading,Singing,64,79,Higher Studies,LTI Mindtree,Internship,English,Telugu,Tamil
+Student_207,Computer Science,2026,Non-binary,Java,DBMS,React,Machine Learning,Music,UI/UX Design,Painting,Yoga,Singing,82,95,Good Job Placement,Amazon,Personal Project,Telugu,Marathi,Bengali
+Student_208,Computer Science,2025,Female,C++,JavaScript,HTML,Sports,Machine Learning,UI/UX Design,Dancing,Football,Gardening,67,84,Higher Studies,Amazon,Final Year Project,Tamil,Marathi,English
+Student_209,Civil,2027,Male,JavaScript,Java,CSS,Gaming,Data Science,UI/UX Design,Gardening,Cricket,Dancing,71,71,Good Job Placement,Microsoft,Personal Project,Bengali,Marathi,Tamil
+Student_210,Mechanical,2024,Non-binary,SQL,C++,Node.js,UI/UX Design,Music,Coding,Singing,Football,Painting,81,72,Higher Studies,TCS,Final Year Project,Tamil,Hindi,Telugu
+Student_211,Information Technology,2025,Non-binary,CSS,JavaScript,HTML,UI/UX Design,Data Science,Music,Cricket,Gardening,Football,81,73,Entrepreneurship,LTI Mindtree,Internship,Marathi,Bengali,English
+Student_212,Computer Science,2024,Non-binary,Java,C++,CSS,Music,Sports,Gaming,Painting,Football,Yoga,98,90,Higher Studies,LTI Mindtree,Personal Project,English,Marathi,Telugu
+Student_213,Computer Science,2027,Male,C++,JavaScript,HTML,Data Science,Coding,Music,Painting,Reading,Dancing,72,98,Good Job Placement,Google,Internship,Marathi,Hindi,Bengali
+Student_214,Computer Science,2026,Non-binary,CSS,HTML,Python,Coding,Gaming,Machine Learning,Gardening,Singing,Cricket,70,62,Good Job Placement,Infosys,Internship,Bengali,English,Telugu
+Student_215,Computer Science,2023,Male,HTML,Python,React,Drawing,Music,UI/UX Design,Yoga,Dancing,Cricket,76,75,Higher Studies,Infosys,Personal Project,Tamil,English,Telugu
+Student_216,Computer Science,2023,Female,DBMS,CSS,HTML,Coding,Machine Learning,Sports,Yoga,Dancing,Cricket,91,82,Higher Studies,EPAM,Personal Project,English,Bengali,Marathi
+Student_217,Computer Science,2026,Female,C++,CSS,React,Machine Learning,Drawing,UI/UX Design,Dancing,Gardening,Cricket,97,96,Good Job Placement,Google,Internship,English,Telugu,Bengali
+Student_218,Electronics,2025,Female,React,Node.js,HTML,Gaming,Sports,Coding,Yoga,Singing,Football,72,99,Entrepreneurship,Wipro,Personal Project,Marathi,Tamil,English
+Student_219,Computer Science,2025,Male,Python,C++,JavaScript,Music,UI/UX Design,Drawing,Singing,Cricket,Gardening,63,94,Good Job Placement,LTI Mindtree,Final Year Project,Telugu,Marathi,Bengali
+Student_220,Mechanical,2024,Male,Python,CSS,Java,Coding,Drawing,Sports,Cricket,Reading,Singing,91,93,Entrepreneurship,Google,Internship,Marathi,Telugu,English
+Student_221,Information Technology,2024,Non-binary,JavaScript,Node.js,Python,Gaming,Drawing,Machine Learning,Yoga,Singing,Reading,86,97,Good Job Placement,Microsoft,Personal Project,Bengali,Tamil,Telugu
+Student_222,Mechanical,2026,Female,SQL,Node.js,JavaScript,Coding,Data Science,Machine Learning,Cricket,Football,Yoga,79,70,Entrepreneurship,TCS,Final Year Project,Marathi,English,Tamil
+Student_223,Electronics,2024,Male,HTML,Node.js,C++,Sports,Data Science,UI/UX Design,Dancing,Cricket,Football,89,67,Higher Studies,Infosys,Internship,Tamil,English,Bengali
+Student_224,Information Technology,2023,Male,Node.js,React,SQL,Sports,Music,Machine Learning,Reading,Yoga,Painting,98,86,Entrepreneurship,TCS,Internship,Hindi,Bengali,Marathi
+Student_225,Computer Science,2024,Non-binary,DBMS,CSS,Java,Sports,Coding,UI/UX Design,Yoga,Dancing,Painting,81,78,Higher Studies,TCS,Internship,Tamil,Bengali,Telugu
+Student_226,Information Technology,2026,Male,JavaScript,HTML,React,Sports,Data Science,UI/UX Design,Painting,Yoga,Dancing,75,92,Good Job Placement,Amazon,Final Year Project,English,Tamil,Marathi
+Student_227,Mechanical,2025,Non-binary,Node.js,SQL,JavaScript,Drawing,Gaming,Coding,Dancing,Football,Gardening,61,94,Higher Studies,LTI Mindtree,Final Year Project,English,Telugu,Hindi
+Student_228,Mechanical,2024,Male,React,SQL,C++,Drawing,Gaming,UI/UX Design,Singing,Cricket,Yoga,90,86,Higher Studies,LTI Mindtree,Personal Project,Tamil,Bengali,Telugu
+Student_229,Electronics,2025,Male,JavaScript,Python,C++,Gaming,Coding,UI/UX Design,Yoga,Singing,Dancing,60,66,Entrepreneurship,Wipro,Final Year Project,Marathi,Telugu,Tamil
+Student_230,Electronics,2023,Male,React,Node.js,JavaScript,UI/UX Design,Sports,Drawing,Gardening,Cricket,Painting,87,99,Entrepreneurship,Google,Final Year Project,Hindi,English,Tamil
+Student_231,Computer Science,2026,Non-binary,SQL,React,DBMS,UI/UX Design,Music,Drawing,Reading,Gardening,Singing,60,94,Higher Studies,Google,Final Year Project,Bengali,Marathi,Hindi
+Student_232,Electronics,2027,Female,JavaScript,Python,HTML,Coding,Sports,UI/UX Design,Painting,Football,Yoga,62,70,Higher Studies,Infosys,Final Year Project,Bengali,Telugu,Tamil
+Student_233,Electronics,2026,Male,Java,React,Node.js,Coding,Gaming,Sports,Singing,Gardening,Cricket,60,75,Entrepreneurship,Wipro,Personal Project,Marathi,Telugu,English
+Student_234,Electronics,2023,Non-binary,DBMS,Java,SQL,Data Science,Gaming,Sports,Football,Dancing,Yoga,92,74,Good Job Placement,Amazon,Final Year Project,Telugu,Hindi,Marathi
+Student_235,Electronics,2027,Female,Python,C++,SQL,Data Science,Drawing,Coding,Football,Dancing,Reading,68,84,Good Job Placement,Microsoft,Personal Project,Hindi,Marathi,Tamil
+Student_236,Computer Science,2027,Male,CSS,React,Node.js,Gaming,Machine Learning,Coding,Dancing,Football,Reading,97,86,Good Job Placement,Infosys,Personal Project,Bengali,Marathi,Telugu
+Student_237,Mechanical,2023,Male,C++,Python,Node.js,Sports,Machine Learning,Data Science,Painting,Football,Dancing,86,83,Higher Studies,Google,Internship,Marathi,Telugu,Tamil
+Student_238,Computer Science,2027,Female,CSS,Java,C++,Machine Learning,Coding,Sports,Gardening,Dancing,Football,83,80,Higher Studies,EPAM,Internship,Tamil,Hindi,English
+Student_239,Electronics,2027,Female,Python,HTML,C++,Coding,UI/UX Design,Machine Learning,Yoga,Singing,Painting,62,73,Higher Studies,Google,Personal Project,Bengali,Marathi,Hindi
+Student_240,Computer Science,2025,Female,SQL,C++,Python,UI/UX Design,Drawing,Sports,Reading,Cricket,Dancing,79,69,Higher Studies,Wipro,Personal Project,Bengali,English,Telugu
+Student_241,Mechanical,2025,Male,Node.js,C++,HTML,Music,Drawing,Gaming,Painting,Reading,Football,60,79,Good Job Placement,TCS,Final Year Project,Telugu,Tamil,Hindi
+Student_242,Computer Science,2024,Female,React,CSS,SQL,Gaming,UI/UX Design,Music,Football,Dancing,Gardening,97,89,Good Job Placement,LTI Mindtree,Personal Project,Hindi,Telugu,Tamil
+Student_243,Electronics,2026,Non-binary,Node.js,Python,DBMS,Drawing,Gaming,Music,Yoga,Dancing,Cricket,91,81,Good Job Placement,Google,Internship,Bengali,Telugu,English
+Student_244,Civil,2025,Female,SQL,HTML,CSS,Gaming,Coding,Music,Cricket,Yoga,Dancing,61,62,Higher Studies,Infosys,Internship,Hindi,Telugu,English
+Student_245,Computer Science,2023,Female,Java,Python,SQL,Coding,Gaming,Sports,Reading,Cricket,Singing,81,77,Good Job Placement,Wipro,Final Year Project,Marathi,English,Bengali
+Student_246,Information Technology,2024,Male,Python,React,Node.js,Drawing,UI/UX Design,Gaming,Yoga,Football,Gardening,96,69,Good Job Placement,Infosys,Personal Project,English,Telugu,Marathi
+Student_247,Electronics,2025,Female,React,SQL,JavaScript,Drawing,Data Science,Coding,Cricket,Painting,Gardening,62,84,Entrepreneurship,Microsoft,Personal Project,Hindi,Marathi,Tamil
+Student_248,Information Technology,2024,Non-binary,JavaScript,Python,CSS,Coding,Drawing,Gaming,Painting,Gardening,Singing,66,65,Entrepreneurship,Amazon,Internship,English,Bengali,Tamil
+Student_249,Information Technology,2026,Male,SQL,HTML,Python,Gaming,Coding,Machine Learning,Gardening,Reading,Dancing,82,77,Higher Studies,Infosys,Internship,Hindi,English,Bengali
+Student_250,Mechanical,2027,Non-binary,CSS,DBMS,SQL,Data Science,Music,Drawing,Singing,Football,Dancing,87,79,Good Job Placement,Wipro,Final Year Project,English,Hindi,Marathi
+Student_251,Information Technology,2025,Female,JavaScript,React,CSS,Sports,Data Science,UI/UX Design,Singing,Reading,Dancing,85,86,Higher Studies,EPAM,Internship,English,Tamil,Bengali
+Student_252,Information Technology,2027,Female,CSS,SQL,C++,Sports,Gaming,Machine Learning,Cricket,Yoga,Football,79,75,Entrepreneurship,TCS,Final Year Project,Telugu,Bengali,English
+Student_253,Civil,2024,Non-binary,React,Java,HTML,Sports,Data Science,Drawing,Yoga,Cricket,Gardening,99,65,Entrepreneurship,Microsoft,Final Year Project,Tamil,Hindi,English
+Student_254,Computer Science,2024,Male,React,CSS,SQL,Gaming,Coding,Sports,Singing,Reading,Cricket,76,74,Good Job Placement,Microsoft,Personal Project,Hindi,Tamil,Marathi
+Student_255,Civil,2026,Female,JavaScript,SQL,Node.js,Machine Learning,Gaming,Music,Cricket,Painting,Dancing,85,62,Higher Studies,EPAM,Internship,English,Bengali,Marathi
+Student_256,Computer Science,2023,Non-binary,DBMS,HTML,C++,Gaming,Music,Machine Learning,Singing,Football,Reading,76,65,Entrepreneurship,EPAM,Internship,Hindi,Tamil,Bengali
+Student_257,Mechanical,2023,Non-binary,Python,CSS,DBMS,Music,Sports,Data Science,Cricket,Singing,Dancing,70,96,Entrepreneurship,Wipro,Internship,Telugu,English,Hindi
+Student_258,Mechanical,2023,Male,React,SQL,Python,Drawing,Machine Learning,Music,Football,Cricket,Dancing,82,90,Entrepreneurship,Google,Final Year Project,Hindi,Telugu,Tamil
+Student_259,Computer Science,2025,Non-binary,Python,HTML,SQL,Coding,UI/UX Design,Music,Singing,Cricket,Gardening,69,71,Entrepreneurship,Infosys,Final Year Project,Marathi,Telugu,Tamil
+Student_260,Information Technology,2026,Male,Node.js,Python,JavaScript,UI/UX Design,Sports,Data Science,Football,Reading,Gardening,61,83,Entrepreneurship,EPAM,Personal Project,Bengali,Hindi,Telugu
+Student_261,Computer Science,2027,Female,DBMS,C++,SQL,Sports,Data Science,Coding,Cricket,Gardening,Reading,60,65,Good Job Placement,TCS,Final Year Project,Tamil,English,Telugu
+Student_262,Civil,2026,Female,React,Java,Node.js,Machine Learning,Coding,Drawing,Painting,Singing,Cricket,61,100,Good Job Placement,Wipro,Final Year Project,Marathi,Hindi,Telugu
+Student_263,Electronics,2023,Non-binary,Java,Node.js,DBMS,Drawing,UI/UX Design,Music,Singing,Painting,Cricket,71,92,Entrepreneurship,Infosys,Personal Project,Hindi,Tamil,Marathi
+Student_264,Computer Science,2027,Female,React,C++,HTML,Sports,Machine Learning,UI/UX Design,Cricket,Football,Gardening,62,72,Entrepreneurship,Infosys,Internship,Marathi,Tamil,English
+Student_265,Mechanical,2026,Male,Java,Node.js,DBMS,Data Science,UI/UX Design,Coding,Dancing,Reading,Singing,76,87,Higher Studies,EPAM,Final Year Project,Marathi,English,Telugu
+Student_266,Civil,2023,Non-binary,Java,Python,Node.js,Data Science,Sports,Music,Dancing,Singing,Cricket,69,78,Entrepreneurship,Wipro,Personal Project,Bengali,Marathi,Tamil
+Student_267,Computer Science,2025,Female,JavaScript,C++,SQL,Data Science,Drawing,Sports,Dancing,Reading,Yoga,63,73,Entrepreneurship,TCS,Internship,Tamil,Telugu,Marathi
+Student_268,Electronics,2024,Female,C++,Java,React,Drawing,Music,Data Science,Singing,Yoga,Dancing,82,84,Entrepreneurship,Infosys,Internship,Tamil,English,Telugu
+Student_269,Computer Science,2026,Female,Python,JavaScript,HTML,Gaming,Music,Sports,Painting,Football,Cricket,77,98,Higher Studies,Microsoft,Personal Project,Bengali,Hindi,English
+Student_270,Information Technology,2025,Male,Java,CSS,Node.js,Machine Learning,Gaming,UI/UX Design,Football,Yoga,Gardening,100,89,Entrepreneurship,Wipro,Final Year Project,Telugu,Marathi,Hindi
+Student_271,Computer Science,2027,Non-binary,Python,JavaScript,CSS,Sports,Music,Gaming,Painting,Yoga,Gardening,92,96,Entrepreneurship,Google,Internship,Tamil,Hindi,Marathi
+Student_272,Information Technology,2025,Male,CSS,DBMS,C++,UI/UX Design,Gaming,Sports,Painting,Yoga,Dancing,100,86,Entrepreneurship,Google,Final Year Project,Hindi,Tamil,Marathi
+Student_273,Mechanical,2024,Female,JavaScript,HTML,Node.js,Sports,Data Science,Machine Learning,Football,Reading,Dancing,70,74,Good Job Placement,Infosys,Final Year Project,Tamil,Marathi,English
+Student_274,Civil,2027,Non-binary,HTML,SQL,CSS,Gaming,Machine Learning,Sports,Cricket,Singing,Reading,82,71,Higher Studies,LTI Mindtree,Final Year Project,English,Marathi,Hindi
+Student_275,Computer Science,2023,Male,React,Python,Node.js,Gaming,Drawing,Music,Painting,Yoga,Singing,88,82,Higher Studies,EPAM,Final Year Project,Bengali,Tamil,English
+Student_276,Information Technology,2027,Female,HTML,DBMS,SQL,Machine Learning,Drawing,Sports,Yoga,Cricket,Singing,72,76,Entrepreneurship,Microsoft,Internship,Bengali,Telugu,English
+Student_277,Electronics,2025,Female,Python,C++,SQL,Drawing,Coding,Data Science,Reading,Football,Cricket,73,100,Entrepreneurship,Google,Personal Project,Tamil,Marathi,Hindi
+Student_278,Mechanical,2024,Male,Python,JavaScript,HTML,Sports,Gaming,Data Science,Football,Painting,Gardening,98,81,Good Job Placement,LTI Mindtree,Personal Project,Telugu,Marathi,Hindi
+Student_279,Information Technology,2026,Male,DBMS,Java,JavaScript,Drawing,Coding,Sports,Football,Reading,Singing,63,89,Entrepreneurship,Wipro,Personal Project,Marathi,Tamil,English
+Student_280,Mechanical,2024,Female,JavaScript,CSS,C++,UI/UX Design,Data Science,Music,Yoga,Dancing,Singing,93,99,Entrepreneurship,Amazon,Internship,Hindi,Marathi,Tamil
+Student_281,Mechanical,2023,Non-binary,JavaScript,HTML,Node.js,Data Science,Gaming,Machine Learning,Football,Singing,Dancing,76,80,Entrepreneurship,Google,Personal Project,English,Bengali,Telugu
+Student_282,Information Technology,2024,Female,C++,Python,HTML,Data Science,UI/UX Design,Drawing,Dancing,Painting,Reading,89,91,Entrepreneurship,LTI Mindtree,Final Year Project,Tamil,Telugu,Bengali
+Student_283,Computer Science,2024,Male,React,C++,Java,Sports,Drawing,Gaming,Football,Painting,Gardening,89,79,Entrepreneurship,EPAM,Final Year Project,Marathi,Hindi,English
+Student_284,Civil,2025,Female,CSS,React,Python,Coding,Machine Learning,Gaming,Cricket,Yoga,Painting,92,87,Good Job Placement,EPAM,Personal Project,Marathi,Telugu,English
+Student_285,Civil,2027,Male,Node.js,Java,CSS,Sports,Gaming,Coding,Singing,Gardening,Cricket,82,73,Entrepreneurship,EPAM,Internship,English,Bengali,Tamil
+Student_286,Electronics,2027,Female,C++,Java,JavaScript,Drawing,Sports,Machine Learning,Singing,Football,Yoga,82,73,Higher Studies,Wipro,Internship,English,Hindi,Bengali
+Student_287,Mechanical,2023,Female,React,Python,C++,Music,UI/UX Design,Sports,Reading,Yoga,Singing,61,66,Good Job Placement,TCS,Final Year Project,Hindi,Bengali,English
+Student_288,Electronics,2026,Female,JavaScript,Python,React,Gaming,Music,UI/UX Design,Dancing,Singing,Yoga,99,91,Good Job Placement,LTI Mindtree,Final Year Project,Bengali,Marathi,English
+Student_289,Information Technology,2024,Male,Python,JavaScript,SQL,Coding,Drawing,Gaming,Gardening,Football,Cricket,95,70,Higher Studies,Wipro,Personal Project,Tamil,Marathi,Hindi
+Student_290,Civil,2027,Non-binary,CSS,SQL,Java,Data Science,Machine Learning,Sports,Gardening,Reading,Dancing,82,63,Entrepreneurship,Microsoft,Final Year Project,Marathi,Bengali,Telugu
+Student_291,Mechanical,2025,Non-binary,C++,React,HTML,Data Science,Gaming,Sports,Gardening,Football,Dancing,67,63,Higher Studies,Microsoft,Personal Project,English,Tamil,Bengali
+Student_292,Electronics,2024,Male,Node.js,Python,JavaScript,Data Science,Music,UI/UX Design,Gardening,Dancing,Painting,67,61,Good Job Placement,Infosys,Final Year Project,Hindi,Bengali,Marathi
+Student_293,Mechanical,2024,Female,JavaScript,HTML,Java,Data Science,Coding,Drawing,Reading,Singing,Gardening,95,81,Good Job Placement,Amazon,Internship,Hindi,Telugu,Marathi
+Student_294,Civil,2027,Non-binary,C++,Python,JavaScript,Gaming,Drawing,Machine Learning,Singing,Gardening,Reading,62,80,Good Job Placement,Wipro,Personal Project,English,Tamil,Telugu
+Student_295,Computer Science,2027,Male,DBMS,Node.js,JavaScript,UI/UX Design,Machine Learning,Drawing,Cricket,Painting,Reading,77,81,Higher Studies,LTI Mindtree,Final Year Project,English,Bengali,Marathi
+Student_296,Information Technology,2026,Male,DBMS,Java,React,UI/UX Design,Drawing,Machine Learning,Yoga,Football,Gardening,86,86,Entrepreneurship,TCS,Final Year Project,Bengali,Hindi,English
+Student_297,Electronics,2024,Non-binary,HTML,React,DBMS,Machine Learning,Drawing,Data Science,Gardening,Reading,Singing,81,75,Entrepreneurship,Wipro,Personal Project,Telugu,Marathi,Tamil
+Student_298,Civil,2024,Non-binary,JavaScript,Java,SQL,Sports,UI/UX Design,Drawing,Football,Cricket,Painting,76,92,Higher Studies,Amazon,Final Year Project,English,Telugu,Marathi
+Student_299,Civil,2024,Male,SQL,C++,Java,Drawing,Gaming,UI/UX Design,Football,Cricket,Yoga,78,80,Entrepreneurship,LTI Mindtree,Internship,Marathi,Telugu,Bengali
+Student_300,Civil,2025,Non-binary,DBMS,Node.js,SQL,Drawing,Data Science,Music,Reading,Singing,Football,65,71,Higher Studies,Google,Final Year Project,Bengali,Telugu,Hindi
+Student_301,Civil,2025,Male,DBMS,Java,JavaScript,Machine Learning,Coding,Music,Singing,Gardening,Painting,80,88,Entrepreneurship,Microsoft,Final Year Project,Tamil,Telugu,Marathi
+Student_302,Computer Science,2027,Male,JavaScript,Java,React,Drawing,Machine Learning,Music,Painting,Reading,Dancing,86,100,Entrepreneurship,Google,Personal Project,Tamil,Telugu,Hindi
+Student_303,Information Technology,2027,Female,SQL,JavaScript,Python,Music,Gaming,Machine Learning,Football,Cricket,Yoga,62,90,Entrepreneurship,LTI Mindtree,Personal Project,Bengali,English,Marathi
+Student_304,Electronics,2024,Non-binary,SQL,HTML,Node.js,Machine Learning,Music,Coding,Dancing,Singing,Yoga,77,98,Good Job Placement,Microsoft,Personal Project,Telugu,Marathi,Bengali
+Student_305,Information Technology,2025,Female,DBMS,SQL,C++,Music,Data Science,Machine Learning,Cricket,Yoga,Dancing,85,63,Good Job Placement,Microsoft,Final Year Project,Telugu,Bengali,English
+Student_306,Electronics,2024,Female,C++,HTML,Java,Gaming,UI/UX Design,Music,Painting,Cricket,Gardening,65,66,Entrepreneurship,Google,Personal Project,Telugu,Marathi,Bengali
+Student_307,Information Technology,2023,Male,React,HTML,Python,Coding,UI/UX Design,Data Science,Cricket,Dancing,Painting,60,97,Good Job Placement,Google,Personal Project,English,Hindi,Tamil
+Student_308,Information Technology,2023,Male,JavaScript,React,SQL,Machine Learning,Sports,Music,Yoga,Painting,Dancing,69,63,Good Job Placement,Infosys,Final Year Project,Telugu,Bengali,Hindi
+Student_309,Electronics,2023,Female,Java,Node.js,Python,Sports,Music,Coding,Yoga,Reading,Singing,73,72,Higher Studies,Google,Personal Project,Bengali,Tamil,English
+Student_310,Computer Science,2023,Non-binary,Python,SQL,HTML,Sports,UI/UX Design,Music,Yoga,Cricket,Reading,85,63,Good Job Placement,Amazon,Final Year Project,Marathi,Tamil,English
+Student_311,Mechanical,2023,Non-binary,SQL,CSS,React,Gaming,Coding,Drawing,Cricket,Yoga,Gardening,76,100,Higher Studies,Infosys,Final Year Project,English,Bengali,Marathi
+Student_312,Civil,2023,Non-binary,Java,JavaScript,HTML,Drawing,Coding,Sports,Dancing,Football,Yoga,79,71,Entrepreneurship,Microsoft,Final Year Project,Tamil,Hindi,Telugu
+Student_313,Information Technology,2026,Non-binary,CSS,React,C++,Drawing,UI/UX Design,Music,Yoga,Singing,Reading,83,97,Higher Studies,Microsoft,Final Year Project,Marathi,Hindi,Telugu
+Student_314,Civil,2027,Female,DBMS,Java,React,Music,Gaming,Machine Learning,Singing,Dancing,Yoga,97,80,Higher Studies,Infosys,Final Year Project,English,Hindi,Bengali
+Student_315,Electronics,2025,Non-binary,DBMS,Python,CSS,Data Science,Gaming,Machine Learning,Dancing,Painting,Yoga,62,85,Higher Studies,Amazon,Final Year Project,Marathi,Bengali,Hindi
+Student_316,Information Technology,2024,Male,HTML,Python,Node.js,Music,Sports,Data Science,Reading,Yoga,Singing,84,86,Good Job Placement,Amazon,Personal Project,Telugu,English,Marathi
+Student_317,Mechanical,2025,Non-binary,SQL,CSS,JavaScript,Coding,UI/UX Design,Gaming,Reading,Singing,Gardening,96,78,Higher Studies,Amazon,Internship,Tamil,Bengali,English
+Student_318,Information Technology,2023,Non-binary,C++,React,DBMS,Data Science,Gaming,Drawing,Yoga,Singing,Gardening,79,74,Entrepreneurship,Google,Internship,Hindi,Bengali,Tamil
+Student_319,Electronics,2023,Male,React,C++,HTML,Data Science,Music,Coding,Gardening,Dancing,Yoga,86,97,Good Job Placement,Wipro,Internship,English,Hindi,Telugu
+Student_320,Mechanical,2023,Non-binary,HTML,CSS,React,UI/UX Design,Data Science,Coding,Football,Reading,Gardening,88,65,Entrepreneurship,EPAM,Internship,Telugu,Tamil,Marathi
+Student_321,Computer Science,2026,Male,Node.js,HTML,CSS,Sports,Coding,Machine Learning,Football,Dancing,Yoga,88,79,Good Job Placement,Infosys,Internship,English,Hindi,Tamil
+Student_322,Mechanical,2023,Non-binary,CSS,DBMS,Python,UI/UX Design,Music,Sports,Cricket,Gardening,Reading,92,97,Entrepreneurship,Wipro,Final Year Project,Tamil,English,Marathi
+Student_323,Computer Science,2023,Male,Java,Node.js,SQL,UI/UX Design,Data Science,Coding,Gardening,Football,Dancing,73,85,Good Job Placement,Wipro,Internship,Marathi,Bengali,English
+Student_324,Information Technology,2024,Female,HTML,CSS,Python,Coding,Gaming,UI/UX Design,Gardening,Football,Cricket,81,70,Higher Studies,Google,Internship,Bengali,Telugu,English
+Student_325,Mechanical,2024,Female,Java,SQL,C++,Data Science,UI/UX Design,Coding,Singing,Reading,Gardening,67,79,Good Job Placement,Amazon,Internship,Tamil,Telugu,Hindi
+Student_326,Civil,2026,Non-binary,Java,JavaScript,Node.js,Music,Drawing,Data Science,Yoga,Cricket,Dancing,90,74,Entrepreneurship,Infosys,Final Year Project,Bengali,Telugu,Tamil
+Student_327,Computer Science,2024,Non-binary,JavaScript,CSS,Java,UI/UX Design,Data Science,Music,Singing,Cricket,Reading,91,67,Entrepreneurship,Amazon,Personal Project,Tamil,Bengali,Telugu
+Student_328,Information Technology,2023,Male,JavaScript,React,HTML,Coding,Gaming,Drawing,Cricket,Painting,Singing,68,67,Higher Studies,Wipro,Internship,English,Hindi,Bengali
+Student_329,Mechanical,2027,Male,C++,Java,HTML,Sports,Data Science,Machine Learning,Reading,Singing,Yoga,79,89,Good Job Placement,Wipro,Final Year Project,Marathi,Bengali,Tamil
+Student_330,Civil,2027,Female,CSS,C++,Node.js,Data Science,Music,Sports,Cricket,Yoga,Singing,88,69,Entrepreneurship,Google,Personal Project,Marathi,Bengali,Hindi
+Student_331,Information Technology,2023,Male,HTML,C++,JavaScript,Gaming,Data Science,Sports,Painting,Cricket,Gardening,86,99,Good Job Placement,Microsoft,Internship,English,Hindi,Tamil
+Student_332,Mechanical,2025,Male,JavaScript,SQL,Java,Gaming,Music,Machine Learning,Dancing,Gardening,Football,98,78,Entrepreneurship,LTI Mindtree,Internship,Hindi,English,Telugu
+Student_333,Mechanical,2024,Non-binary,React,C++,CSS,Machine Learning,Data Science,UI/UX Design,Reading,Dancing,Painting,61,88,Entrepreneurship,Google,Personal Project,Tamil,Bengali,Hindi
+Student_334,Mechanical,2025,Non-binary,Node.js,CSS,Java,Gaming,Drawing,Data Science,Yoga,Gardening,Dancing,95,92,Good Job Placement,EPAM,Final Year Project,Bengali,Telugu,Marathi
+Student_335,Civil,2023,Non-binary,SQL,HTML,JavaScript,Machine Learning,Music,UI/UX Design,Reading,Gardening,Cricket,93,68,Entrepreneurship,EPAM,Personal Project,Telugu,Bengali,English
+Student_336,Civil,2023,Male,CSS,SQL,HTML,Drawing,Coding,Machine Learning,Football,Gardening,Reading,89,81,Good Job Placement,Microsoft,Personal Project,Tamil,Bengali,Hindi
+Student_337,Computer Science,2024,Female,CSS,DBMS,C++,Data Science,Gaming,Drawing,Singing,Gardening,Dancing,64,97,Entrepreneurship,Amazon,Final Year Project,Hindi,Tamil,Marathi
+Student_338,Information Technology,2024,Non-binary,C++,HTML,Java,Drawing,Data Science,Gaming,Gardening,Cricket,Dancing,77,76,Entrepreneurship,TCS,Personal Project,English,Marathi,Tamil
+Student_339,Electronics,2024,Female,React,DBMS,SQL,UI/UX Design,Music,Machine Learning,Football,Yoga,Dancing,92,89,Good Job Placement,LTI Mindtree,Internship,Hindi,Marathi,Bengali
+Student_340,Civil,2026,Male,C++,CSS,SQL,UI/UX Design,Drawing,Coding,Reading,Yoga,Dancing,82,82,Entrepreneurship,EPAM,Final Year Project,Bengali,Marathi,Tamil
+Student_341,Computer Science,2024,Female,JavaScript,Java,CSS,UI/UX Design,Sports,Data Science,Football,Gardening,Dancing,84,78,Entrepreneurship,LTI Mindtree,Final Year Project,Telugu,Bengali,Hindi
+Student_342,Electronics,2024,Non-binary,CSS,SQL,C++,Sports,Music,Machine Learning,Football,Singing,Yoga,79,65,Higher Studies,TCS,Internship,Marathi,Hindi,English
+Student_343,Electronics,2026,Female,CSS,SQL,Java,Sports,Music,Coding,Gardening,Singing,Yoga,68,71,Good Job Placement,Microsoft,Internship,Marathi,Hindi,Tamil
+Student_344,Electronics,2025,Non-binary,DBMS,HTML,JavaScript,Data Science,Coding,UI/UX Design,Painting,Cricket,Football,78,83,Good Job Placement,TCS,Personal Project,English,Hindi,Marathi
+Student_345,Mechanical,2026,Female,DBMS,C++,Java,Data Science,Drawing,Music,Singing,Painting,Reading,64,69,Entrepreneurship,TCS,Internship,Marathi,Hindi,English
+Student_346,Electronics,2027,Non-binary,Python,SQL,Node.js,Machine Learning,Data Science,Music,Reading,Football,Painting,72,92,Entrepreneurship,LTI Mindtree,Final Year Project,Marathi,Bengali,Telugu
+Student_347,Computer Science,2026,Non-binary,Java,HTML,CSS,Sports,Coding,Music,Painting,Reading,Singing,78,97,Good Job Placement,LTI Mindtree,Internship,English,Marathi,Tamil
+Student_348,Civil,2025,Non-binary,C++,DBMS,JavaScript,Sports,Drawing,UI/UX Design,Yoga,Reading,Cricket,89,98,Higher Studies,Microsoft,Internship,Telugu,Bengali,Marathi
+Student_349,Civil,2024,Female,SQL,CSS,React,Coding,Drawing,Gaming,Painting,Gardening,Reading,78,78,Higher Studies,Infosys,Final Year Project,Marathi,Tamil,Bengali
+Student_350,Civil,2025,Non-binary,Python,React,HTML,Data Science,Drawing,Coding,Gardening,Cricket,Yoga,93,67,Good Job Placement,Infosys,Personal Project,Tamil,Bengali,Hindi
+Student_351,Information Technology,2025,Non-binary,JavaScript,React,SQL,Machine Learning,Drawing,Coding,Painting,Dancing,Cricket,67,61,Entrepreneurship,EPAM,Internship,Tamil,Bengali,English
+Student_352,Electronics,2023,Non-binary,JavaScript,Java,DBMS,UI/UX Design,Drawing,Coding,Football,Dancing,Painting,73,85,Good Job Placement,Google,Internship,Hindi,Tamil,Bengali
+Student_353,Information Technology,2024,Male,Python,Node.js,C++,Drawing,Music,Coding,Painting,Yoga,Dancing,88,76,Higher Studies,Infosys,Personal Project,Telugu,Hindi,Marathi
+Student_354,Civil,2023,Non-binary,Java,JavaScript,C++,Machine Learning,UI/UX Design,Music,Football,Dancing,Reading,95,67,Entrepreneurship,LTI Mindtree,Personal Project,English,Tamil,Hindi
+Student_355,Information Technology,2024,Female,CSS,JavaScript,C++,Drawing,Machine Learning,Sports,Singing,Dancing,Reading,74,78,Good Job Placement,Amazon,Final Year Project,Hindi,Telugu,Marathi
+Student_356,Information Technology,2024,Female,Python,C++,DBMS,Sports,Machine Learning,Drawing,Gardening,Singing,Yoga,88,74,Entrepreneurship,Infosys,Final Year Project,Hindi,Bengali,Telugu
+Student_357,Information Technology,2025,Non-binary,DBMS,CSS,C++,Gaming,Music,Drawing,Painting,Cricket,Reading,74,99,Entrepreneurship,EPAM,Final Year Project,English,Telugu,Hindi
+Student_358,Electronics,2025,Male,Python,JavaScript,Node.js,Machine Learning,Drawing,Music,Singing,Dancing,Football,91,79,Entrepreneurship,Wipro,Final Year Project,Marathi,Telugu,English
+Student_359,Electronics,2026,Non-binary,Python,CSS,C++,Drawing,Music,Sports,Reading,Cricket,Singing,79,79,Good Job Placement,LTI Mindtree,Final Year Project,English,Hindi,Tamil
+Student_360,Computer Science,2024,Non-binary,Java,C++,JavaScript,Coding,Machine Learning,UI/UX Design,Reading,Football,Painting,88,98,Entrepreneurship,Amazon,Personal Project,Tamil,Bengali,Hindi
+Student_361,Information Technology,2024,Female,Python,SQL,CSS,Machine Learning,UI/UX Design,Coding,Painting,Gardening,Singing,83,68,Good Job Placement,Google,Internship,Telugu,Tamil,Bengali
+Student_362,Information Technology,2024,Male,SQL,Node.js,React,Gaming,Coding,Data Science,Singing,Dancing,Cricket,92,65,Entrepreneurship,Wipro,Personal Project,Bengali,Hindi,English
+Student_363,Electronics,2027,Female,Node.js,CSS,C++,UI/UX Design,Data Science,Drawing,Gardening,Football,Singing,98,82,Higher Studies,Amazon,Internship,Marathi,Tamil,Bengali
+Student_364,Civil,2027,Male,SQL,CSS,HTML,Coding,Sports,Data Science,Football,Painting,Yoga,81,69,Good Job Placement,Google,Internship,English,Hindi,Telugu
+Student_365,Information Technology,2027,Non-binary,JavaScript,HTML,Java,Drawing,Data Science,Gaming,Cricket,Singing,Dancing,85,82,Entrepreneurship,Microsoft,Internship,English,Telugu,Marathi
+Student_366,Electronics,2023,Male,DBMS,C++,Python,UI/UX Design,Coding,Sports,Football,Painting,Reading,68,80,Good Job Placement,Amazon,Internship,Bengali,Hindi,English
+Student_367,Electronics,2026,Male,C++,HTML,Java,Data Science,Coding,Music,Yoga,Cricket,Painting,60,60,Higher Studies,TCS,Internship,Telugu,Bengali,Marathi
+Student_368,Computer Science,2024,Non-binary,Python,CSS,JavaScript,Music,Data Science,Machine Learning,Yoga,Cricket,Football,75,80,Entrepreneurship,EPAM,Internship,English,Telugu,Hindi
+Student_369,Computer Science,2023,Male,Node.js,React,HTML,Data Science,Music,Machine Learning,Singing,Reading,Yoga,96,99,Entrepreneurship,Google,Internship,Telugu,Hindi,Marathi
+Student_370,Electronics,2023,Female,JavaScript,Node.js,SQL,Data Science,Music,Sports,Singing,Dancing,Yoga,63,68,Higher Studies,LTI Mindtree,Personal Project,English,Marathi,Hindi
+Student_371,Civil,2026,Female,HTML,Java,Node.js,Machine Learning,Drawing,Music,Yoga,Reading,Dancing,74,83,Good Job Placement,Microsoft,Final Year Project,Tamil,English,Hindi
+Student_372,Mechanical,2026,Female,SQL,CSS,C++,Data Science,Music,Coding,Football,Painting,Singing,99,71,Entrepreneurship,TCS,Personal Project,Telugu,Hindi,Bengali
+Student_373,Mechanical,2025,Female,Python,C++,Node.js,Data Science,Drawing,Sports,Painting,Singing,Football,80,80,Good Job Placement,Infosys,Final Year Project,Tamil,English,Marathi
+Student_374,Computer Science,2023,Non-binary,JavaScript,CSS,DBMS,Drawing,Gaming,Music,Dancing,Cricket,Painting,69,99,Good Job Placement,EPAM,Internship,Bengali,Tamil,Marathi
+Student_375,Mechanical,2026,Non-binary,HTML,CSS,C++,Machine Learning,Coding,Gaming,Singing,Dancing,Gardening,77,72,Good Job Placement,Wipro,Final Year Project,Telugu,Bengali,English
+Student_376,Electronics,2023,Female,HTML,Java,CSS,Coding,Music,Gaming,Cricket,Football,Singing,98,97,Entrepreneurship,Google,Internship,Bengali,English,Tamil
+Student_377,Electronics,2026,Non-binary,C++,React,Node.js,Drawing,Music,Sports,Football,Painting,Singing,90,81,Higher Studies,LTI Mindtree,Internship,English,Bengali,Tamil
+Student_378,Information Technology,2027,Male,SQL,C++,JavaScript,UI/UX Design,Sports,Machine Learning,Football,Dancing,Singing,80,73,Entrepreneurship,Wipro,Personal Project,Hindi,Tamil,Marathi
+Student_379,Mechanical,2025,Non-binary,CSS,SQL,HTML,Drawing,UI/UX Design,Gaming,Cricket,Yoga,Reading,92,77,Entrepreneurship,Infosys,Personal Project,English,Bengali,Telugu
+Student_380,Civil,2027,Male,DBMS,SQL,Node.js,Machine Learning,Gaming,Music,Dancing,Painting,Cricket,76,73,Higher Studies,Amazon,Final Year Project,Telugu,English,Marathi
+Student_381,Electronics,2024,Non-binary,C++,Python,React,Sports,UI/UX Design,Music,Singing,Yoga,Cricket,91,77,Entrepreneurship,EPAM,Personal Project,Hindi,Bengali,Marathi
+Student_382,Computer Science,2027,Non-binary,CSS,Python,SQL,Data Science,Music,Coding,Reading,Yoga,Cricket,83,67,Good Job Placement,Microsoft,Personal Project,Telugu,Hindi,Marathi
+Student_383,Civil,2025,Non-binary,CSS,JavaScript,C++,Data Science,UI/UX Design,Drawing,Painting,Football,Singing,78,90,Good Job Placement,Wipro,Final Year Project,Bengali,Telugu,Tamil
+Student_384,Mechanical,2026,Female,JavaScript,Java,SQL,Data Science,Coding,Machine Learning,Singing,Gardening,Football,69,72,Higher Studies,Infosys,Internship,Hindi,Telugu,English
+Student_385,Electronics,2027,Non-binary,Java,SQL,React,Drawing,UI/UX Design,Sports,Cricket,Yoga,Reading,69,87,Entrepreneurship,LTI Mindtree,Personal Project,Hindi,Marathi,Bengali
+Student_386,Mechanical,2023,Male,C++,JavaScript,SQL,Sports,Drawing,Coding,Painting,Reading,Cricket,73,82,Entrepreneurship,EPAM,Internship,Marathi,Tamil,Bengali
+Student_387,Computer Science,2025,Male,HTML,C++,Python,Music,Gaming,Data Science,Yoga,Painting,Reading,67,95,Entrepreneurship,EPAM,Final Year Project,Hindi,Telugu,Tamil
+Student_388,Electronics,2026,Male,CSS,Node.js,C++,Machine Learning,Sports,Music,Singing,Dancing,Yoga,79,86,Entrepreneurship,Microsoft,Personal Project,Hindi,English,Marathi
+Student_389,Civil,2027,Female,Java,React,CSS,Coding,Sports,Music,Painting,Dancing,Cricket,61,82,Entrepreneurship,Wipro,Personal Project,Bengali,Tamil,Hindi
+Student_390,Information Technology,2023,Female,SQL,Java,CSS,Music,Drawing,Gaming,Cricket,Football,Yoga,84,97,Entrepreneurship,EPAM,Personal Project,Bengali,Tamil,English
+Student_391,Electronics,2025,Non-binary,Python,JavaScript,C++,Coding,Gaming,Music,Dancing,Football,Yoga,84,71,Entrepreneurship,Google,Personal Project,Marathi,Telugu,English
+Student_392,Information Technology,2025,Female,Java,Python,HTML,Sports,Coding,Drawing,Football,Reading,Cricket,98,93,Good Job Placement,Microsoft,Internship,English,Marathi,Telugu
+Student_393,Information Technology,2024,Male,HTML,DBMS,Python,Music,Sports,Gaming,Football,Dancing,Cricket,80,85,Good Job Placement,Microsoft,Personal Project,Hindi,Tamil,English
+Student_394,Computer Science,2024,Non-binary,CSS,React,C++,Music,Machine Learning,Coding,Football,Reading,Dancing,98,68,Entrepreneurship,Google,Internship,Tamil,Hindi,English
+Student_395,Mechanical,2025,Female,Python,DBMS,Java,UI/UX Design,Coding,Sports,Singing,Yoga,Reading,72,100,Entrepreneurship,TCS,Internship,Marathi,Telugu,Bengali
+Student_396,Information Technology,2027,Female,Java,JavaScript,DBMS,Gaming,Machine Learning,Coding,Reading,Painting,Gardening,68,93,Entrepreneurship,Wipro,Personal Project,Telugu,Bengali,Marathi
+Student_397,Mechanical,2024,Non-binary,C++,React,JavaScript,Sports,Machine Learning,Data Science,Football,Gardening,Cricket,69,62,Entrepreneurship,Wipro,Personal Project,Tamil,Telugu,Marathi
+Student_398,Information Technology,2027,Female,JavaScript,HTML,Node.js,Data Science,Gaming,Coding,Reading,Singing,Gardening,63,95,Good Job Placement,Microsoft,Personal Project,Telugu,Bengali,Tamil
+Student_399,Computer Science,2025,Male,Java,Python,HTML,Gaming,Coding,Machine Learning,Football,Gardening,Reading,100,65,Entrepreneurship,Amazon,Internship,Tamil,English,Hindi
+Student_400,Computer Science,2027,Non-binary,HTML,SQL,Java,Data Science,UI/UX Design,Sports,Cricket,Painting,Yoga,63,65,Higher Studies,TCS,Final Year Project,English,Bengali,Marathi
+Student_401,Civil,2025,Non-binary,Java,React,Python,Machine Learning,Data Science,Gaming,Football,Reading,Painting,82,99,Good Job Placement,Wipro,Personal Project,Bengali,Telugu,Hindi
+Student_402,Computer Science,2025,Male,C++,JavaScript,CSS,Coding,Sports,Data Science,Yoga,Singing,Gardening,87,90,Good Job Placement,TCS,Personal Project,Bengali,Telugu,Tamil
+Student_403,Information Technology,2024,Male,React,DBMS,Node.js,Machine Learning,Data Science,Drawing,Gardening,Football,Yoga,80,81,Good Job Placement,EPAM,Internship,Bengali,Marathi,Hindi
+Student_404,Mechanical,2023,Female,Java,C++,Node.js,UI/UX Design,Gaming,Machine Learning,Dancing,Football,Reading,82,81,Entrepreneurship,Infosys,Personal Project,Hindi,Tamil,Telugu
+Student_405,Electronics,2027,Non-binary,Java,React,HTML,Gaming,UI/UX Design,Coding,Gardening,Singing,Dancing,91,63,Good Job Placement,TCS,Personal Project,Bengali,Hindi,Tamil
+Student_406,Civil,2026,Female,Python,SQL,React,Data Science,Machine Learning,Sports,Football,Reading,Painting,68,64,Higher Studies,Microsoft,Final Year Project,Tamil,Hindi,Bengali
+Student_407,Electronics,2023,Female,SQL,HTML,DBMS,Data Science,Music,UI/UX Design,Painting,Singing,Dancing,89,74,Higher Studies,Google,Final Year Project,English,Tamil,Marathi
+Student_408,Civil,2024,Non-binary,HTML,Python,SQL,Data Science,Drawing,Music,Gardening,Reading,Football,89,80,Higher Studies,EPAM,Internship,Bengali,Telugu,Hindi
+Student_409,Information Technology,2027,Non-binary,HTML,DBMS,SQL,UI/UX Design,Data Science,Machine Learning,Painting,Reading,Dancing,69,99,Entrepreneurship,EPAM,Final Year Project,English,Bengali,Tamil
+Student_410,Mechanical,2023,Male,DBMS,CSS,Python,Drawing,Data Science,Gaming,Yoga,Reading,Football,60,75,Entrepreneurship,LTI Mindtree,Final Year Project,Tamil,Bengali,English
+Student_411,Mechanical,2027,Female,Node.js,React,HTML,Sports,Music,Drawing,Football,Painting,Singing,69,69,Higher Studies,Infosys,Personal Project,English,Bengali,Tamil
+Student_412,Computer Science,2024,Male,Node.js,CSS,Java,UI/UX Design,Machine Learning,Sports,Gardening,Football,Cricket,92,90,Higher Studies,EPAM,Personal Project,Marathi,Telugu,Tamil
+Student_413,Information Technology,2023,Male,C++,JavaScript,Python,Music,UI/UX Design,Machine Learning,Cricket,Dancing,Reading,64,84,Good Job Placement,Amazon,Final Year Project,Hindi,Marathi,Telugu
+Student_414,Electronics,2025,Male,DBMS,SQL,Java,Data Science,UI/UX Design,Coding,Dancing,Singing,Painting,74,87,Good Job Placement,TCS,Final Year Project,Marathi,Bengali,English
+Student_415,Mechanical,2023,Male,Node.js,CSS,React,Music,Machine Learning,Coding,Cricket,Painting,Singing,69,68,Good Job Placement,Wipro,Personal Project,Telugu,English,Hindi
+Student_416,Mechanical,2027,Non-binary,C++,DBMS,React,Machine Learning,Music,Gaming,Dancing,Painting,Gardening,92,98,Good Job Placement,LTI Mindtree,Final Year Project,Telugu,English,Bengali
+Student_417,Electronics,2023,Male,React,C++,JavaScript,Machine Learning,UI/UX Design,Gaming,Reading,Football,Gardening,74,77,Good Job Placement,Microsoft,Internship,Bengali,Hindi,Marathi
+Student_418,Information Technology,2027,Female,JavaScript,Python,C++,Drawing,Coding,UI/UX Design,Yoga,Gardening,Reading,73,66,Higher Studies,LTI Mindtree,Personal Project,Telugu,Bengali,Hindi
+Student_419,Mechanical,2026,Male,Java,HTML,CSS,Data Science,Music,UI/UX Design,Painting,Gardening,Yoga,96,64,Entrepreneurship,TCS,Personal Project,English,Bengali,Marathi
+Student_420,Civil,2023,Male,CSS,Node.js,DBMS,Music,UI/UX Design,Machine Learning,Painting,Cricket,Yoga,73,73,Good Job Placement,Microsoft,Internship,English,Hindi,Telugu
+Student_421,Electronics,2024,Male,SQL,DBMS,Python,Music,Data Science,Drawing,Yoga,Reading,Gardening,78,63,Entrepreneurship,Amazon,Personal Project,Marathi,Telugu,English
+Student_422,Computer Science,2025,Non-binary,JavaScript,HTML,Node.js,Drawing,Music,Gaming,Singing,Gardening,Painting,85,90,Good Job Placement,LTI Mindtree,Internship,Telugu,Hindi,Bengali
+Student_423,Information Technology,2023,Male,C++,JavaScript,HTML,Gaming,Coding,Data Science,Cricket,Painting,Dancing,81,89,Higher Studies,EPAM,Internship,Telugu,English,Hindi
+Student_424,Computer Science,2027,Male,Node.js,JavaScript,DBMS,Coding,Music,Machine Learning,Reading,Singing,Dancing,60,65,Higher Studies,Infosys,Internship,Tamil,Bengali,Telugu
+Student_425,Electronics,2027,Female,Python,C++,DBMS,Gaming,Drawing,Data Science,Yoga,Football,Reading,71,89,Entrepreneurship,Infosys,Internship,Marathi,Tamil,Hindi
+Student_426,Information Technology,2027,Female,CSS,SQL,HTML,UI/UX Design,Drawing,Machine Learning,Yoga,Dancing,Painting,83,85,Good Job Placement,Infosys,Personal Project,Bengali,English,Marathi
+Student_427,Mechanical,2023,Non-binary,JavaScript,CSS,Python,Machine Learning,Gaming,Coding,Football,Gardening,Cricket,85,92,Higher Studies,Amazon,Internship,Bengali,Hindi,Tamil
+Student_428,Civil,2023,Non-binary,SQL,DBMS,React,Coding,Gaming,Sports,Reading,Singing,Painting,93,97,Higher Studies,LTI Mindtree,Final Year Project,Hindi,Marathi,Bengali
+Student_429,Civil,2026,Male,React,DBMS,C++,Music,Gaming,Coding,Football,Painting,Reading,68,87,Higher Studies,Microsoft,Final Year Project,Telugu,English,Marathi
+Student_430,Electronics,2027,Female,React,HTML,Java,Sports,Music,Drawing,Painting,Dancing,Gardening,80,75,Good Job Placement,Google,Personal Project,English,Marathi,Hindi
+Student_431,Information Technology,2024,Female,CSS,Python,Java,Drawing,UI/UX Design,Coding,Football,Gardening,Reading,99,89,Higher Studies,LTI Mindtree,Final Year Project,Bengali,Hindi,Telugu
+Student_432,Civil,2025,Male,C++,CSS,HTML,Music,Drawing,UI/UX Design,Gardening,Painting,Yoga,80,91,Good Job Placement,Wipro,Internship,Telugu,Tamil,English
+Student_433,Civil,2024,Non-binary,JavaScript,HTML,React,Drawing,Coding,Data Science,Cricket,Singing,Dancing,94,78,Entrepreneurship,LTI Mindtree,Final Year Project,Telugu,Bengali,Marathi
+Student_434,Electronics,2026,Male,SQL,Python,Node.js,Sports,Drawing,UI/UX Design,Dancing,Yoga,Gardening,75,89,Good Job Placement,Wipro,Personal Project,Bengali,Marathi,Telugu
+Student_435,Civil,2024,Female,React,Node.js,C++,Music,Sports,Drawing,Reading,Singing,Painting,79,76,Good Job Placement,Amazon,Final Year Project,Tamil,Telugu,Hindi
+Student_436,Mechanical,2027,Female,Node.js,Java,Python,Machine Learning,UI/UX Design,Sports,Dancing,Yoga,Football,91,87,Higher Studies,Wipro,Final Year Project,English,Telugu,Marathi
+Student_437,Computer Science,2023,Female,JavaScript,SQL,DBMS,Sports,Music,Drawing,Reading,Singing,Cricket,87,64,Entrepreneurship,LTI Mindtree,Final Year Project,Marathi,Hindi,English
+Student_438,Computer Science,2026,Female,Java,DBMS,JavaScript,Machine Learning,Data Science,Drawing,Dancing,Reading,Football,85,85,Entrepreneurship,TCS,Internship,Telugu,Marathi,Tamil
+Student_439,Civil,2023,Non-binary,Node.js,C++,Python,Sports,Coding,UI/UX Design,Painting,Cricket,Gardening,94,72,Good Job Placement,Amazon,Final Year Project,Hindi,English,Marathi
+Student_440,Civil,2027,Non-binary,DBMS,Python,SQL,Sports,Machine Learning,Music,Gardening,Reading,Football,91,73,Good Job Placement,TCS,Final Year Project,Marathi,Hindi,Telugu
+Student_441,Mechanical,2026,Female,JavaScript,HTML,Java,Coding,Sports,UI/UX Design,Cricket,Dancing,Reading,91,88,Entrepreneurship,Wipro,Final Year Project,Hindi,Telugu,Marathi
+Student_442,Civil,2024,Female,React,DBMS,Python,Gaming,Music,Drawing,Football,Reading,Painting,87,84,Entrepreneurship,TCS,Personal Project,Tamil,Marathi,Telugu
+Student_443,Computer Science,2023,Male,SQL,DBMS,Node.js,Gaming,Data Science,Sports,Reading,Painting,Dancing,68,87,Entrepreneurship,EPAM,Final Year Project,English,Hindi,Tamil
+Student_444,Electronics,2026,Male,React,C++,DBMS,Drawing,Machine Learning,Music,Painting,Singing,Reading,74,84,Good Job Placement,TCS,Final Year Project,Hindi,Bengali,Telugu
+Student_445,Civil,2027,Non-binary,React,SQL,Node.js,Sports,Drawing,Music,Singing,Yoga,Reading,91,89,Good Job Placement,LTI Mindtree,Internship,Telugu,Tamil,Hindi
+Student_446,Electronics,2027,Male,JavaScript,HTML,SQL,Music,Data Science,UI/UX Design,Painting,Gardening,Yoga,93,62,Good Job Placement,LTI Mindtree,Internship,Telugu,Tamil,Marathi
+Student_447,Civil,2027,Female,C++,CSS,SQL,UI/UX Design,Machine Learning,Drawing,Yoga,Reading,Singing,68,66,Good Job Placement,Amazon,Final Year Project,Tamil,Bengali,Telugu
+Student_448,Mechanical,2023,Male,HTML,C++,React,Drawing,Machine Learning,Music,Cricket,Singing,Football,98,68,Good Job Placement,Google,Final Year Project,Hindi,Marathi,English
+Student_449,Information Technology,2027,Male,React,C++,DBMS,Sports,Coding,Music,Reading,Painting,Cricket,60,100,Higher Studies,TCS,Personal Project,Tamil,Bengali,Marathi
+Student_450,Civil,2026,Female,React,C++,JavaScript,Sports,Coding,Data Science,Gardening,Cricket,Singing,76,96,Good Job Placement,Microsoft,Personal Project,Bengali,English,Tamil
+Student_451,Information Technology,2023,Female,Python,HTML,SQL,Sports,Machine Learning,UI/UX Design,Reading,Gardening,Yoga,72,78,Entrepreneurship,LTI Mindtree,Internship,English,Marathi,Bengali
+Student_452,Information Technology,2027,Female,DBMS,C++,Node.js,UI/UX Design,Drawing,Machine Learning,Gardening,Reading,Dancing,72,89,Higher Studies,EPAM,Personal Project,English,Telugu,Tamil
+Student_453,Electronics,2023,Male,JavaScript,Python,CSS,Coding,UI/UX Design,Machine Learning,Yoga,Painting,Dancing,97,73,Good Job Placement,Google,Internship,English,Tamil,Telugu
+Student_454,Electronics,2025,Male,JavaScript,CSS,C++,Music,Machine Learning,Data Science,Singing,Gardening,Painting,73,70,Higher Studies,Infosys,Personal Project,Marathi,Tamil,Bengali
+Student_455,Information Technology,2025,Male,Java,Python,React,Sports,Music,Machine Learning,Gardening,Singing,Dancing,80,67,Higher Studies,EPAM,Personal Project,Marathi,Bengali,English
+Student_456,Mechanical,2024,Male,SQL,CSS,JavaScript,Data Science,Music,Coding,Reading,Dancing,Cricket,79,65,Entrepreneurship,TCS,Personal Project,Telugu,Hindi,Tamil
+Student_457,Civil,2025,Male,C++,HTML,CSS,Coding,Gaming,UI/UX Design,Cricket,Painting,Reading,96,96,Higher Studies,Microsoft,Personal Project,Bengali,Telugu,Hindi
+Student_458,Information Technology,2025,Male,Python,JavaScript,DBMS,Drawing,UI/UX Design,Sports,Singing,Reading,Dancing,86,80,Good Job Placement,Amazon,Personal Project,Telugu,Marathi,Tamil
+Student_459,Information Technology,2024,Non-binary,SQL,HTML,CSS,Drawing,Coding,Music,Yoga,Gardening,Cricket,92,65,Higher Studies,Microsoft,Internship,Bengali,Telugu,Tamil
+Student_460,Electronics,2023,Female,Python,Node.js,C++,Music,Sports,Machine Learning,Singing,Gardening,Cricket,68,86,Good Job Placement,Wipro,Internship,English,Hindi,Marathi
+Student_461,Information Technology,2027,Non-binary,C++,HTML,DBMS,Drawing,Gaming,Data Science,Football,Singing,Yoga,63,91,Entrepreneurship,Wipro,Final Year Project,Marathi,Bengali,Tamil
+Student_462,Information Technology,2023,Non-binary,JavaScript,React,DBMS,Music,Data Science,Machine Learning,Reading,Gardening,Cricket,73,98,Entrepreneurship,Infosys,Internship,Tamil,Telugu,Bengali
+Student_463,Computer Science,2023,Male,React,DBMS,Java,Gaming,Drawing,Coding,Dancing,Yoga,Painting,72,75,Higher Studies,LTI Mindtree,Internship,English,Telugu,Bengali
+Student_464,Electronics,2024,Male,Node.js,HTML,DBMS,Music,Sports,Machine Learning,Yoga,Gardening,Dancing,96,92,Good Job Placement,Google,Internship,English,Marathi,Bengali
+Student_465,Civil,2026,Male,C++,DBMS,JavaScript,UI/UX Design,Machine Learning,Sports,Reading,Singing,Football,70,95,Entrepreneurship,LTI Mindtree,Final Year Project,English,Bengali,Tamil
+Student_466,Information Technology,2025,Non-binary,Python,Node.js,HTML,Sports,Music,Coding,Reading,Yoga,Gardening,74,62,Good Job Placement,TCS,Internship,English,Hindi,Marathi
+Student_467,Information Technology,2024,Male,React,HTML,Python,Machine Learning,UI/UX Design,Data Science,Gardening,Yoga,Reading,90,82,Entrepreneurship,EPAM,Personal Project,English,Tamil,Marathi
+Student_468,Information Technology,2025,Male,React,C++,SQL,UI/UX Design,Music,Coding,Reading,Painting,Football,75,85,Good Job Placement,LTI Mindtree,Final Year Project,Hindi,Bengali,English
+Student_469,Computer Science,2026,Non-binary,DBMS,HTML,JavaScript,Gaming,UI/UX Design,Coding,Reading,Singing,Painting,78,91,Entrepreneurship,EPAM,Personal Project,Marathi,Bengali,Tamil
+Student_470,Computer Science,2027,Female,SQL,HTML,DBMS,Data Science,Drawing,UI/UX Design,Dancing,Painting,Gardening,97,85,Good Job Placement,Amazon,Final Year Project,English,Marathi,Bengali
+Student_471,Computer Science,2026,Non-binary,Java,SQL,DBMS,Machine Learning,Drawing,Gaming,Singing,Cricket,Dancing,85,77,Good Job Placement,TCS,Internship,English,Bengali,Tamil
+Student_472,Electronics,2026,Non-binary,SQL,JavaScript,CSS,Data Science,UI/UX Design,Music,Reading,Gardening,Painting,68,88,Good Job Placement,LTI Mindtree,Internship,English,Marathi,Tamil
+Student_473,Electronics,2025,Female,Node.js,Python,JavaScript,Machine Learning,Sports,UI/UX Design,Gardening,Painting,Singing,71,75,Good Job Placement,LTI Mindtree,Internship,Marathi,Bengali,English
+Student_474,Information Technology,2024,Male,JavaScript,React,Node.js,Music,Machine Learning,Gaming,Reading,Dancing,Singing,71,97,Entrepreneurship,LTI Mindtree,Internship,Hindi,Telugu,English
+Student_475,Computer Science,2025,Female,HTML,SQL,CSS,Machine Learning,Data Science,Gaming,Yoga,Football,Dancing,73,60,Higher Studies,LTI Mindtree,Internship,English,Bengali,Telugu
+Student_476,Computer Science,2024,Non-binary,JavaScript,DBMS,Python,Sports,Data Science,Drawing,Dancing,Painting,Gardening,87,82,Entrepreneurship,Microsoft,Internship,Telugu,Tamil,Hindi
+Student_477,Information Technology,2026,Male,SQL,DBMS,Python,Music,Coding,Drawing,Cricket,Singing,Dancing,63,77,Good Job Placement,LTI Mindtree,Internship,Hindi,Tamil,Bengali
+Student_478,Mechanical,2023,Female,Java,JavaScript,Node.js,Gaming,Sports,Drawing,Singing,Painting,Football,79,68,Entrepreneurship,Amazon,Internship,Tamil,Bengali,Hindi
+Student_479,Information Technology,2025,Female,SQL,C++,Java,Coding,Drawing,Machine Learning,Cricket,Yoga,Gardening,81,71,Good Job Placement,Infosys,Final Year Project,Telugu,Hindi,Bengali
+Student_480,Electronics,2024,Female,Node.js,DBMS,JavaScript,Data Science,Drawing,Sports,Gardening,Painting,Yoga,66,97,Good Job Placement,Infosys,Internship,Telugu,Hindi,Marathi
+Student_481,Computer Science,2023,Non-binary,SQL,CSS,C++,Machine Learning,Music,Sports,Singing,Dancing,Painting,74,66,Entrepreneurship,EPAM,Personal Project,English,Tamil,Hindi
+Student_482,Computer Science,2027,Male,SQL,DBMS,Node.js,Machine Learning,UI/UX Design,Data Science,Reading,Cricket,Gardening,73,99,Higher Studies,LTI Mindtree,Final Year Project,Telugu,Bengali,Marathi
+Student_483,Computer Science,2023,Male,C++,Java,Python,Drawing,Data Science,Gaming,Gardening,Painting,Singing,91,85,Entrepreneurship,Google,Personal Project,Tamil,Marathi,Telugu
+Student_484,Computer Science,2025,Male,SQL,React,CSS,Music,Sports,Machine Learning,Yoga,Singing,Cricket,83,85,Entrepreneurship,EPAM,Final Year Project,Tamil,Bengali,Telugu
+Student_485,Electronics,2024,Male,DBMS,Node.js,SQL,Sports,Data Science,UI/UX Design,Yoga,Football,Dancing,92,60,Entrepreneurship,Google,Personal Project,Marathi,Hindi,Tamil
+Student_486,Computer Science,2023,Male,C++,DBMS,SQL,Data Science,Music,Sports,Cricket,Singing,Painting,96,96,Higher Studies,TCS,Personal Project,Hindi,Tamil,Marathi
+Student_487,Civil,2027,Female,JavaScript,C++,HTML,Sports,Gaming,Music,Dancing,Cricket,Painting,91,79,Higher Studies,Microsoft,Personal Project,English,Marathi,Telugu
+Student_488,Electronics,2027,Female,C++,HTML,JavaScript,Data Science,Drawing,Machine Learning,Reading,Gardening,Cricket,78,70,Higher Studies,Google,Internship,Tamil,Marathi,Telugu
+Student_489,Computer Science,2025,Female,CSS,DBMS,SQL,UI/UX Design,Gaming,Machine Learning,Yoga,Painting,Dancing,87,99,Entrepreneurship,Microsoft,Internship,Hindi,Bengali,Telugu
+Student_490,Civil,2024,Female,JavaScript,DBMS,CSS,Data Science,Music,Sports,Reading,Painting,Dancing,96,95,Entrepreneurship,Amazon,Personal Project,Bengali,English,Tamil
+Student_491,Civil,2025,Non-binary,Node.js,Java,Python,Gaming,Coding,Sports,Reading,Cricket,Football,97,64,Good Job Placement,Microsoft,Final Year Project,Hindi,Telugu,Tamil
+Student_492,Computer Science,2026,Male,SQL,DBMS,Python,Data Science,UI/UX Design,Drawing,Football,Singing,Yoga,69,98,Higher Studies,TCS,Final Year Project,Marathi,Bengali,English
+Student_493,Mechanical,2027,Female,SQL,JavaScript,Java,Machine Learning,Drawing,Music,Painting,Football,Cricket,71,81,Good Job Placement,EPAM,Final Year Project,Telugu,Marathi,English
+Student_494,Civil,2024,Non-binary,C++,React,SQL,Data Science,Coding,Gaming,Reading,Football,Painting,86,67,Higher Studies,EPAM,Personal Project,English,Marathi,Bengali
+Student_495,Electronics,2025,Female,SQL,Java,DBMS,Gaming,Sports,Machine Learning,Football,Dancing,Yoga,74,71,Entrepreneurship,Google,Internship,Hindi,Marathi,English
+Student_496,Mechanical,2023,Non-binary,SQL,DBMS,Java,Machine Learning,Music,Drawing,Yoga,Singing,Cricket,98,62,Higher Studies,TCS,Personal Project,Telugu,Tamil,Bengali
+Student_497,Computer Science,2023,Male,DBMS,JavaScript,Node.js,Coding,Sports,Data Science,Painting,Gardening,Football,67,81,Good Job Placement,Infosys,Final Year Project,English,Tamil,Hindi
+Student_498,Computer Science,2026,Female,SQL,JavaScript,HTML,Gaming,Data Science,Sports,Reading,Cricket,Gardening,95,95,Higher Studies,Wipro,Final Year Project,Hindi,Telugu,Tamil
+Student_499,Civil,2027,Non-binary,Java,SQL,CSS,UI/UX Design,Machine Learning,Drawing,Yoga,Gardening,Painting,89,90,Higher Studies,EPAM,Personal Project,Tamil,Hindi,Telugu
+Student_500,Electronics,2027,Male,Java,CSS,React,Data Science,Machine Learning,Drawing,Reading,Yoga,Gardening,79,82,Entrepreneurship,LTI Mindtree,Internship,English,Marathi,Telugu
+Student_501,Electronics,2025,Non-binary,C++,JavaScript,Node.js,Data Science,Drawing,Coding,Yoga,Football,Dancing,73,92,Good Job Placement,Infosys,Internship,Hindi,Marathi,Bengali
+Student_502,Computer Science,2023,Non-binary,SQL,HTML,React,Music,Machine Learning,UI/UX Design,Painting,Dancing,Yoga,89,60,Good Job Placement,Microsoft,Final Year Project,English,Tamil,Telugu
+Student_503,Mechanical,2023,Female,HTML,React,DBMS,UI/UX Design,Sports,Gaming,Football,Dancing,Cricket,72,87,Higher Studies,LTI Mindtree,Personal Project,Tamil,Telugu,Hindi
+Student_504,Mechanical,2025,Female,DBMS,Node.js,CSS,UI/UX Design,Coding,Machine Learning,Football,Gardening,Cricket,86,77,Entrepreneurship,Google,Final Year Project,English,Hindi,Bengali
+Student_505,Computer Science,2025,Male,React,DBMS,Node.js,UI/UX Design,Sports,Gaming,Football,Dancing,Gardening,73,67,Higher Studies,EPAM,Final Year Project,Tamil,Hindi,Bengali
+Student_506,Computer Science,2027,Non-binary,CSS,Java,Node.js,Coding,Sports,Music,Reading,Dancing,Cricket,84,91,Good Job Placement,Google,Final Year Project,English,Telugu,Tamil
+Student_507,Electronics,2026,Male,SQL,CSS,Java,Machine Learning,Coding,Drawing,Cricket,Singing,Painting,81,99,Good Job Placement,Wipro,Internship,Bengali,Tamil,Marathi
+Student_508,Electronics,2025,Male,Java,HTML,SQL,UI/UX Design,Machine Learning,Drawing,Gardening,Dancing,Painting,81,62,Good Job Placement,Wipro,Internship,English,Tamil,Bengali
+Student_509,Information Technology,2025,Non-binary,C++,CSS,Java,Data Science,Drawing,Machine Learning,Gardening,Dancing,Football,99,92,Entrepreneurship,LTI Mindtree,Personal Project,Telugu,English,Bengali
+Student_510,Information Technology,2024,Female,DBMS,React,Node.js,Music,Coding,Data Science,Football,Dancing,Gardening,88,73,Good Job Placement,TCS,Final Year Project,Tamil,Marathi,Telugu
+Student_511,Computer Science,2024,Female,Java,DBMS,C++,UI/UX Design,Music,Gaming,Football,Gardening,Singing,91,67,Entrepreneurship,EPAM,Internship,Tamil,Bengali,Hindi
+Student_512,Electronics,2024,Female,C++,JavaScript,SQL,Sports,Coding,Data Science,Cricket,Football,Reading,65,89,Higher Studies,Google,Internship,Telugu,English,Bengali
+Student_513,Computer Science,2023,Male,React,Java,CSS,Coding,Drawing,Machine Learning,Football,Singing,Yoga,64,74,Entrepreneurship,Wipro,Personal Project,Tamil,Hindi,Marathi
+Student_514,Mechanical,2024,Non-binary,React,DBMS,C++,Data Science,Sports,Coding,Cricket,Singing,Dancing,99,71,Higher Studies,LTI Mindtree,Personal Project,Hindi,Telugu,Tamil
+Student_515,Computer Science,2023,Non-binary,React,Python,Node.js,Data Science,Machine Learning,Coding,Cricket,Yoga,Reading,74,65,Higher Studies,LTI Mindtree,Internship,Marathi,Tamil,Telugu
+Student_516,Electronics,2025,Male,JavaScript,React,Node.js,Coding,UI/UX Design,Gaming,Singing,Football,Dancing,78,97,Entrepreneurship,Amazon,Personal Project,Bengali,Telugu,English
+Student_517,Electronics,2026,Male,HTML,React,DBMS,Music,Gaming,UI/UX Design,Yoga,Dancing,Football,76,62,Good Job Placement,EPAM,Internship,English,Telugu,Bengali
+Student_518,Mechanical,2024,Non-binary,C++,SQL,Python,UI/UX Design,Coding,Gaming,Dancing,Yoga,Football,63,85,Entrepreneurship,Infosys,Personal Project,Tamil,Telugu,Marathi
+Student_519,Civil,2026,Non-binary,Python,Java,CSS,Sports,Coding,Data Science,Painting,Dancing,Singing,73,64,Higher Studies,Amazon,Internship,Tamil,English,Bengali
+Student_520,Electronics,2024,Male,CSS,Python,JavaScript,Music,UI/UX Design,Drawing,Dancing,Singing,Gardening,76,69,Entrepreneurship,Amazon,Internship,Hindi,Tamil,Marathi
+Student_521,Information Technology,2023,Non-binary,JavaScript,CSS,DBMS,Coding,UI/UX Design,Gaming,Dancing,Cricket,Painting,95,90,Entrepreneurship,Google,Internship,Hindi,Telugu,Bengali
+Student_522,Information Technology,2024,Female,C++,HTML,CSS,Machine Learning,Music,Sports,Dancing,Singing,Gardening,93,70,Entrepreneurship,Google,Internship,Telugu,Tamil,Bengali
+Student_523,Computer Science,2025,Male,Python,C++,HTML,Music,Machine Learning,Data Science,Painting,Football,Gardening,82,82,Entrepreneurship,Amazon,Internship,Telugu,English,Hindi
+Student_524,Civil,2027,Non-binary,React,SQL,CSS,Coding,Machine Learning,Drawing,Dancing,Football,Singing,94,89,Higher Studies,Wipro,Personal Project,Marathi,Telugu,Bengali
+Student_525,Mechanical,2027,Non-binary,JavaScript,Java,Python,UI/UX Design,Machine Learning,Coding,Painting,Football,Singing,68,95,Good Job Placement,LTI Mindtree,Internship,Telugu,English,Hindi
+Student_526,Computer Science,2025,Female,Node.js,DBMS,HTML,Music,Sports,Machine Learning,Singing,Gardening,Football,69,77,Entrepreneurship,TCS,Internship,Telugu,Marathi,Bengali
+Student_527,Civil,2025,Female,CSS,DBMS,Node.js,Gaming,Music,Coding,Painting,Reading,Gardening,85,75,Higher Studies,Infosys,Personal Project,Hindi,Telugu,English
+Student_528,Civil,2023,Female,HTML,DBMS,Python,Music,Gaming,Data Science,Reading,Singing,Football,100,92,Good Job Placement,Infosys,Final Year Project,Marathi,English,Bengali
+Student_529,Civil,2024,Male,JavaScript,CSS,Node.js,Machine Learning,Music,Coding,Singing,Football,Yoga,72,89,Higher Studies,Amazon,Personal Project,Bengali,Hindi,Tamil
+Student_530,Civil,2024,Male,SQL,JavaScript,CSS,Gaming,UI/UX Design,Data Science,Cricket,Painting,Yoga,94,80,Higher Studies,TCS,Final Year Project,Hindi,English,Tamil
+Student_531,Civil,2024,Female,React,HTML,JavaScript,Sports,Drawing,Machine Learning,Football,Singing,Yoga,91,90,Good Job Placement,Wipro,Personal Project,Hindi,English,Bengali
+Student_532,Computer Science,2026,Non-binary,React,Python,CSS,Gaming,Drawing,Coding,Gardening,Painting,Football,72,90,Higher Studies,EPAM,Final Year Project,Hindi,English,Telugu
+Student_533,Electronics,2026,Non-binary,Java,CSS,Python,Machine Learning,Music,UI/UX Design,Football,Singing,Painting,93,69,Good Job Placement,TCS,Final Year Project,Marathi,English,Bengali
+Student_534,Mechanical,2023,Male,Node.js,JavaScript,React,Drawing,Coding,Machine Learning,Dancing,Reading,Painting,90,74,Good Job Placement,Microsoft,Personal Project,Tamil,Telugu,Hindi
+Student_535,Civil,2024,Non-binary,SQL,Node.js,React,UI/UX Design,Machine Learning,Music,Painting,Football,Singing,72,97,Entrepreneurship,Google,Personal Project,Tamil,Bengali,Telugu
+Student_536,Computer Science,2027,Non-binary,Java,Python,DBMS,UI/UX Design,Data Science,Sports,Reading,Singing,Cricket,62,77,Entrepreneurship,EPAM,Final Year Project,Bengali,English,Tamil
+Student_537,Electronics,2027,Non-binary,SQL,HTML,React,Coding,UI/UX Design,Drawing,Yoga,Singing,Reading,90,100,Entrepreneurship,Wipro,Final Year Project,English,Tamil,Telugu
+Student_538,Computer Science,2027,Male,Python,C++,JavaScript,Drawing,Coding,UI/UX Design,Painting,Gardening,Cricket,97,99,Entrepreneurship,EPAM,Internship,Tamil,Bengali,Marathi
+Student_539,Electronics,2026,Male,Java,SQL,DBMS,Music,Machine Learning,Drawing,Yoga,Singing,Gardening,64,92,Good Job Placement,Wipro,Final Year Project,English,Telugu,Tamil
+Student_540,Electronics,2024,Female,React,C++,DBMS,Coding,Data Science,UI/UX Design,Gardening,Dancing,Yoga,96,88,Higher Studies,Microsoft,Internship,Hindi,Tamil,Marathi
+Student_541,Information Technology,2027,Non-binary,JavaScript,CSS,C++,Gaming,Coding,Drawing,Cricket,Reading,Singing,82,81,Entrepreneurship,Infosys,Internship,Telugu,Hindi,Tamil
+Student_542,Electronics,2024,Male,Node.js,CSS,React,Data Science,Sports,Music,Yoga,Painting,Dancing,90,75,Entrepreneurship,Amazon,Personal Project,Marathi,English,Hindi
+Student_543,Mechanical,2027,Non-binary,React,DBMS,Python,Drawing,UI/UX Design,Machine Learning,Singing,Reading,Yoga,62,78,Entrepreneurship,TCS,Final Year Project,Telugu,Hindi,Bengali
+Student_544,Mechanical,2026,Non-binary,HTML,Node.js,React,Data Science,Drawing,Coding,Football,Cricket,Singing,67,81,Higher Studies,Infosys,Final Year Project,Marathi,English,Hindi
+Student_545,Mechanical,2027,Male,DBMS,CSS,SQL,Gaming,UI/UX Design,Coding,Football,Yoga,Singing,100,86,Good Job Placement,EPAM,Final Year Project,Bengali,Hindi,Marathi
+Student_546,Electronics,2024,Female,Python,CSS,JavaScript,Gaming,Music,Data Science,Dancing,Gardening,Painting,92,78,Higher Studies,Microsoft,Personal Project,Marathi,Telugu,English
+Student_547,Computer Science,2026,Female,CSS,JavaScript,HTML,Gaming,Sports,Drawing,Gardening,Football,Painting,99,72,Higher Studies,Amazon,Final Year Project,Hindi,Telugu,Tamil
+Student_548,Electronics,2026,Female,Java,Node.js,React,Data Science,Sports,Machine Learning,Reading,Dancing,Cricket,75,69,Entrepreneurship,Microsoft,Internship,Hindi,Tamil,English
+Student_549,Mechanical,2026,Non-binary,Java,JavaScript,SQL,Sports,Machine Learning,Drawing,Gardening,Yoga,Reading,84,85,Good Job Placement,Amazon,Final Year Project,Tamil,English,Hindi
+Student_550,Mechanical,2025,Male,HTML,Python,Java,UI/UX Design,Gaming,Machine Learning,Painting,Yoga,Reading,68,70,Higher Studies,Infosys,Personal Project,Telugu,Hindi,Bengali
+Student_551,Civil,2023,Male,C++,DBMS,React,Drawing,Music,Coding,Cricket,Gardening,Singing,99,90,Higher Studies,EPAM,Personal Project,Marathi,Telugu,Bengali
+Student_552,Mechanical,2023,Male,HTML,Java,DBMS,Sports,Machine Learning,Gaming,Singing,Painting,Reading,65,84,Entrepreneurship,Microsoft,Personal Project,Hindi,Marathi,Telugu
+Student_553,Computer Science,2026,Female,Python,JavaScript,CSS,Sports,Gaming,Drawing,Football,Dancing,Gardening,80,94,Entrepreneurship,Microsoft,Internship,Bengali,English,Telugu
+Student_554,Electronics,2026,Non-binary,CSS,HTML,JavaScript,Drawing,Music,Machine Learning,Cricket,Yoga,Painting,100,75,Higher Studies,Amazon,Personal Project,Tamil,English,Hindi
+Student_555,Mechanical,2027,Female,HTML,Node.js,SQL,UI/UX Design,Machine Learning,Drawing,Singing,Dancing,Football,70,81,Entrepreneurship,TCS,Personal Project,Marathi,Tamil,Hindi
+Student_556,Computer Science,2025,Non-binary,Python,CSS,HTML,Coding,Gaming,Machine Learning,Singing,Dancing,Cricket,76,91,Higher Studies,Amazon,Final Year Project,Marathi,Telugu,Hindi
+Student_557,Mechanical,2023,Non-binary,DBMS,SQL,CSS,Data Science,Music,Gaming,Football,Gardening,Yoga,100,90,Entrepreneurship,Microsoft,Internship,Bengali,Telugu,Hindi
+Student_558,Information Technology,2025,Male,SQL,JavaScript,Java,Data Science,Gaming,Machine Learning,Painting,Yoga,Reading,69,75,Good Job Placement,Google,Personal Project,Marathi,Hindi,Bengali
+Student_559,Information Technology,2027,Female,React,HTML,C++,Music,UI/UX Design,Data Science,Dancing,Singing,Gardening,63,76,Higher Studies,Infosys,Internship,English,Tamil,Telugu
+Student_560,Civil,2027,Non-binary,CSS,Node.js,SQL,Data Science,Machine Learning,Coding,Dancing,Singing,Painting,94,60,Entrepreneurship,LTI Mindtree,Internship,Bengali,Tamil,Hindi
+Student_561,Civil,2026,Female,C++,Node.js,Python,UI/UX Design,Drawing,Sports,Football,Cricket,Yoga,99,75,Higher Studies,Microsoft,Personal Project,English,Hindi,Marathi
+Student_562,Electronics,2024,Female,React,SQL,Node.js,Drawing,Sports,Machine Learning,Cricket,Painting,Football,99,78,Good Job Placement,Amazon,Final Year Project,Telugu,English,Hindi
+Student_563,Electronics,2024,Male,Python,React,Java,Machine Learning,Coding,Music,Gardening,Cricket,Reading,76,85,Good Job Placement,Wipro,Internship,Tamil,Marathi,Bengali
+Student_564,Electronics,2023,Female,CSS,Node.js,Java,UI/UX Design,Drawing,Machine Learning,Dancing,Singing,Painting,100,91,Good Job Placement,Google,Personal Project,English,Hindi,Telugu
+Student_565,Computer Science,2027,Non-binary,C++,JavaScript,Python,Data Science,Drawing,Gaming,Painting,Singing,Gardening,84,76,Good Job Placement,Microsoft,Final Year Project,Hindi,English,Marathi
+Student_566,Information Technology,2024,Non-binary,DBMS,Java,HTML,Machine Learning,Gaming,Data Science,Painting,Singing,Football,85,81,Higher Studies,LTI Mindtree,Final Year Project,English,Tamil,Marathi
+Student_567,Information Technology,2026,Female,C++,React,JavaScript,Gaming,Data Science,Sports,Dancing,Football,Gardening,99,94,Higher Studies,Amazon,Personal Project,Hindi,Telugu,Bengali
+Student_568,Electronics,2025,Non-binary,Java,SQL,React,Drawing,Machine Learning,Data Science,Painting,Football,Dancing,93,91,Good Job Placement,LTI Mindtree,Personal Project,Bengali,Telugu,Tamil
+Student_569,Computer Science,2023,Male,CSS,C++,Java,Machine Learning,Drawing,Sports,Football,Gardening,Singing,84,65,Good Job Placement,EPAM,Internship,Hindi,Bengali,English
+Student_570,Information Technology,2027,Female,Python,SQL,Node.js,Drawing,Music,UI/UX Design,Singing,Dancing,Football,76,68,Good Job Placement,LTI Mindtree,Final Year Project,Hindi,Bengali,Telugu
+Student_571,Civil,2023,Male,CSS,HTML,JavaScript,UI/UX Design,Music,Gaming,Football,Painting,Gardening,75,100,Good Job Placement,EPAM,Final Year Project,Bengali,Marathi,Hindi
+Student_572,Civil,2027,Female,C++,SQL,DBMS,Drawing,Coding,Gaming,Painting,Yoga,Singing,94,83,Entrepreneurship,Google,Final Year Project,Marathi,Bengali,Hindi
+Student_573,Information Technology,2023,Non-binary,CSS,Java,Python,Machine Learning,Music,Data Science,Cricket,Gardening,Reading,71,95,Good Job Placement,Amazon,Internship,Telugu,Marathi,Hindi
+Student_574,Civil,2027,Female,Node.js,JavaScript,Java,Music,UI/UX Design,Sports,Football,Singing,Painting,83,94,Entrepreneurship,LTI Mindtree,Final Year Project,Hindi,Marathi,English
+Student_575,Information Technology,2025,Male,CSS,SQL,HTML,Gaming,Data Science,Drawing,Singing,Cricket,Painting,80,71,Entrepreneurship,LTI Mindtree,Internship,Bengali,English,Hindi
+Student_576,Electronics,2026,Male,JavaScript,Python,SQL,Gaming,Coding,Machine Learning,Singing,Reading,Cricket,84,83,Good Job Placement,LTI Mindtree,Final Year Project,Marathi,English,Hindi
+Student_577,Computer Science,2023,Female,C++,Java,Python,Music,Drawing,Machine Learning,Gardening,Cricket,Reading,98,63,Higher Studies,Google,Final Year Project,Marathi,Telugu,English
+Student_578,Civil,2023,Female,JavaScript,DBMS,HTML,Data Science,Machine Learning,Gaming,Cricket,Painting,Football,83,94,Good Job Placement,EPAM,Final Year Project,English,Hindi,Tamil
+Student_579,Civil,2026,Non-binary,SQL,HTML,CSS,Sports,Gaming,Music,Yoga,Cricket,Painting,73,90,Higher Studies,LTI Mindtree,Final Year Project,Marathi,Hindi,English
+Student_580,Electronics,2023,Non-binary,React,HTML,SQL,Sports,Drawing,Music,Painting,Gardening,Cricket,68,93,Good Job Placement,EPAM,Internship,Bengali,Hindi,Marathi
+Student_581,Information Technology,2026,Male,SQL,React,HTML,Sports,Machine Learning,Drawing,Cricket,Football,Singing,86,99,Entrepreneurship,Amazon,Personal Project,Marathi,Bengali,Telugu
+Student_582,Civil,2023,Female,HTML,React,Python,Machine Learning,Drawing,Music,Football,Cricket,Singing,73,95,Good Job Placement,LTI Mindtree,Final Year Project,Marathi,Tamil,Hindi
+Student_583,Information Technology,2023,Male,HTML,React,Java,Machine Learning,Music,UI/UX Design,Dancing,Yoga,Cricket,88,74,Good Job Placement,Wipro,Internship,Marathi,Tamil,Telugu
+Student_584,Information Technology,2027,Female,Python,SQL,Node.js,UI/UX Design,Machine Learning,Sports,Painting,Singing,Football,76,64,Entrepreneurship,EPAM,Personal Project,Hindi,English,Marathi
+Student_585,Mechanical,2027,Non-binary,HTML,CSS,SQL,Coding,Machine Learning,Data Science,Reading,Yoga,Cricket,89,67,Entrepreneurship,TCS,Internship,English,Bengali,Tamil
+Student_586,Civil,2024,Female,C++,DBMS,HTML,Sports,Machine Learning,Music,Reading,Yoga,Dancing,100,87,Entrepreneurship,TCS,Final Year Project,Tamil,Telugu,Hindi
+Student_587,Mechanical,2025,Non-binary,SQL,HTML,DBMS,Sports,Gaming,Machine Learning,Yoga,Dancing,Singing,61,69,Higher Studies,Infosys,Final Year Project,English,Hindi,Marathi
+Student_588,Mechanical,2023,Non-binary,CSS,Node.js,JavaScript,Coding,Sports,Music,Reading,Cricket,Football,61,72,Higher Studies,LTI Mindtree,Personal Project,Bengali,Marathi,Hindi
+Student_589,Mechanical,2023,Male,C++,HTML,CSS,Machine Learning,Gaming,Coding,Football,Dancing,Reading,85,66,Entrepreneurship,Google,Internship,Hindi,Bengali,English
+Student_590,Information Technology,2027,Male,JavaScript,C++,Node.js,Sports,UI/UX Design,Music,Gardening,Yoga,Cricket,85,64,Good Job Placement,Amazon,Final Year Project,Bengali,Hindi,English
+Student_591,Computer Science,2024,Female,Java,Python,HTML,Gaming,UI/UX Design,Music,Cricket,Painting,Gardening,80,79,Good Job Placement,Microsoft,Personal Project,Telugu,Hindi,Bengali
+Student_592,Mechanical,2026,Female,React,JavaScript,CSS,Machine Learning,Coding,Music,Singing,Football,Yoga,70,86,Higher Studies,Microsoft,Personal Project,Hindi,English,Bengali
+Student_593,Electronics,2026,Non-binary,SQL,JavaScript,Python,Coding,Machine Learning,Music,Gardening,Singing,Painting,94,85,Higher Studies,Wipro,Internship,Bengali,Telugu,Hindi
+Student_594,Civil,2025,Female,Java,React,SQL,Music,Data Science,Gaming,Football,Reading,Gardening,73,61,Entrepreneurship,Google,Personal Project,English,Bengali,Tamil
+Student_595,Computer Science,2027,Non-binary,Node.js,Java,Python,Music,Gaming,Data Science,Cricket,Reading,Gardening,77,92,Higher Studies,Microsoft,Final Year Project,Hindi,English,Telugu
+Student_596,Mechanical,2026,Male,HTML,C++,JavaScript,UI/UX Design,Sports,Machine Learning,Cricket,Football,Singing,88,88,Good Job Placement,Google,Final Year Project,Marathi,Bengali,Tamil
+Student_597,Mechanical,2026,Non-binary,CSS,Java,Node.js,Sports,Music,Drawing,Painting,Reading,Singing,82,81,Higher Studies,EPAM,Personal Project,English,Marathi,Hindi
+Student_598,Electronics,2024,Male,DBMS,HTML,SQL,UI/UX Design,Coding,Music,Football,Dancing,Painting,86,62,Higher Studies,Google,Internship,Bengali,Tamil,Marathi
+Student_599,Electronics,2027,Non-binary,CSS,DBMS,JavaScript,Drawing,Coding,Machine Learning,Singing,Painting,Reading,79,63,Higher Studies,EPAM,Personal Project,Marathi,Bengali,Tamil
+Student_600,Information Technology,2027,Male,Python,HTML,Node.js,Machine Learning,Data Science,Coding,Reading,Gardening,Cricket,91,85,Entrepreneurship,Google,Personal Project,English,Telugu,Hindi
+Student_601,Civil,2026,Non-binary,CSS,JavaScript,Python,Gaming,UI/UX Design,Data Science,Singing,Cricket,Dancing,71,85,Entrepreneurship,Microsoft,Personal Project,Marathi,Hindi,Tamil
+Student_602,Computer Science,2026,Non-binary,DBMS,CSS,JavaScript,Machine Learning,Drawing,Sports,Singing,Painting,Cricket,82,98,Higher Studies,Wipro,Final Year Project,Marathi,Hindi,English
+Student_603,Information Technology,2023,Non-binary,HTML,DBMS,JavaScript,UI/UX Design,Sports,Data Science,Football,Painting,Yoga,98,95,Entrepreneurship,LTI Mindtree,Internship,Hindi,Marathi,Bengali
+Student_604,Civil,2023,Male,CSS,DBMS,Python,Machine Learning,UI/UX Design,Drawing,Reading,Football,Dancing,66,85,Entrepreneurship,Amazon,Final Year Project,Hindi,Telugu,Marathi
+Student_605,Electronics,2023,Non-binary,JavaScript,HTML,CSS,Sports,Drawing,UI/UX Design,Dancing,Football,Cricket,67,87,Good Job Placement,Microsoft,Internship,Marathi,Telugu,Tamil
+Student_606,Electronics,2023,Male,React,Java,JavaScript,Sports,Gaming,UI/UX Design,Gardening,Cricket,Dancing,66,82,Entrepreneurship,Amazon,Personal Project,Bengali,Marathi,Hindi
+Student_607,Electronics,2025,Non-binary,JavaScript,C++,Node.js,Gaming,Machine Learning,Coding,Football,Singing,Yoga,64,84,Entrepreneurship,Infosys,Final Year Project,Marathi,Tamil,Telugu
+Student_608,Civil,2023,Male,Python,Node.js,DBMS,UI/UX Design,Machine Learning,Data Science,Singing,Painting,Gardening,99,75,Good Job Placement,Amazon,Internship,English,Telugu,Marathi
+Student_609,Mechanical,2025,Non-binary,Java,C++,Node.js,Sports,UI/UX Design,Gaming,Yoga,Gardening,Singing,88,94,Good Job Placement,Wipro,Internship,Telugu,Hindi,English
+Student_610,Electronics,2024,Female,React,Node.js,SQL,Data Science,UI/UX Design,Gaming,Reading,Gardening,Singing,98,80,Higher Studies,LTI Mindtree,Internship,Hindi,English,Bengali
+Student_611,Information Technology,2025,Non-binary,Node.js,HTML,SQL,Drawing,Machine Learning,Coding,Football,Reading,Gardening,78,85,Entrepreneurship,Infosys,Personal Project,Marathi,English,Hindi
+Student_612,Information Technology,2023,Female,Java,SQL,JavaScript,Drawing,UI/UX Design,Data Science,Painting,Dancing,Reading,82,64,Good Job Placement,Amazon,Final Year Project,Tamil,Marathi,Hindi
+Student_613,Electronics,2024,Male,Python,Java,SQL,Gaming,Coding,Machine Learning,Gardening,Cricket,Singing,65,91,Entrepreneurship,EPAM,Internship,Hindi,Marathi,English
+Student_614,Mechanical,2024,Male,JavaScript,SQL,Java,Coding,Data Science,Music,Cricket,Dancing,Singing,94,88,Entrepreneurship,Amazon,Personal Project,Marathi,English,Hindi
+Student_615,Civil,2026,Male,Java,DBMS,React,Sports,UI/UX Design,Data Science,Gardening,Cricket,Painting,81,83,Entrepreneurship,EPAM,Internship,Hindi,Marathi,English
+Student_616,Information Technology,2023,Non-binary,SQL,CSS,HTML,Coding,Data Science,Sports,Football,Gardening,Yoga,80,92,Good Job Placement,Infosys,Personal Project,Tamil,Marathi,Hindi
+Student_617,Information Technology,2025,Non-binary,Node.js,Java,HTML,Sports,UI/UX Design,Machine Learning,Cricket,Dancing,Gardening,69,72,Higher Studies,EPAM,Final Year Project,Hindi,Tamil,Telugu
+Student_618,Mechanical,2025,Female,Java,SQL,CSS,Coding,Sports,Data Science,Dancing,Yoga,Singing,91,75,Higher Studies,Wipro,Internship,Marathi,Bengali,Tamil
+Student_619,Mechanical,2026,Non-binary,C++,DBMS,CSS,Machine Learning,Data Science,Coding,Football,Cricket,Gardening,100,61,Entrepreneurship,Infosys,Internship,Bengali,Marathi,Hindi
+Student_620,Civil,2023,Male,HTML,JavaScript,C++,Sports,Music,Coding,Reading,Dancing,Cricket,64,67,Good Job Placement,Infosys,Internship,Telugu,Marathi,Bengali
+Student_621,Mechanical,2023,Non-binary,JavaScript,HTML,Node.js,Drawing,Data Science,UI/UX Design,Singing,Painting,Football,82,79,Good Job Placement,TCS,Internship,English,Hindi,Marathi
+Student_622,Civil,2026,Male,Java,JavaScript,Node.js,Drawing,UI/UX Design,Coding,Football,Reading,Gardening,63,82,Good Job Placement,Google,Personal Project,Hindi,Telugu,English
+Student_623,Mechanical,2025,Male,SQL,HTML,Node.js,Coding,Music,Machine Learning,Singing,Cricket,Yoga,97,70,Higher Studies,EPAM,Final Year Project,Tamil,English,Bengali
+Student_624,Information Technology,2024,Male,Java,SQL,React,Sports,UI/UX Design,Machine Learning,Reading,Gardening,Cricket,81,92,Entrepreneurship,Infosys,Personal Project,Marathi,Tamil,Bengali
+Student_625,Electronics,2024,Male,Java,JavaScript,CSS,Gaming,Machine Learning,Coding,Reading,Singing,Yoga,75,100,Higher Studies,LTI Mindtree,Personal Project,Tamil,Bengali,Marathi
+Student_626,Computer Science,2025,Female,Python,C++,React,Machine Learning,Drawing,Music,Singing,Painting,Gardening,93,100,Higher Studies,TCS,Final Year Project,Hindi,Bengali,English
+Student_627,Information Technology,2027,Female,DBMS,CSS,React,Gaming,Sports,Data Science,Painting,Football,Reading,76,97,Higher Studies,LTI Mindtree,Internship,Marathi,Telugu,Bengali
+Student_628,Information Technology,2025,Male,Java,CSS,JavaScript,Data Science,UI/UX Design,Machine Learning,Reading,Painting,Cricket,67,91,Higher Studies,Microsoft,Personal Project,English,Telugu,Bengali
+Student_629,Civil,2026,Female,CSS,DBMS,C++,Machine Learning,Drawing,Sports,Cricket,Yoga,Painting,88,78,Good Job Placement,Google,Personal Project,Telugu,English,Marathi
+Student_630,Information Technology,2026,Female,React,Java,CSS,Data Science,Sports,Gaming,Singing,Gardening,Football,93,100,Higher Studies,Infosys,Internship,Telugu,Bengali,Marathi
+Student_631,Computer Science,2025,Non-binary,C++,Node.js,Python,UI/UX Design,Data Science,Music,Yoga,Singing,Reading,71,71,Higher Studies,Amazon,Internship,Tamil,English,Telugu
+Student_632,Information Technology,2025,Male,Java,Node.js,DBMS,Gaming,Drawing,Coding,Yoga,Painting,Dancing,67,68,Higher Studies,Amazon,Final Year Project,Hindi,English,Bengali
+Student_633,Electronics,2023,Male,SQL,DBMS,Node.js,Gaming,Music,Coding,Reading,Football,Cricket,60,72,Entrepreneurship,Amazon,Internship,Bengali,Telugu,Tamil
+Student_634,Information Technology,2025,Male,Node.js,DBMS,C++,Sports,Data Science,UI/UX Design,Gardening,Dancing,Football,74,87,Good Job Placement,Google,Internship,Telugu,English,Marathi
+Student_635,Mechanical,2027,Male,Node.js,React,Python,Sports,Drawing,Gaming,Painting,Singing,Gardening,84,90,Good Job Placement,Amazon,Internship,Tamil,Telugu,Bengali
+Student_636,Electronics,2026,Non-binary,Python,HTML,JavaScript,Data Science,Machine Learning,Drawing,Singing,Yoga,Football,83,72,Entrepreneurship,EPAM,Final Year Project,Bengali,Hindi,Tamil
+Student_637,Electronics,2027,Male,DBMS,HTML,Python,UI/UX Design,Gaming,Sports,Dancing,Gardening,Football,84,68,Good Job Placement,Amazon,Internship,Marathi,Bengali,English
+Student_638,Electronics,2025,Non-binary,Java,HTML,Node.js,Music,Data Science,Machine Learning,Gardening,Reading,Painting,91,77,Good Job Placement,Wipro,Final Year Project,Marathi,Bengali,Hindi
+Student_639,Electronics,2024,Male,HTML,C++,Java,Coding,Data Science,Gaming,Dancing,Painting,Singing,97,84,Higher Studies,Amazon,Final Year Project,Hindi,Marathi,Bengali
+Student_640,Civil,2027,Female,DBMS,SQL,React,Drawing,Coding,Music,Yoga,Painting,Dancing,82,86,Entrepreneurship,Amazon,Final Year Project,Marathi,Bengali,English
+Student_641,Civil,2026,Non-binary,C++,CSS,Python,Gaming,Data Science,Music,Singing,Gardening,Football,67,72,Entrepreneurship,EPAM,Final Year Project,Bengali,Tamil,Telugu
+Student_642,Mechanical,2023,Female,Node.js,DBMS,Java,Music,Data Science,Drawing,Football,Cricket,Dancing,94,69,Good Job Placement,Wipro,Internship,Telugu,Hindi,English
+Student_643,Civil,2025,Non-binary,Python,Node.js,C++,Machine Learning,Sports,Drawing,Gardening,Cricket,Painting,64,84,Entrepreneurship,Wipro,Personal Project,Tamil,Telugu,Hindi
+Student_644,Information Technology,2023,Male,JavaScript,CSS,Node.js,Machine Learning,UI/UX Design,Sports,Dancing,Painting,Yoga,98,74,Entrepreneurship,Amazon,Personal Project,Marathi,Tamil,Bengali
+Student_645,Computer Science,2024,Non-binary,CSS,C++,React,Data Science,Drawing,Music,Gardening,Cricket,Singing,89,70,Higher Studies,Wipro,Final Year Project,Marathi,Telugu,Bengali
+Student_646,Mechanical,2024,Non-binary,CSS,HTML,JavaScript,Coding,UI/UX Design,Sports,Yoga,Cricket,Singing,99,77,Entrepreneurship,Wipro,Internship,Marathi,Bengali,Telugu
+Student_647,Electronics,2024,Female,Java,Node.js,HTML,Data Science,Gaming,UI/UX Design,Dancing,Singing,Yoga,95,65,Higher Studies,Google,Final Year Project,Bengali,Hindi,Marathi
+Student_648,Computer Science,2023,Non-binary,SQL,Python,JavaScript,Coding,Sports,UI/UX Design,Reading,Painting,Yoga,86,77,Higher Studies,TCS,Final Year Project,Tamil,Hindi,Bengali
+Student_649,Civil,2025,Non-binary,Java,SQL,HTML,Drawing,UI/UX Design,Music,Football,Dancing,Reading,83,89,Entrepreneurship,Amazon,Internship,Bengali,Marathi,Hindi
+Student_650,Electronics,2024,Non-binary,Python,Java,HTML,Sports,Coding,Drawing,Football,Gardening,Yoga,88,63,Entrepreneurship,Google,Personal Project,Hindi,Tamil,Telugu
+Student_651,Mechanical,2024,Non-binary,C++,DBMS,JavaScript,Sports,UI/UX Design,Music,Painting,Dancing,Reading,85,94,Good Job Placement,LTI Mindtree,Personal Project,Marathi,Telugu,Hindi
+Student_652,Information Technology,2024,Female,Node.js,React,SQL,UI/UX Design,Sports,Drawing,Dancing,Singing,Reading,93,72,Higher Studies,Wipro,Personal Project,Bengali,English,Hindi
+Student_653,Computer Science,2024,Non-binary,CSS,Python,JavaScript,Drawing,UI/UX Design,Data Science,Cricket,Yoga,Painting,85,62,Good Job Placement,EPAM,Internship,Telugu,Tamil,Bengali
+Student_654,Electronics,2024,Non-binary,JavaScript,Java,Python,Sports,Coding,Drawing,Yoga,Singing,Reading,77,88,Good Job Placement,Wipro,Final Year Project,Bengali,Telugu,English
+Student_655,Civil,2027,Non-binary,C++,DBMS,SQL,UI/UX Design,Machine Learning,Coding,Football,Gardening,Singing,71,64,Entrepreneurship,Amazon,Personal Project,Bengali,Hindi,Tamil
+Student_656,Computer Science,2026,Male,React,SQL,DBMS,Sports,Drawing,Gaming,Football,Dancing,Painting,100,60,Good Job Placement,LTI Mindtree,Final Year Project,English,Tamil,Hindi
+Student_657,Mechanical,2027,Non-binary,HTML,Python,React,Sports,Drawing,Data Science,Cricket,Gardening,Reading,86,82,Good Job Placement,EPAM,Internship,Marathi,Telugu,Bengali
+Student_658,Computer Science,2024,Female,Node.js,JavaScript,React,Sports,Coding,Machine Learning,Singing,Dancing,Cricket,81,86,Higher Studies,Wipro,Personal Project,Marathi,English,Hindi
+Student_659,Electronics,2025,Non-binary,Java,React,CSS,Coding,Sports,UI/UX Design,Painting,Dancing,Reading,96,90,Higher Studies,Microsoft,Personal Project,Telugu,Marathi,Hindi
+Student_660,Civil,2027,Male,CSS,HTML,SQL,Sports,UI/UX Design,Data Science,Painting,Cricket,Reading,71,79,Good Job Placement,Wipro,Final Year Project,Tamil,Hindi,Marathi
+Student_661,Electronics,2026,Non-binary,DBMS,React,C++,Machine Learning,Drawing,Sports,Painting,Singing,Football,91,73,Higher Studies,Microsoft,Personal Project,Telugu,English,Tamil
+Student_662,Information Technology,2024,Non-binary,JavaScript,DBMS,React,Gaming,Drawing,Music,Painting,Cricket,Yoga,81,81,Higher Studies,LTI Mindtree,Final Year Project,Bengali,Marathi,Telugu
+Student_663,Electronics,2027,Male,JavaScript,Python,Java,Music,Data Science,Sports,Reading,Yoga,Football,84,67,Higher Studies,Infosys,Final Year Project,Tamil,English,Marathi
+Student_664,Mechanical,2027,Non-binary,Java,SQL,DBMS,Coding,Drawing,Data Science,Painting,Gardening,Reading,88,74,Entrepreneurship,Infosys,Internship,Telugu,Tamil,Marathi
+Student_665,Electronics,2024,Male,DBMS,JavaScript,CSS,Drawing,Music,UI/UX Design,Reading,Yoga,Dancing,88,73,Entrepreneurship,LTI Mindtree,Final Year Project,Hindi,Marathi,Bengali
+Student_666,Computer Science,2023,Non-binary,Java,SQL,Python,UI/UX Design,Coding,Gaming,Gardening,Singing,Dancing,72,74,Good Job Placement,Google,Internship,Bengali,Tamil,Hindi
+Student_667,Civil,2025,Male,Python,React,C++,Sports,Coding,Drawing,Dancing,Yoga,Singing,61,78,Higher Studies,Amazon,Personal Project,Telugu,Bengali,Marathi
+Student_668,Information Technology,2027,Male,Python,SQL,DBMS,Gaming,Machine Learning,Music,Cricket,Painting,Yoga,84,83,Entrepreneurship,Google,Final Year Project,Marathi,Telugu,English
+Student_669,Mechanical,2027,Non-binary,HTML,React,Java,Drawing,Gaming,Sports,Reading,Yoga,Football,96,60,Good Job Placement,Amazon,Personal Project,Marathi,English,Hindi
+Student_670,Computer Science,2024,Non-binary,HTML,JavaScript,React,Sports,Coding,Music,Gardening,Painting,Dancing,81,61,Good Job Placement,Wipro,Final Year Project,English,Tamil,Bengali
+Student_671,Electronics,2026,Female,Java,JavaScript,HTML,Music,Gaming,Machine Learning,Gardening,Singing,Dancing,83,73,Good Job Placement,TCS,Internship,Marathi,Bengali,English
+Student_672,Electronics,2025,Male,DBMS,Node.js,SQL,Sports,Drawing,Music,Gardening,Yoga,Reading,96,90,Good Job Placement,EPAM,Personal Project,Hindi,Tamil,Bengali
+Student_673,Mechanical,2027,Non-binary,Python,Java,C++,Sports,Gaming,UI/UX Design,Gardening,Reading,Yoga,69,80,Entrepreneurship,EPAM,Personal Project,English,Hindi,Tamil
+Student_674,Computer Science,2025,Male,Python,CSS,C++,Music,Drawing,Gaming,Gardening,Reading,Dancing,73,100,Entrepreneurship,Amazon,Internship,Telugu,Bengali,Hindi
+Student_675,Information Technology,2024,Male,C++,Java,HTML,Coding,UI/UX Design,Gaming,Cricket,Reading,Painting,82,72,Good Job Placement,Wipro,Final Year Project,Bengali,English,Hindi
+Student_676,Electronics,2023,Non-binary,HTML,Java,Node.js,Machine Learning,Gaming,Coding,Dancing,Yoga,Football,75,71,Good Job Placement,Google,Internship,Telugu,Bengali,English
+Student_677,Information Technology,2026,Non-binary,DBMS,HTML,Java,Coding,Gaming,Machine Learning,Football,Painting,Singing,86,97,Good Job Placement,Infosys,Internship,Telugu,Marathi,Bengali
+Student_678,Mechanical,2026,Female,SQL,CSS,JavaScript,Sports,Machine Learning,Gaming,Football,Reading,Painting,72,78,Good Job Placement,Amazon,Personal Project,Marathi,English,Tamil
+Student_679,Civil,2024,Female,Python,JavaScript,DBMS,Data Science,Machine Learning,Sports,Dancing,Football,Painting,60,77,Good Job Placement,LTI Mindtree,Personal Project,Bengali,Telugu,English
+Student_680,Computer Science,2027,Non-binary,DBMS,HTML,React,Sports,Gaming,Data Science,Yoga,Painting,Cricket,66,82,Higher Studies,Wipro,Personal Project,Telugu,Bengali,English
+Student_681,Mechanical,2027,Male,C++,HTML,Node.js,Machine Learning,Data Science,Sports,Dancing,Football,Singing,83,86,Entrepreneurship,Microsoft,Personal Project,Marathi,English,Hindi
+Student_682,Civil,2026,Female,React,Python,HTML,UI/UX Design,Drawing,Coding,Painting,Yoga,Gardening,60,91,Higher Studies,TCS,Personal Project,Tamil,Hindi,English
+Student_683,Information Technology,2023,Female,React,DBMS,Node.js,UI/UX Design,Sports,Machine Learning,Reading,Singing,Football,69,94,Entrepreneurship,LTI Mindtree,Final Year Project,Hindi,English,Telugu
+Student_684,Information Technology,2025,Female,SQL,C++,JavaScript,Gaming,Data Science,UI/UX Design,Dancing,Cricket,Yoga,83,90,Higher Studies,Infosys,Internship,Marathi,Tamil,English
+Student_685,Electronics,2026,Non-binary,DBMS,Java,React,Music,Sports,Drawing,Painting,Reading,Cricket,70,80,Good Job Placement,LTI Mindtree,Personal Project,Hindi,Telugu,Tamil
+Student_686,Civil,2023,Non-binary,Java,JavaScript,SQL,Machine Learning,Sports,UI/UX Design,Painting,Gardening,Cricket,62,98,Entrepreneurship,Google,Personal Project,Bengali,Telugu,English
+Student_687,Information Technology,2025,Female,DBMS,SQL,Java,Sports,UI/UX Design,Drawing,Cricket,Reading,Dancing,61,76,Good Job Placement,LTI Mindtree,Personal Project,Telugu,English,Tamil
+Student_688,Mechanical,2024,Non-binary,React,Python,C++,Data Science,Drawing,Machine Learning,Yoga,Cricket,Football,74,84,Good Job Placement,Microsoft,Personal Project,Hindi,Telugu,Bengali
+Student_689,Civil,2023,Non-binary,JavaScript,Java,React,Music,Gaming,Drawing,Gardening,Cricket,Reading,82,84,Good Job Placement,TCS,Final Year Project,Marathi,Hindi,Telugu
+Student_690,Civil,2025,Female,Node.js,HTML,Python,Coding,Music,Gaming,Singing,Cricket,Painting,67,67,Good Job Placement,Infosys,Internship,Marathi,Telugu,Bengali
+Student_691,Civil,2026,Non-binary,HTML,DBMS,React,Sports,Coding,Data Science,Football,Singing,Dancing,92,60,Good Job Placement,Microsoft,Personal Project,Bengali,Hindi,Marathi
+Student_692,Computer Science,2024,Female,HTML,Python,C++,UI/UX Design,Sports,Music,Painting,Dancing,Yoga,90,69,Higher Studies,Wipro,Final Year Project,Tamil,Hindi,Marathi
+Student_693,Information Technology,2025,Male,HTML,JavaScript,DBMS,Sports,Music,Gaming,Dancing,Football,Cricket,81,86,Entrepreneurship,Amazon,Personal Project,Hindi,Tamil,English
+Student_694,Mechanical,2023,Male,DBMS,CSS,Node.js,Music,Gaming,Machine Learning,Football,Reading,Painting,75,84,Higher Studies,TCS,Internship,Hindi,Bengali,Telugu
+Student_695,Mechanical,2023,Non-binary,DBMS,SQL,Java,Music,Sports,UI/UX Design,Cricket,Painting,Football,62,96,Good Job Placement,TCS,Internship,Hindi,Marathi,Tamil
+Student_696,Information Technology,2024,Non-binary,Python,JavaScript,React,Gaming,Data Science,Drawing,Reading,Singing,Football,66,67,Good Job Placement,Amazon,Final Year Project,English,Tamil,Hindi
+Student_697,Information Technology,2025,Male,CSS,Node.js,React,Music,UI/UX Design,Data Science,Painting,Football,Gardening,87,81,Higher Studies,Amazon,Final Year Project,Tamil,Telugu,Hindi
+Student_698,Computer Science,2024,Non-binary,React,Python,HTML,Data Science,Machine Learning,Sports,Yoga,Cricket,Singing,74,73,Higher Studies,Microsoft,Personal Project,Hindi,Tamil,English
+Student_699,Electronics,2026,Male,CSS,Java,JavaScript,Gaming,Sports,Machine Learning,Painting,Reading,Singing,95,88,Good Job Placement,Infosys,Personal Project,English,Telugu,Marathi
+Student_700,Computer Science,2024,Non-binary,DBMS,SQL,HTML,Gaming,Sports,Drawing,Singing,Yoga,Cricket,63,97,Good Job Placement,Microsoft,Internship,Tamil,English,Telugu
+Student_701,Computer Science,2023,Male,React,Python,C++,Coding,Machine Learning,Gaming,Reading,Yoga,Gardening,74,62,Good Job Placement,EPAM,Internship,Bengali,Marathi,Tamil
+Student_702,Electronics,2024,Male,Python,DBMS,React,Coding,Music,Machine Learning,Reading,Football,Gardening,73,70,Good Job Placement,TCS,Personal Project,Hindi,Telugu,Tamil
+Student_703,Mechanical,2025,Female,DBMS,HTML,JavaScript,Gaming,Music,UI/UX Design,Gardening,Football,Painting,73,86,Good Job Placement,TCS,Personal Project,Telugu,Marathi,Bengali
+Student_704,Computer Science,2026,Male,SQL,JavaScript,CSS,Drawing,Coding,Gaming,Reading,Gardening,Yoga,95,89,Entrepreneurship,LTI Mindtree,Personal Project,Hindi,English,Telugu
+Student_705,Mechanical,2027,Male,HTML,JavaScript,DBMS,Machine Learning,Music,Gaming,Painting,Yoga,Singing,92,82,Good Job Placement,Amazon,Internship,English,Marathi,Tamil
+Student_706,Computer Science,2025,Non-binary,Python,DBMS,CSS,Data Science,Sports,Machine Learning,Painting,Reading,Football,75,80,Entrepreneurship,Amazon,Personal Project,Telugu,Hindi,Tamil
+Student_707,Electronics,2023,Female,Python,SQL,Java,Music,Coding,Gaming,Singing,Gardening,Reading,100,80,Higher Studies,Wipro,Internship,Marathi,Telugu,Tamil
+Student_708,Civil,2025,Female,DBMS,C++,SQL,Sports,UI/UX Design,Drawing,Reading,Cricket,Football,92,92,Entrepreneurship,Wipro,Internship,English,Telugu,Hindi
+Student_709,Civil,2024,Non-binary,JavaScript,React,Python,Gaming,Coding,Music,Yoga,Dancing,Gardening,71,98,Higher Studies,Amazon,Internship,Marathi,Telugu,English
+Student_710,Electronics,2027,Non-binary,DBMS,JavaScript,SQL,Music,Sports,Machine Learning,Gardening,Reading,Yoga,85,90,Entrepreneurship,Google,Personal Project,Hindi,Tamil,Telugu
+Student_711,Civil,2024,Non-binary,CSS,Python,Node.js,Sports,Music,Gaming,Painting,Gardening,Singing,90,79,Entrepreneurship,TCS,Internship,Telugu,Tamil,English
+Student_712,Computer Science,2025,Non-binary,JavaScript,Node.js,Java,Gaming,Coding,Music,Painting,Dancing,Reading,82,80,Higher Studies,EPAM,Final Year Project,Bengali,Telugu,Marathi
+Student_713,Information Technology,2023,Male,CSS,React,Python,Coding,Data Science,Drawing,Yoga,Gardening,Football,87,60,Higher Studies,Infosys,Internship,Marathi,Telugu,Hindi
+Student_714,Information Technology,2026,Female,C++,Java,CSS,Gaming,Sports,UI/UX Design,Dancing,Cricket,Singing,69,67,Entrepreneurship,EPAM,Internship,Marathi,English,Tamil
+Student_715,Civil,2023,Male,Node.js,CSS,Python,Drawing,Coding,Gaming,Gardening,Dancing,Singing,76,92,Entrepreneurship,Infosys,Personal Project,Marathi,Hindi,Tamil
+Student_716,Information Technology,2024,Male,SQL,C++,JavaScript,Machine Learning,Gaming,Drawing,Painting,Cricket,Singing,82,63,Higher Studies,LTI Mindtree,Personal Project,English,Hindi,Telugu
+Student_717,Information Technology,2027,Male,Java,DBMS,SQL,Machine Learning,Sports,Data Science,Dancing,Yoga,Singing,67,71,Good Job Placement,Microsoft,Personal Project,English,Marathi,Hindi
+Student_718,Electronics,2024,Female,CSS,Java,JavaScript,Machine Learning,Data Science,Sports,Football,Cricket,Reading,88,66,Good Job Placement,LTI Mindtree,Personal Project,Telugu,Marathi,Bengali
+Student_719,Electronics,2027,Non-binary,React,SQL,CSS,Coding,Sports,Machine Learning,Cricket,Reading,Dancing,76,72,Higher Studies,Google,Personal Project,Tamil,Telugu,English
+Student_720,Civil,2026,Non-binary,DBMS,Java,HTML,Gaming,UI/UX Design,Drawing,Painting,Dancing,Singing,98,67,Good Job Placement,EPAM,Final Year Project,Bengali,Hindi,Marathi
+Student_721,Civil,2025,Male,C++,React,Node.js,Drawing,UI/UX Design,Data Science,Football,Reading,Gardening,65,62,Good Job Placement,Wipro,Personal Project,Telugu,Bengali,Tamil
+Student_722,Civil,2024,Non-binary,Java,HTML,CSS,Gaming,Sports,Drawing,Football,Cricket,Painting,66,82,Good Job Placement,Wipro,Internship,English,Marathi,Bengali
+Student_723,Computer Science,2024,Non-binary,Python,HTML,CSS,Drawing,UI/UX Design,Machine Learning,Yoga,Dancing,Gardening,61,92,Higher Studies,LTI Mindtree,Internship,Hindi,English,Tamil
+Student_724,Electronics,2026,Female,Python,Node.js,DBMS,Machine Learning,UI/UX Design,Drawing,Singing,Football,Reading,97,65,Entrepreneurship,EPAM,Personal Project,Telugu,Marathi,Hindi
+Student_725,Electronics,2024,Female,DBMS,Java,Node.js,Music,Machine Learning,Gaming,Football,Yoga,Gardening,93,94,Higher Studies,LTI Mindtree,Internship,Bengali,Telugu,Hindi
+Student_726,Mechanical,2023,Female,JavaScript,C++,HTML,Gaming,Drawing,Machine Learning,Cricket,Painting,Yoga,84,76,Higher Studies,Wipro,Internship,Marathi,Bengali,Hindi
+Student_727,Mechanical,2027,Non-binary,Node.js,HTML,C++,Music,Sports,Machine Learning,Painting,Cricket,Gardening,81,65,Entrepreneurship,Amazon,Personal Project,Telugu,English,Bengali
+Student_728,Civil,2027,Female,SQL,Python,JavaScript,Data Science,Sports,Machine Learning,Football,Cricket,Reading,88,90,Higher Studies,TCS,Personal Project,Hindi,Marathi,Telugu
+Student_729,Mechanical,2025,Non-binary,DBMS,Python,HTML,Music,Gaming,UI/UX Design,Cricket,Painting,Reading,96,98,Good Job Placement,Infosys,Final Year Project,Bengali,Tamil,Telugu
+Student_730,Computer Science,2026,Male,CSS,C++,HTML,Coding,Drawing,UI/UX Design,Singing,Painting,Reading,95,68,Good Job Placement,Amazon,Final Year Project,English,Tamil,Marathi
+Student_731,Electronics,2024,Male,CSS,C++,Node.js,Music,Data Science,Gaming,Football,Painting,Dancing,80,84,Entrepreneurship,TCS,Final Year Project,Bengali,English,Tamil
+Student_732,Mechanical,2026,Male,DBMS,JavaScript,Python,Gaming,Machine Learning,Music,Football,Singing,Gardening,62,81,Good Job Placement,Wipro,Personal Project,Telugu,Bengali,Tamil
+Student_733,Civil,2027,Female,Java,C++,JavaScript,Drawing,Coding,Sports,Singing,Yoga,Cricket,69,91,Good Job Placement,LTI Mindtree,Personal Project,Hindi,Bengali,Telugu
+Student_734,Mechanical,2024,Non-binary,Node.js,Python,C++,Gaming,Machine Learning,Data Science,Singing,Football,Gardening,73,98,Good Job Placement,Infosys,Internship,Tamil,Telugu,Bengali
+Student_735,Computer Science,2025,Female,Python,JavaScript,C++,Coding,Drawing,Music,Gardening,Yoga,Cricket,83,63,Good Job Placement,Infosys,Final Year Project,English,Hindi,Telugu
+Student_736,Computer Science,2024,Female,Python,CSS,HTML,Sports,Coding,UI/UX Design,Dancing,Yoga,Reading,90,61,Higher Studies,Amazon,Internship,Bengali,Hindi,Marathi
+Student_737,Information Technology,2025,Non-binary,JavaScript,React,Java,Data Science,UI/UX Design,Coding,Dancing,Cricket,Singing,87,73,Entrepreneurship,Amazon,Personal Project,Telugu,Hindi,Marathi
+Student_738,Electronics,2026,Male,HTML,Python,DBMS,Sports,Music,Gaming,Singing,Reading,Cricket,70,65,Good Job Placement,Wipro,Final Year Project,Tamil,Hindi,Marathi
+Student_739,Computer Science,2027,Non-binary,Node.js,HTML,React,Data Science,Gaming,Music,Yoga,Football,Cricket,83,64,Entrepreneurship,Google,Personal Project,Marathi,English,Telugu
+Student_740,Mechanical,2024,Female,C++,CSS,React,UI/UX Design,Music,Coding,Painting,Gardening,Cricket,69,90,Entrepreneurship,TCS,Personal Project,Bengali,Telugu,English
+Student_741,Mechanical,2026,Non-binary,SQL,HTML,C++,Data Science,Gaming,Music,Singing,Yoga,Reading,97,74,Entrepreneurship,LTI Mindtree,Personal Project,Marathi,Tamil,Telugu
+Student_742,Electronics,2026,Male,CSS,HTML,DBMS,Data Science,Machine Learning,Music,Football,Gardening,Singing,98,76,Good Job Placement,LTI Mindtree,Personal Project,Bengali,English,Telugu
+Student_743,Mechanical,2024,Female,CSS,DBMS,JavaScript,Coding,Machine Learning,Gaming,Painting,Gardening,Yoga,93,93,Higher Studies,Infosys,Personal Project,Bengali,Marathi,Telugu
+Student_744,Information Technology,2025,Non-binary,React,SQL,JavaScript,Data Science,Gaming,Sports,Singing,Reading,Painting,77,61,Good Job Placement,Microsoft,Internship,Telugu,Tamil,English
+Student_745,Mechanical,2026,Female,Python,Node.js,Java,Gaming,Coding,Drawing,Cricket,Reading,Dancing,69,93,Higher Studies,Wipro,Internship,Marathi,Telugu,English
+Student_746,Information Technology,2023,Non-binary,Java,DBMS,C++,Coding,Sports,Music,Painting,Football,Dancing,68,75,Higher Studies,LTI Mindtree,Personal Project,Hindi,Bengali,Marathi
+Student_747,Electronics,2023,Male,SQL,React,Node.js,Machine Learning,Gaming,Music,Football,Cricket,Reading,97,92,Good Job Placement,LTI Mindtree,Final Year Project,Tamil,Bengali,Marathi
+Student_748,Electronics,2025,Male,Java,React,Python,UI/UX Design,Machine Learning,Data Science,Singing,Painting,Reading,72,78,Entrepreneurship,TCS,Internship,Telugu,Hindi,English
+Student_749,Computer Science,2026,Non-binary,DBMS,Python,Node.js,Data Science,Machine Learning,Gaming,Painting,Reading,Singing,64,84,Higher Studies,Microsoft,Final Year Project,Telugu,Bengali,Tamil
+Student_750,Computer Science,2026,Male,React,Python,Node.js,Music,Machine Learning,Sports,Cricket,Football,Gardening,100,94,Good Job Placement,EPAM,Internship,Marathi,English,Tamil
+Student_751,Computer Science,2024,Male,SQL,DBMS,Node.js,Machine Learning,Gaming,Drawing,Painting,Gardening,Yoga,69,70,Good Job Placement,EPAM,Internship,Telugu,Tamil,Bengali
+Student_752,Computer Science,2024,Female,JavaScript,Java,Python,Coding,Drawing,Music,Cricket,Gardening,Reading,93,64,Entrepreneurship,Microsoft,Final Year Project,Bengali,English,Marathi
+Student_753,Electronics,2024,Female,Java,DBMS,SQL,Sports,UI/UX Design,Data Science,Dancing,Football,Reading,66,94,Higher Studies,Amazon,Final Year Project,Bengali,English,Tamil
+Student_754,Information Technology,2025,Non-binary,JavaScript,Node.js,CSS,Coding,Data Science,Music,Singing,Yoga,Reading,100,81,Entrepreneurship,Infosys,Final Year Project,Marathi,English,Telugu
+Student_755,Information Technology,2023,Female,Java,SQL,HTML,Gaming,Drawing,Data Science,Football,Yoga,Cricket,66,80,Entrepreneurship,Google,Final Year Project,Telugu,Bengali,Marathi
+Student_756,Computer Science,2026,Non-binary,DBMS,React,HTML,Sports,Data Science,Gaming,Cricket,Yoga,Reading,87,86,Higher Studies,Wipro,Final Year Project,English,Tamil,Marathi
+Student_757,Information Technology,2024,Female,Python,DBMS,CSS,Music,Gaming,UI/UX Design,Painting,Cricket,Football,88,90,Good Job Placement,Wipro,Personal Project,Hindi,Telugu,Marathi
+Student_758,Civil,2023,Female,CSS,Node.js,SQL,Sports,Drawing,Machine Learning,Singing,Yoga,Reading,66,67,Good Job Placement,TCS,Internship,Marathi,English,Tamil
+Student_759,Electronics,2023,Female,SQL,JavaScript,HTML,Sports,Data Science,Machine Learning,Reading,Yoga,Painting,88,66,Higher Studies,Wipro,Internship,Bengali,Marathi,Hindi
+Student_760,Electronics,2025,Non-binary,React,CSS,SQL,Sports,Machine Learning,Drawing,Dancing,Reading,Football,87,65,Higher Studies,Wipro,Final Year Project,Bengali,Tamil,English
+Student_761,Computer Science,2024,Non-binary,React,CSS,Node.js,Gaming,Coding,UI/UX Design,Yoga,Cricket,Painting,66,97,Entrepreneurship,Amazon,Internship,English,Marathi,Tamil
+Student_762,Information Technology,2026,Male,Node.js,Java,SQL,Data Science,Machine Learning,Music,Painting,Reading,Singing,80,79,Entrepreneurship,Microsoft,Internship,Marathi,Bengali,Hindi
+Student_763,Computer Science,2023,Female,Node.js,CSS,Java,Coding,Music,Gaming,Cricket,Singing,Painting,91,62,Entrepreneurship,Microsoft,Personal Project,Marathi,Bengali,Hindi
+Student_764,Mechanical,2024,Male,HTML,C++,Java,Drawing,Data Science,Coding,Football,Singing,Dancing,68,96,Higher Studies,EPAM,Personal Project,English,Hindi,Marathi
+Student_765,Electronics,2027,Female,React,C++,HTML,Coding,Gaming,Drawing,Yoga,Football,Singing,80,66,Entrepreneurship,Google,Personal Project,Marathi,Bengali,English
+Student_766,Mechanical,2023,Female,Java,Node.js,Python,Music,Data Science,Drawing,Gardening,Painting,Singing,86,84,Higher Studies,Google,Personal Project,Telugu,Bengali,Hindi
+Student_767,Civil,2026,Male,JavaScript,Python,HTML,Music,UI/UX Design,Data Science,Singing,Cricket,Reading,74,68,Entrepreneurship,Google,Internship,Bengali,Marathi,Tamil
+Student_768,Mechanical,2027,Male,JavaScript,HTML,DBMS,Coding,Machine Learning,Gaming,Painting,Football,Gardening,73,98,Entrepreneurship,Infosys,Internship,English,Bengali,Marathi
+Student_769,Information Technology,2025,Male,HTML,CSS,DBMS,Coding,Machine Learning,Drawing,Cricket,Football,Gardening,79,89,Higher Studies,EPAM,Internship,Bengali,Telugu,Marathi
+Student_770,Computer Science,2024,Female,SQL,JavaScript,React,Coding,Gaming,Machine Learning,Painting,Singing,Dancing,68,63,Good Job Placement,Infosys,Final Year Project,Marathi,Hindi,Bengali
+Student_771,Mechanical,2024,Male,DBMS,Node.js,HTML,Music,Sports,Data Science,Reading,Dancing,Football,64,71,Entrepreneurship,LTI Mindtree,Final Year Project,Hindi,English,Bengali
+Student_772,Electronics,2026,Non-binary,Python,DBMS,JavaScript,Gaming,Data Science,Drawing,Yoga,Singing,Cricket,86,89,Good Job Placement,Amazon,Personal Project,Telugu,Bengali,Tamil
+Student_773,Computer Science,2024,Female,HTML,Node.js,Java,Gaming,Machine Learning,Sports,Gardening,Dancing,Painting,64,91,Entrepreneurship,Microsoft,Final Year Project,Tamil,English,Marathi
+Student_774,Mechanical,2025,Male,CSS,Python,SQL,Data Science,Machine Learning,UI/UX Design,Yoga,Reading,Cricket,83,77,Entrepreneurship,EPAM,Final Year Project,English,Marathi,Tamil
+Student_775,Mechanical,2025,Female,CSS,Python,DBMS,Machine Learning,Drawing,Gaming,Cricket,Dancing,Yoga,66,90,Higher Studies,Infosys,Internship,Marathi,Hindi,Bengali
+Student_776,Mechanical,2024,Male,CSS,C++,DBMS,Coding,Machine Learning,Gaming,Football,Cricket,Reading,78,78,Good Job Placement,Infosys,Personal Project,English,Marathi,Tamil
+Student_777,Civil,2027,Female,DBMS,React,Python,Data Science,Music,Gaming,Cricket,Singing,Dancing,90,99,Higher Studies,Microsoft,Internship,Telugu,English,Bengali
+Student_778,Computer Science,2027,Non-binary,C++,HTML,CSS,Sports,Drawing,Data Science,Dancing,Gardening,Yoga,81,70,Good Job Placement,Microsoft,Final Year Project,Tamil,Hindi,Marathi
+Student_779,Electronics,2023,Female,Java,Python,SQL,Drawing,UI/UX Design,Gaming,Football,Dancing,Yoga,79,80,Higher Studies,EPAM,Personal Project,Hindi,English,Bengali
+Student_780,Mechanical,2027,Female,DBMS,C++,SQL,UI/UX Design,Gaming,Sports,Dancing,Painting,Yoga,70,74,Good Job Placement,EPAM,Internship,Bengali,Marathi,English
+Student_781,Civil,2027,Non-binary,C++,CSS,Python,Coding,Machine Learning,Drawing,Painting,Gardening,Football,65,61,Entrepreneurship,Microsoft,Final Year Project,Telugu,Tamil,English
+Student_782,Computer Science,2026,Female,C++,React,HTML,Music,Sports,Drawing,Reading,Yoga,Painting,69,93,Good Job Placement,Infosys,Internship,Telugu,Tamil,Hindi
+Student_783,Computer Science,2024,Male,Python,HTML,SQL,Sports,Machine Learning,Coding,Dancing,Singing,Painting,70,62,Good Job Placement,TCS,Final Year Project,English,Telugu,Tamil
+Student_784,Mechanical,2027,Non-binary,C++,Node.js,HTML,Data Science,Coding,Gaming,Yoga,Football,Cricket,99,79,Higher Studies,Amazon,Internship,Bengali,English,Hindi
+Student_785,Electronics,2025,Female,Java,SQL,Python,UI/UX Design,Coding,Sports,Singing,Reading,Painting,60,87,Entrepreneurship,EPAM,Final Year Project,Tamil,Bengali,Telugu
+Student_786,Electronics,2026,Male,Python,C++,CSS,Machine Learning,Gaming,Drawing,Painting,Reading,Yoga,64,85,Entrepreneurship,Google,Final Year Project,Hindi,Marathi,Telugu
+Student_787,Computer Science,2023,Female,HTML,CSS,React,Coding,Drawing,Sports,Cricket,Painting,Gardening,87,100,Higher Studies,Microsoft,Personal Project,Telugu,Bengali,English
+Student_788,Mechanical,2027,Non-binary,Java,SQL,Node.js,Coding,Drawing,Data Science,Yoga,Gardening,Singing,94,62,Higher Studies,Infosys,Internship,Tamil,Marathi,Telugu
+Student_789,Computer Science,2026,Non-binary,DBMS,HTML,C++,Machine Learning,Gaming,Data Science,Reading,Yoga,Gardening,98,88,Entrepreneurship,Wipro,Internship,Hindi,English,Bengali
+Student_790,Information Technology,2024,Female,Node.js,React,CSS,UI/UX Design,Drawing,Sports,Gardening,Yoga,Reading,69,73,Higher Studies,Google,Final Year Project,English,Tamil,Bengali
+Student_791,Civil,2024,Female,Python,HTML,DBMS,Music,Gaming,Data Science,Reading,Painting,Dancing,62,95,Higher Studies,Microsoft,Final Year Project,Hindi,Marathi,Bengali
+Student_792,Civil,2025,Non-binary,C++,Python,Node.js,Coding,Drawing,Gaming,Gardening,Reading,Cricket,60,73,Higher Studies,Infosys,Final Year Project,English,Tamil,Hindi
+Student_793,Civil,2027,Male,Node.js,Java,C++,Drawing,Data Science,Sports,Singing,Reading,Football,97,77,Good Job Placement,Infosys,Internship,Bengali,English,Hindi
+Student_794,Computer Science,2025,Female,Python,HTML,C++,Coding,UI/UX Design,Gaming,Gardening,Dancing,Yoga,64,62,Good Job Placement,LTI Mindtree,Personal Project,Telugu,English,Marathi
+Student_795,Electronics,2026,Female,HTML,Java,C++,UI/UX Design,Sports,Drawing,Gardening,Football,Painting,86,97,Good Job Placement,LTI Mindtree,Internship,Marathi,Tamil,Bengali
+Student_796,Information Technology,2023,Male,HTML,React,SQL,Machine Learning,Coding,Data Science,Gardening,Cricket,Football,63,81,Good Job Placement,Amazon,Personal Project,Tamil,Bengali,Marathi
+Student_797,Civil,2024,Non-binary,C++,HTML,JavaScript,Music,Gaming,Sports,Singing,Gardening,Yoga,60,88,Entrepreneurship,Amazon,Final Year Project,Marathi,Hindi,English
+Student_798,Computer Science,2024,Non-binary,Python,JavaScript,Node.js,UI/UX Design,Drawing,Coding,Football,Yoga,Gardening,92,85,Good Job Placement,Microsoft,Final Year Project,Tamil,Marathi,Hindi
+Student_799,Information Technology,2025,Non-binary,JavaScript,React,DBMS,Drawing,Data Science,Machine Learning,Yoga,Gardening,Cricket,75,94,Higher Studies,Infosys,Internship,English,Marathi,Bengali
+Student_800,Civil,2023,Male,DBMS,Java,React,Gaming,Coding,Machine Learning,Dancing,Gardening,Football,75,73,Good Job Placement,Infosys,Personal Project,Telugu,English,Tamil
+Student_801,Computer Science,2027,Male,C++,CSS,React,Sports,UI/UX Design,Coding,Yoga,Singing,Dancing,95,78,Good Job Placement,EPAM,Internship,Telugu,Bengali,English
+Student_802,Computer Science,2025,Male,SQL,C++,DBMS,Coding,Gaming,Data Science,Yoga,Singing,Gardening,98,89,Higher Studies,Microsoft,Final Year Project,Tamil,English,Hindi
+Student_803,Mechanical,2023,Male,SQL,Java,HTML,Gaming,Sports,Coding,Gardening,Painting,Reading,88,69,Entrepreneurship,Amazon,Internship,Marathi,English,Telugu
+Student_804,Civil,2026,Non-binary,Node.js,DBMS,Java,Sports,UI/UX Design,Coding,Painting,Football,Dancing,71,92,Entrepreneurship,EPAM,Personal Project,English,Marathi,Bengali
+Student_805,Civil,2027,Non-binary,SQL,C++,HTML,Drawing,Sports,UI/UX Design,Football,Reading,Yoga,96,79,Higher Studies,Amazon,Personal Project,Bengali,English,Telugu
+Student_806,Electronics,2024,Male,JavaScript,React,Python,Data Science,Drawing,Gaming,Cricket,Singing,Football,66,96,Higher Studies,Amazon,Internship,Telugu,Tamil,Bengali
+Student_807,Computer Science,2027,Non-binary,DBMS,React,Python,Machine Learning,Drawing,Coding,Gardening,Dancing,Yoga,74,96,Entrepreneurship,Microsoft,Internship,Telugu,Hindi,Marathi
+Student_808,Information Technology,2024,Female,Python,SQL,CSS,Sports,Data Science,Gaming,Singing,Yoga,Football,63,68,Higher Studies,Microsoft,Internship,Marathi,English,Hindi
+Student_809,Civil,2026,Male,Node.js,CSS,DBMS,Gaming,Music,Drawing,Football,Reading,Singing,96,88,Higher Studies,EPAM,Internship,Telugu,Hindi,English
+Student_810,Mechanical,2025,Male,C++,HTML,Python,Machine Learning,Drawing,Gaming,Painting,Football,Gardening,77,100,Entrepreneurship,TCS,Final Year Project,Hindi,English,Marathi
+Student_811,Electronics,2027,Male,HTML,JavaScript,C++,Music,Sports,Machine Learning,Painting,Cricket,Gardening,83,87,Higher Studies,TCS,Internship,Hindi,Telugu,English
+Student_812,Electronics,2023,Male,C++,Java,React,Machine Learning,Data Science,Sports,Yoga,Painting,Reading,93,93,Good Job Placement,TCS,Personal Project,Tamil,Marathi,English
+Student_813,Civil,2025,Non-binary,C++,CSS,JavaScript,Coding,Music,Drawing,Football,Gardening,Yoga,89,95,Entrepreneurship,Microsoft,Internship,Marathi,Hindi,Telugu
+Student_814,Electronics,2027,Female,HTML,DBMS,React,Drawing,Music,Data Science,Reading,Cricket,Yoga,76,75,Good Job Placement,LTI Mindtree,Internship,Bengali,English,Marathi
+Student_815,Information Technology,2025,Non-binary,HTML,CSS,JavaScript,Data Science,Machine Learning,UI/UX Design,Football,Dancing,Singing,67,92,Good Job Placement,EPAM,Final Year Project,Marathi,English,Tamil
+Student_816,Mechanical,2025,Male,JavaScript,SQL,CSS,UI/UX Design,Sports,Music,Painting,Singing,Dancing,98,78,Entrepreneurship,TCS,Internship,Tamil,Telugu,Marathi
+Student_817,Information Technology,2025,Male,HTML,DBMS,Python,UI/UX Design,Sports,Data Science,Reading,Football,Dancing,77,89,Good Job Placement,Google,Final Year Project,Tamil,Telugu,English
+Student_818,Computer Science,2027,Female,React,C++,JavaScript,Sports,Data Science,Coding,Cricket,Football,Gardening,65,71,Higher Studies,Wipro,Personal Project,Hindi,Telugu,Bengali
+Student_819,Civil,2026,Male,CSS,Java,DBMS,Data Science,Drawing,Sports,Yoga,Singing,Cricket,79,68,Higher Studies,LTI Mindtree,Personal Project,Hindi,Tamil,Bengali
+Student_820,Mechanical,2024,Non-binary,DBMS,HTML,CSS,Coding,UI/UX Design,Data Science,Cricket,Reading,Dancing,74,84,Good Job Placement,Infosys,Internship,Tamil,Hindi,English
+Student_821,Mechanical,2024,Male,Node.js,DBMS,Java,Gaming,UI/UX Design,Data Science,Singing,Reading,Painting,93,85,Entrepreneurship,Google,Internship,English,Bengali,Telugu
+Student_822,Electronics,2024,Non-binary,CSS,React,Node.js,Data Science,Sports,Coding,Football,Cricket,Reading,92,64,Good Job Placement,Infosys,Personal Project,Bengali,Telugu,Marathi
+Student_823,Information Technology,2027,Female,React,Node.js,C++,Gaming,Data Science,Coding,Gardening,Dancing,Football,92,75,Entrepreneurship,Microsoft,Final Year Project,Hindi,Telugu,Bengali
+Student_824,Electronics,2025,Male,HTML,CSS,Python,UI/UX Design,Data Science,Sports,Cricket,Gardening,Painting,92,72,Good Job Placement,LTI Mindtree,Internship,Tamil,Telugu,Bengali
+Student_825,Information Technology,2024,Non-binary,JavaScript,SQL,Node.js,Data Science,Coding,Drawing,Reading,Football,Dancing,86,82,Entrepreneurship,Amazon,Final Year Project,Bengali,English,Hindi
+Student_826,Electronics,2026,Female,JavaScript,CSS,HTML,UI/UX Design,Drawing,Data Science,Football,Cricket,Yoga,99,97,Good Job Placement,EPAM,Personal Project,Hindi,English,Tamil
+Student_827,Civil,2023,Non-binary,DBMS,React,C++,Coding,Gaming,Machine Learning,Dancing,Cricket,Singing,84,94,Good Job Placement,TCS,Final Year Project,English,Tamil,Hindi
+Student_828,Electronics,2027,Male,Node.js,Python,JavaScript,Coding,Gaming,Drawing,Football,Yoga,Cricket,82,94,Higher Studies,LTI Mindtree,Final Year Project,Hindi,English,Marathi
+Student_829,Mechanical,2026,Male,SQL,Java,Python,Gaming,Sports,Music,Cricket,Dancing,Painting,80,70,Higher Studies,LTI Mindtree,Internship,Hindi,Marathi,Tamil
+Student_830,Electronics,2025,Female,HTML,DBMS,Node.js,Drawing,Data Science,Machine Learning,Yoga,Gardening,Painting,65,99,Entrepreneurship,Google,Personal Project,English,Telugu,Marathi
+Student_831,Electronics,2026,Male,CSS,C++,Node.js,Machine Learning,Data Science,Gaming,Football,Dancing,Painting,94,85,Good Job Placement,EPAM,Internship,Bengali,Telugu,Tamil
+Student_832,Civil,2025,Female,HTML,Java,React,Sports,Machine Learning,UI/UX Design,Painting,Yoga,Reading,86,96,Entrepreneurship,EPAM,Internship,Tamil,Marathi,Hindi
+Student_833,Civil,2024,Female,SQL,CSS,HTML,Sports,UI/UX Design,Drawing,Football,Yoga,Dancing,62,96,Entrepreneurship,EPAM,Internship,Hindi,Marathi,Bengali
+Student_834,Information Technology,2026,Female,DBMS,JavaScript,C++,Drawing,Machine Learning,Data Science,Gardening,Painting,Yoga,73,82,Higher Studies,LTI Mindtree,Internship,Hindi,Marathi,Telugu
+Student_835,Mechanical,2025,Male,DBMS,Java,HTML,Data Science,Coding,Machine Learning,Football,Painting,Yoga,87,95,Entrepreneurship,Amazon,Internship,Bengali,English,Marathi
+Student_836,Computer Science,2026,Female,JavaScript,Python,SQL,Machine Learning,Drawing,Music,Reading,Cricket,Gardening,85,83,Higher Studies,TCS,Internship,Marathi,Hindi,Bengali
+Student_837,Mechanical,2027,Female,DBMS,C++,JavaScript,Music,Gaming,Data Science,Singing,Gardening,Cricket,70,79,Good Job Placement,Infosys,Final Year Project,Marathi,Hindi,Telugu
+Student_838,Computer Science,2027,Male,SQL,Java,Python,UI/UX Design,Drawing,Machine Learning,Reading,Singing,Painting,75,89,Good Job Placement,Amazon,Internship,Marathi,English,Telugu
+Student_839,Computer Science,2023,Male,Python,SQL,Java,Gaming,UI/UX Design,Sports,Singing,Football,Yoga,87,62,Good Job Placement,Google,Personal Project,Bengali,Tamil,English
+Student_840,Electronics,2026,Male,JavaScript,DBMS,HTML,Music,Data Science,Coding,Dancing,Football,Gardening,73,89,Higher Studies,Google,Personal Project,Tamil,Marathi,Bengali
+Student_841,Information Technology,2027,Male,DBMS,SQL,React,Drawing,Music,Data Science,Gardening,Cricket,Dancing,93,65,Higher Studies,Amazon,Internship,English,Marathi,Hindi
+Student_842,Computer Science,2026,Female,JavaScript,DBMS,HTML,Music,Gaming,Sports,Gardening,Yoga,Painting,87,72,Good Job Placement,TCS,Personal Project,Marathi,Bengali,Telugu
+Student_843,Information Technology,2023,Non-binary,C++,DBMS,HTML,Coding,Data Science,Machine Learning,Painting,Yoga,Football,62,80,Good Job Placement,Microsoft,Internship,Marathi,Bengali,Tamil
+Student_844,Electronics,2026,Male,CSS,JavaScript,DBMS,Drawing,Music,Data Science,Cricket,Singing,Gardening,81,82,Good Job Placement,Microsoft,Personal Project,English,Telugu,Bengali
+Student_845,Civil,2023,Male,DBMS,C++,HTML,UI/UX Design,Drawing,Machine Learning,Football,Singing,Painting,74,90,Entrepreneurship,LTI Mindtree,Personal Project,Marathi,English,Tamil
+Student_846,Computer Science,2024,Non-binary,React,C++,DBMS,UI/UX Design,Gaming,Machine Learning,Football,Dancing,Yoga,77,95,Entrepreneurship,Wipro,Internship,Hindi,Tamil,Telugu
+Student_847,Computer Science,2023,Non-binary,Java,HTML,JavaScript,Gaming,Machine Learning,UI/UX Design,Reading,Singing,Gardening,94,67,Higher Studies,LTI Mindtree,Final Year Project,Tamil,English,Telugu
+Student_848,Civil,2023,Male,CSS,Java,React,Data Science,Machine Learning,Music,Painting,Football,Reading,69,79,Higher Studies,LTI Mindtree,Internship,Tamil,Telugu,Marathi
+Student_849,Computer Science,2023,Non-binary,C++,DBMS,HTML,Gaming,Drawing,Coding,Yoga,Painting,Dancing,100,98,Good Job Placement,Wipro,Personal Project,English,Telugu,Bengali
+Student_850,Civil,2023,Non-binary,Python,Java,HTML,Machine Learning,Data Science,Coding,Reading,Gardening,Singing,76,75,Higher Studies,TCS,Final Year Project,Marathi,Telugu,Tamil
+Student_851,Computer Science,2027,Female,Node.js,React,C++,Sports,Machine Learning,Drawing,Singing,Painting,Reading,75,96,Good Job Placement,Google,Internship,Bengali,Marathi,Tamil
+Student_852,Information Technology,2026,Non-binary,React,HTML,Node.js,Gaming,UI/UX Design,Sports,Football,Yoga,Dancing,72,70,Good Job Placement,Wipro,Personal Project,Tamil,English,Bengali
+Student_853,Mechanical,2024,Female,Node.js,C++,React,Sports,Data Science,Coding,Gardening,Cricket,Singing,61,78,Higher Studies,Wipro,Final Year Project,Tamil,Bengali,Marathi
+Student_854,Electronics,2024,Female,C++,CSS,Node.js,Machine Learning,UI/UX Design,Sports,Gardening,Dancing,Painting,71,94,Good Job Placement,Infosys,Final Year Project,Telugu,Tamil,Hindi
+Student_855,Mechanical,2024,Female,CSS,C++,JavaScript,Gaming,Coding,Data Science,Yoga,Singing,Cricket,81,81,Entrepreneurship,Wipro,Personal Project,Tamil,Marathi,Telugu
+Student_856,Computer Science,2026,Non-binary,Java,HTML,React,Coding,UI/UX Design,Gaming,Dancing,Reading,Yoga,71,66,Higher Studies,Google,Internship,Telugu,Marathi,Bengali
+Student_857,Mechanical,2026,Female,SQL,Python,Node.js,Gaming,Music,Data Science,Yoga,Reading,Singing,73,77,Entrepreneurship,Infosys,Final Year Project,English,Marathi,Bengali
+Student_858,Electronics,2026,Male,SQL,HTML,DBMS,Drawing,Gaming,Sports,Cricket,Gardening,Yoga,68,76,Entrepreneurship,EPAM,Personal Project,Marathi,English,Telugu
+Student_859,Information Technology,2026,Female,CSS,DBMS,Python,Machine Learning,Sports,Gaming,Cricket,Singing,Dancing,71,96,Higher Studies,Amazon,Internship,Telugu,Marathi,Tamil
+Student_860,Computer Science,2027,Non-binary,SQL,React,DBMS,Machine Learning,Data Science,Music,Cricket,Singing,Painting,87,96,Higher Studies,LTI Mindtree,Final Year Project,Tamil,Telugu,Marathi
+Student_861,Electronics,2024,Male,Python,Java,React,Gaming,Drawing,Data Science,Cricket,Dancing,Yoga,68,67,Good Job Placement,TCS,Personal Project,Tamil,Marathi,Bengali
+Student_862,Computer Science,2024,Female,JavaScript,C++,DBMS,UI/UX Design,Music,Machine Learning,Gardening,Yoga,Painting,89,85,Entrepreneurship,LTI Mindtree,Personal Project,English,Bengali,Tamil
+Student_863,Information Technology,2026,Female,DBMS,Node.js,HTML,Gaming,Music,UI/UX Design,Painting,Dancing,Reading,70,79,Entrepreneurship,Microsoft,Final Year Project,Telugu,English,Hindi
+Student_864,Civil,2027,Female,DBMS,Node.js,C++,Drawing,Data Science,Coding,Reading,Painting,Cricket,78,67,Entrepreneurship,Google,Internship,Tamil,Bengali,Hindi
+Student_865,Computer Science,2026,Male,C++,SQL,CSS,Music,Drawing,Gaming,Dancing,Painting,Singing,89,77,Higher Studies,Infosys,Final Year Project,Marathi,Bengali,Tamil
+Student_866,Mechanical,2024,Male,Node.js,React,Java,Machine Learning,Drawing,Sports,Yoga,Dancing,Cricket,63,65,Good Job Placement,Amazon,Personal Project,Tamil,Telugu,Bengali
+Student_867,Computer Science,2026,Non-binary,Python,JavaScript,Node.js,Coding,Drawing,Data Science,Gardening,Football,Yoga,66,75,Higher Studies,Google,Personal Project,Bengali,English,Hindi
+Student_868,Information Technology,2026,Male,C++,DBMS,JavaScript,UI/UX Design,Sports,Coding,Cricket,Painting,Gardening,62,76,Good Job Placement,Amazon,Personal Project,Hindi,Marathi,Tamil
+Student_869,Computer Science,2025,Non-binary,SQL,C++,JavaScript,Gaming,Machine Learning,UI/UX Design,Football,Cricket,Yoga,84,62,Higher Studies,LTI Mindtree,Final Year Project,Bengali,Telugu,Hindi
+Student_870,Information Technology,2023,Male,DBMS,SQL,Java,Drawing,Machine Learning,Music,Yoga,Football,Dancing,92,69,Higher Studies,Amazon,Personal Project,Marathi,English,Hindi
+Student_871,Civil,2025,Non-binary,C++,Node.js,HTML,Music,Coding,UI/UX Design,Reading,Football,Singing,79,93,Entrepreneurship,Wipro,Internship,Telugu,Marathi,English
+Student_872,Computer Science,2027,Female,C++,Java,SQL,Data Science,Coding,UI/UX Design,Singing,Cricket,Dancing,96,64,Good Job Placement,Google,Internship,Marathi,Telugu,English
+Student_873,Information Technology,2025,Male,Node.js,Python,DBMS,Sports,Gaming,Coding,Dancing,Reading,Yoga,86,86,Good Job Placement,Infosys,Final Year Project,English,Marathi,Telugu
+Student_874,Civil,2023,Female,Python,Java,React,Coding,Machine Learning,Music,Gardening,Football,Yoga,87,95,Good Job Placement,Infosys,Internship,Telugu,Bengali,Marathi
+Student_875,Electronics,2027,Non-binary,DBMS,React,Java,UI/UX Design,Data Science,Music,Reading,Dancing,Cricket,97,60,Entrepreneurship,EPAM,Personal Project,English,Marathi,Bengali
+Student_876,Information Technology,2024,Non-binary,Java,C++,DBMS,Drawing,Data Science,Coding,Gardening,Yoga,Painting,81,86,Good Job Placement,TCS,Personal Project,Tamil,Hindi,Marathi
+Student_877,Civil,2026,Male,JavaScript,SQL,CSS,Coding,Sports,Drawing,Gardening,Cricket,Football,78,87,Entrepreneurship,LTI Mindtree,Personal Project,Hindi,Telugu,Marathi
+Student_878,Electronics,2023,Male,DBMS,Node.js,JavaScript,Machine Learning,UI/UX Design,Music,Reading,Cricket,Painting,88,61,Good Job Placement,Microsoft,Internship,English,Tamil,Bengali
+Student_879,Mechanical,2027,Non-binary,DBMS,CSS,HTML,Gaming,Machine Learning,Music,Yoga,Cricket,Football,91,74,Entrepreneurship,Wipro,Internship,Hindi,Bengali,Tamil
+Student_880,Mechanical,2026,Female,Node.js,HTML,CSS,Music,Gaming,Sports,Cricket,Yoga,Singing,99,96,Good Job Placement,LTI Mindtree,Personal Project,Marathi,Tamil,English
+Student_881,Civil,2024,Non-binary,JavaScript,Java,Node.js,Sports,Coding,UI/UX Design,Gardening,Yoga,Painting,77,74,Entrepreneurship,Amazon,Internship,Telugu,Hindi,Tamil
+Student_882,Computer Science,2026,Male,React,CSS,JavaScript,UI/UX Design,Coding,Music,Gardening,Yoga,Dancing,66,97,Entrepreneurship,EPAM,Internship,Telugu,Tamil,Marathi
+Student_883,Electronics,2027,Non-binary,Node.js,CSS,JavaScript,Drawing,Machine Learning,UI/UX Design,Yoga,Painting,Reading,97,79,Entrepreneurship,Infosys,Internship,Hindi,Tamil,Marathi
+Student_884,Mechanical,2026,Female,React,C++,JavaScript,Drawing,Machine Learning,Music,Painting,Yoga,Singing,94,74,Entrepreneurship,Microsoft,Personal Project,Hindi,Bengali,Marathi
+Student_885,Information Technology,2023,Non-binary,Node.js,HTML,Python,Music,Data Science,Gaming,Singing,Football,Painting,98,63,Good Job Placement,LTI Mindtree,Personal Project,Marathi,Hindi,Tamil
+Student_886,Civil,2026,Female,JavaScript,Node.js,CSS,Music,UI/UX Design,Gaming,Reading,Gardening,Yoga,76,90,Good Job Placement,Wipro,Personal Project,Hindi,Marathi,Bengali
+Student_887,Information Technology,2024,Non-binary,DBMS,Java,HTML,Gaming,Coding,Music,Reading,Football,Yoga,96,97,Entrepreneurship,EPAM,Internship,Hindi,English,Tamil
+Student_888,Mechanical,2023,Male,C++,HTML,CSS,Sports,Machine Learning,UI/UX Design,Painting,Gardening,Yoga,87,64,Entrepreneurship,LTI Mindtree,Final Year Project,Hindi,Marathi,Bengali
+Student_889,Civil,2027,Non-binary,DBMS,Java,HTML,Music,Gaming,Coding,Painting,Cricket,Gardening,95,66,Higher Studies,LTI Mindtree,Final Year Project,Hindi,Telugu,Marathi
+Student_890,Electronics,2024,Male,SQL,Node.js,Python,Sports,UI/UX Design,Data Science,Reading,Cricket,Singing,84,65,Good Job Placement,LTI Mindtree,Internship,Hindi,Marathi,English
+Student_891,Mechanical,2026,Female,DBMS,JavaScript,Python,Data Science,Machine Learning,Gaming,Reading,Dancing,Yoga,71,88,Entrepreneurship,Amazon,Personal Project,English,Bengali,Hindi
+Student_892,Civil,2024,Male,HTML,JavaScript,DBMS,Machine Learning,Coding,Data Science,Painting,Dancing,Gardening,85,94,Higher Studies,Google,Personal Project,Telugu,Marathi,English
+Student_893,Computer Science,2023,Female,CSS,JavaScript,SQL,Coding,Data Science,Machine Learning,Painting,Singing,Yoga,94,75,Entrepreneurship,EPAM,Personal Project,Bengali,Marathi,Telugu
+Student_894,Information Technology,2027,Female,JavaScript,CSS,Python,Drawing,Sports,UI/UX Design,Football,Gardening,Cricket,60,94,Higher Studies,LTI Mindtree,Personal Project,English,Bengali,Marathi
+Student_895,Electronics,2026,Non-binary,C++,Java,SQL,Music,Coding,Data Science,Football,Painting,Gardening,90,77,Entrepreneurship,TCS,Final Year Project,Hindi,Telugu,Marathi
+Student_896,Computer Science,2026,Non-binary,HTML,JavaScript,C++,UI/UX Design,Drawing,Data Science,Singing,Painting,Yoga,77,71,Entrepreneurship,Wipro,Personal Project,English,Hindi,Marathi
+Student_897,Civil,2027,Non-binary,C++,Java,Node.js,Sports,Coding,UI/UX Design,Reading,Cricket,Singing,76,67,Good Job Placement,TCS,Personal Project,Tamil,English,Hindi
+Student_898,Civil,2027,Female,Python,JavaScript,HTML,UI/UX Design,Machine Learning,Drawing,Reading,Yoga,Cricket,65,81,Higher Studies,Microsoft,Final Year Project,Tamil,English,Marathi
+Student_899,Electronics,2025,Female,HTML,Java,CSS,Machine Learning,Sports,Gaming,Yoga,Cricket,Singing,74,89,Good Job Placement,LTI Mindtree,Personal Project,Hindi,Telugu,Bengali
+Student_900,Mechanical,2024,Male,DBMS,React,JavaScript,Gaming,Sports,Music,Football,Singing,Gardening,93,95,Good Job Placement,Infosys,Final Year Project,Hindi,English,Bengali
+Student_901,Civil,2024,Non-binary,JavaScript,C++,Node.js,Data Science,Music,Sports,Reading,Painting,Cricket,94,72,Good Job Placement,LTI Mindtree,Personal Project,Hindi,Bengali,Telugu
+Student_902,Information Technology,2024,Non-binary,DBMS,React,Java,Sports,Machine Learning,Data Science,Cricket,Yoga,Singing,75,96,Good Job Placement,Wipro,Personal Project,Telugu,English,Tamil
+Student_903,Computer Science,2025,Non-binary,C++,JavaScript,Python,Data Science,Gaming,UI/UX Design,Painting,Singing,Cricket,71,92,Good Job Placement,Wipro,Personal Project,Marathi,Tamil,Telugu
+Student_904,Information Technology,2025,Female,Python,Java,Node.js,Data Science,Drawing,Music,Cricket,Dancing,Reading,87,77,Higher Studies,Wipro,Final Year Project,English,Marathi,Telugu
+Student_905,Computer Science,2024,Male,JavaScript,CSS,React,Data Science,Gaming,Music,Painting,Dancing,Gardening,68,69,Entrepreneurship,Google,Personal Project,Hindi,English,Marathi
+Student_906,Mechanical,2026,Non-binary,HTML,React,CSS,Drawing,Machine Learning,Music,Football,Yoga,Painting,68,93,Higher Studies,Infosys,Internship,English,Bengali,Marathi
+Student_907,Electronics,2026,Male,JavaScript,React,Java,UI/UX Design,Coding,Gaming,Gardening,Cricket,Painting,78,88,Entrepreneurship,LTI Mindtree,Internship,Telugu,Marathi,Tamil
+Student_908,Civil,2025,Female,React,Node.js,SQL,UI/UX Design,Drawing,Coding,Yoga,Dancing,Singing,83,73,Entrepreneurship,LTI Mindtree,Internship,Marathi,Tamil,Telugu
+Student_909,Civil,2024,Non-binary,Java,CSS,SQL,Sports,Drawing,Data Science,Reading,Dancing,Cricket,85,78,Good Job Placement,Amazon,Final Year Project,Bengali,Marathi,English
+Student_910,Mechanical,2024,Male,JavaScript,Node.js,HTML,Drawing,Coding,Gaming,Gardening,Reading,Singing,86,76,Good Job Placement,TCS,Internship,English,Marathi,Bengali
+Student_911,Civil,2024,Female,SQL,CSS,C++,Data Science,Gaming,Sports,Singing,Gardening,Reading,83,73,Higher Studies,Amazon,Personal Project,Telugu,Tamil,English
+Student_912,Mechanical,2023,Female,SQL,HTML,C++,Data Science,Coding,Music,Painting,Reading,Yoga,70,60,Good Job Placement,Google,Final Year Project,Hindi,Marathi,Bengali
+Student_913,Civil,2027,Male,CSS,Python,React,Data Science,Coding,Music,Dancing,Football,Reading,95,60,Higher Studies,Infosys,Final Year Project,Telugu,Tamil,Hindi
+Student_914,Computer Science,2024,Male,HTML,SQL,JavaScript,Drawing,Music,Machine Learning,Reading,Painting,Singing,83,85,Good Job Placement,TCS,Internship,English,Tamil,Bengali
+Student_915,Information Technology,2023,Male,DBMS,JavaScript,SQL,Sports,Machine Learning,Coding,Gardening,Yoga,Singing,73,70,Higher Studies,LTI Mindtree,Internship,Bengali,Telugu,Tamil
+Student_916,Mechanical,2023,Non-binary,Java,C++,JavaScript,Drawing,Coding,Data Science,Singing,Gardening,Football,61,77,Higher Studies,Amazon,Internship,Tamil,Marathi,Bengali
+Student_917,Electronics,2026,Male,HTML,Java,DBMS,Drawing,Gaming,Coding,Football,Gardening,Dancing,71,90,Good Job Placement,EPAM,Final Year Project,Bengali,English,Marathi
+Student_918,Mechanical,2027,Non-binary,C++,Python,DBMS,Data Science,Gaming,Drawing,Cricket,Singing,Dancing,79,98,Good Job Placement,LTI Mindtree,Personal Project,Bengali,English,Telugu
+Student_919,Electronics,2025,Non-binary,Java,CSS,React,Machine Learning,Drawing,UI/UX Design,Dancing,Singing,Painting,84,81,Higher Studies,Amazon,Personal Project,Telugu,Bengali,Tamil
+Student_920,Electronics,2027,Non-binary,CSS,JavaScript,C++,Drawing,UI/UX Design,Music,Reading,Singing,Dancing,94,64,Entrepreneurship,Infosys,Internship,Tamil,Telugu,Hindi
+Student_921,Electronics,2027,Female,Node.js,React,DBMS,UI/UX Design,Music,Drawing,Reading,Football,Cricket,70,72,Good Job Placement,Amazon,Final Year Project,Tamil,Telugu,English
+Student_922,Civil,2026,Non-binary,SQL,C++,Node.js,UI/UX Design,Machine Learning,Sports,Painting,Yoga,Dancing,79,73,Good Job Placement,TCS,Personal Project,Marathi,English,Telugu
+Student_923,Computer Science,2025,Non-binary,Python,Java,React,Drawing,Music,Coding,Yoga,Cricket,Painting,60,61,Entrepreneurship,Microsoft,Internship,Hindi,Tamil,Bengali
+Student_924,Mechanical,2024,Female,JavaScript,Java,Node.js,Music,Drawing,Gaming,Reading,Painting,Yoga,70,97,Good Job Placement,Google,Internship,Bengali,Hindi,Tamil
+Student_925,Civil,2026,Non-binary,Python,Node.js,CSS,Machine Learning,Gaming,Coding,Gardening,Reading,Singing,78,74,Higher Studies,Microsoft,Personal Project,Hindi,Tamil,Bengali
+Student_926,Mechanical,2026,Male,CSS,C++,Java,Sports,Music,Machine Learning,Painting,Dancing,Football,82,77,Entrepreneurship,Wipro,Personal Project,Tamil,Telugu,Bengali
+Student_927,Mechanical,2027,Male,CSS,Python,Java,Coding,Music,Sports,Painting,Yoga,Gardening,66,83,Good Job Placement,EPAM,Personal Project,Telugu,Hindi,Marathi
+Student_928,Computer Science,2024,Female,JavaScript,Java,SQL,Sports,Gaming,Music,Cricket,Singing,Dancing,76,82,Good Job Placement,EPAM,Personal Project,Hindi,Marathi,English
+Student_929,Civil,2027,Non-binary,DBMS,HTML,JavaScript,UI/UX Design,Data Science,Sports,Singing,Yoga,Cricket,100,81,Entrepreneurship,Wipro,Internship,English,Hindi,Telugu
+Student_930,Information Technology,2027,Female,Python,Node.js,C++,Coding,Drawing,Data Science,Painting,Football,Cricket,60,70,Higher Studies,EPAM,Personal Project,Telugu,English,Tamil
+Student_931,Electronics,2027,Male,DBMS,Java,React,Drawing,Coding,Data Science,Painting,Cricket,Football,64,75,Entrepreneurship,Amazon,Internship,Bengali,Tamil,English
+Student_932,Civil,2026,Female,Java,JavaScript,Python,UI/UX Design,Sports,Drawing,Football,Cricket,Singing,79,82,Entrepreneurship,TCS,Final Year Project,Marathi,Telugu,Hindi
+Student_933,Mechanical,2027,Non-binary,DBMS,JavaScript,Java,Sports,Coding,Music,Dancing,Singing,Reading,89,65,Entrepreneurship,EPAM,Internship,Marathi,English,Telugu
+Student_934,Information Technology,2027,Male,Node.js,JavaScript,CSS,Sports,UI/UX Design,Coding,Cricket,Reading,Dancing,68,92,Entrepreneurship,Infosys,Internship,Tamil,Hindi,Bengali
+Student_935,Mechanical,2023,Male,JavaScript,Java,C++,Music,Sports,Gaming,Yoga,Dancing,Reading,95,81,Good Job Placement,Microsoft,Final Year Project,Marathi,English,Tamil
+Student_936,Mechanical,2027,Non-binary,Node.js,SQL,DBMS,Gaming,Sports,Coding,Yoga,Cricket,Reading,75,97,Good Job Placement,LTI Mindtree,Internship,Tamil,Marathi,Bengali
+Student_937,Information Technology,2023,Non-binary,CSS,React,JavaScript,Machine Learning,Sports,Drawing,Gardening,Dancing,Singing,91,78,Good Job Placement,EPAM,Final Year Project,Tamil,Hindi,Telugu
+Student_938,Computer Science,2027,Non-binary,CSS,C++,DBMS,Machine Learning,Music,Drawing,Reading,Painting,Yoga,81,84,Entrepreneurship,Infosys,Final Year Project,Bengali,Hindi,Marathi
+Student_939,Information Technology,2025,Non-binary,Python,C++,HTML,Coding,Sports,Gaming,Football,Painting,Gardening,72,87,Higher Studies,Google,Final Year Project,Telugu,Hindi,English
+Student_940,Electronics,2027,Non-binary,HTML,CSS,JavaScript,Coding,Music,Drawing,Reading,Dancing,Singing,60,92,Entrepreneurship,Wipro,Final Year Project,Marathi,Tamil,Hindi
+Student_941,Computer Science,2026,Female,CSS,Node.js,HTML,Machine Learning,UI/UX Design,Gaming,Football,Dancing,Painting,71,73,Entrepreneurship,Google,Internship,Telugu,Marathi,Bengali
+Student_942,Information Technology,2024,Non-binary,React,Java,DBMS,Coding,Drawing,UI/UX Design,Reading,Dancing,Painting,64,81,Higher Studies,Wipro,Personal Project,Marathi,Hindi,English
+Student_943,Computer Science,2024,Male,JavaScript,CSS,React,Data Science,Gaming,Machine Learning,Dancing,Painting,Yoga,66,84,Higher Studies,Infosys,Personal Project,Marathi,Telugu,Tamil
+Student_944,Mechanical,2024,Female,HTML,DBMS,Node.js,UI/UX Design,Sports,Coding,Dancing,Yoga,Singing,78,92,Good Job Placement,Wipro,Internship,Hindi,Telugu,Tamil
+Student_945,Mechanical,2026,Male,CSS,Node.js,React,Coding,Sports,Drawing,Football,Painting,Cricket,82,94,Good Job Placement,TCS,Personal Project,Tamil,Marathi,English
+Student_946,Electronics,2026,Non-binary,Python,CSS,C++,Coding,Data Science,Music,Singing,Cricket,Dancing,64,94,Higher Studies,EPAM,Internship,Marathi,Bengali,Tamil
+Student_947,Computer Science,2025,Male,Node.js,SQL,JavaScript,Coding,Music,Sports,Painting,Reading,Cricket,85,93,Good Job Placement,Google,Personal Project,Hindi,Tamil,English
+Student_948,Computer Science,2024,Male,CSS,Java,Python,Data Science,Coding,Sports,Painting,Yoga,Football,99,78,Good Job Placement,EPAM,Final Year Project,Marathi,English,Hindi
+Student_949,Civil,2023,Non-binary,React,HTML,Java,Machine Learning,Music,Sports,Painting,Dancing,Cricket,93,65,Good Job Placement,Wipro,Final Year Project,Hindi,English,Tamil
+Student_950,Mechanical,2023,Female,HTML,Python,React,Machine Learning,Sports,Music,Dancing,Singing,Reading,72,64,Higher Studies,Amazon,Final Year Project,Hindi,Bengali,Marathi
+Student_951,Electronics,2027,Non-binary,Node.js,React,Java,Data Science,Gaming,Drawing,Singing,Football,Reading,99,72,Entrepreneurship,Google,Personal Project,Hindi,Marathi,English
+Student_952,Mechanical,2025,Female,Java,SQL,DBMS,Coding,Music,Drawing,Reading,Football,Singing,94,64,Higher Studies,EPAM,Internship,Marathi,Bengali,English
+Student_953,Information Technology,2025,Male,Node.js,HTML,React,Coding,UI/UX Design,Music,Cricket,Singing,Yoga,64,96,Good Job Placement,Wipro,Final Year Project,Hindi,English,Telugu
+Student_954,Information Technology,2024,Male,Python,HTML,C++,Coding,Sports,UI/UX Design,Singing,Dancing,Yoga,82,74,Good Job Placement,Wipro,Final Year Project,English,Telugu,Hindi
+Student_955,Information Technology,2024,Female,React,Java,CSS,Machine Learning,Gaming,Sports,Gardening,Painting,Dancing,62,90,Good Job Placement,Wipro,Personal Project,Tamil,Hindi,Telugu
+Student_956,Electronics,2025,Female,React,SQL,Python,Gaming,UI/UX Design,Drawing,Reading,Dancing,Yoga,68,63,Good Job Placement,Infosys,Internship,Marathi,English,Hindi
+Student_957,Electronics,2024,Female,HTML,Python,React,Machine Learning,Music,Coding,Dancing,Painting,Cricket,80,73,Higher Studies,Microsoft,Final Year Project,English,Marathi,Hindi
+Student_958,Mechanical,2023,Female,DBMS,Java,React,UI/UX Design,Gaming,Drawing,Football,Singing,Gardening,90,90,Higher Studies,Google,Final Year Project,Hindi,Marathi,English
+Student_959,Computer Science,2026,Male,JavaScript,Java,Node.js,Coding,Data Science,Sports,Painting,Yoga,Dancing,75,70,Entrepreneurship,Wipro,Internship,Telugu,Marathi,Hindi
+Student_960,Electronics,2026,Non-binary,HTML,SQL,Python,UI/UX Design,Gaming,Data Science,Gardening,Yoga,Painting,64,77,Higher Studies,Amazon,Internship,Hindi,English,Marathi
+Student_961,Computer Science,2026,Non-binary,CSS,JavaScript,Java,Data Science,Sports,Coding,Yoga,Singing,Cricket,66,85,Higher Studies,LTI Mindtree,Final Year Project,Hindi,Tamil,Bengali
+Student_962,Computer Science,2024,Female,C++,SQL,React,Machine Learning,Coding,Drawing,Cricket,Dancing,Yoga,77,76,Good Job Placement,TCS,Internship,Marathi,English,Tamil
+Student_963,Civil,2026,Non-binary,C++,Node.js,DBMS,Gaming,Drawing,Data Science,Singing,Dancing,Cricket,100,88,Good Job Placement,Microsoft,Personal Project,Marathi,Tamil,Bengali
+Student_964,Computer Science,2023,Non-binary,Java,C++,DBMS,Data Science,Gaming,Drawing,Painting,Yoga,Cricket,99,95,Entrepreneurship,Amazon,Personal Project,Bengali,Marathi,English
+Student_965,Mechanical,2023,Male,React,JavaScript,HTML,Data Science,Sports,Drawing,Painting,Dancing,Gardening,95,73,Entrepreneurship,Amazon,Personal Project,Marathi,Bengali,English
+Student_966,Mechanical,2025,Female,Node.js,DBMS,CSS,Music,Coding,UI/UX Design,Painting,Gardening,Cricket,90,97,Good Job Placement,Infosys,Internship,Telugu,Bengali,Tamil
+Student_967,Electronics,2026,Non-binary,React,Java,CSS,Data Science,Coding,Gaming,Singing,Painting,Yoga,84,60,Good Job Placement,Wipro,Internship,Marathi,Bengali,Tamil
+Student_968,Electronics,2026,Female,React,Python,C++,Sports,Gaming,Machine Learning,Singing,Football,Reading,82,74,Entrepreneurship,EPAM,Final Year Project,Bengali,Hindi,Tamil
+Student_969,Mechanical,2023,Female,DBMS,Java,CSS,Coding,Data Science,Gaming,Yoga,Football,Cricket,97,78,Good Job Placement,EPAM,Internship,Bengali,Tamil,English
+Student_970,Computer Science,2024,Female,React,Java,Python,Data Science,Sports,Gaming,Gardening,Painting,Football,98,100,Higher Studies,Microsoft,Internship,Marathi,Bengali,English
+Student_971,Civil,2024,Female,JavaScript,DBMS,C++,UI/UX Design,Music,Machine Learning,Reading,Yoga,Gardening,75,76,Good Job Placement,EPAM,Internship,Tamil,Hindi,English
+Student_972,Computer Science,2024,Non-binary,JavaScript,Java,SQL,Drawing,UI/UX Design,Music,Reading,Singing,Football,87,85,Higher Studies,EPAM,Final Year Project,Marathi,Hindi,Tamil
+Student_973,Civil,2026,Non-binary,Java,React,CSS,Machine Learning,Gaming,Sports,Gardening,Cricket,Yoga,75,69,Higher Studies,EPAM,Final Year Project,Tamil,Hindi,Bengali
+Student_974,Information Technology,2025,Male,SQL,CSS,Node.js,Data Science,Coding,Sports,Football,Cricket,Painting,83,64,Higher Studies,Google,Internship,Bengali,Tamil,Marathi
+Student_975,Civil,2025,Male,SQL,CSS,JavaScript,Gaming,Sports,Machine Learning,Football,Singing,Gardening,95,64,Entrepreneurship,Google,Internship,Hindi,Marathi,Bengali
+Student_976,Information Technology,2027,Female,C++,Python,SQL,Coding,Drawing,Gaming,Cricket,Singing,Dancing,70,96,Higher Studies,Amazon,Internship,Telugu,English,Bengali
+Student_977,Mechanical,2023,Female,Java,JavaScript,React,Data Science,Drawing,Gaming,Dancing,Football,Gardening,66,81,Higher Studies,Google,Internship,English,Hindi,Bengali
+Student_978,Information Technology,2027,Female,Java,CSS,React,Gaming,Data Science,Music,Reading,Gardening,Cricket,69,96,Higher Studies,TCS,Internship,Tamil,Marathi,Hindi
+Student_979,Civil,2024,Female,DBMS,HTML,C++,Drawing,Sports,Data Science,Dancing,Painting,Singing,78,67,Higher Studies,LTI Mindtree,Internship,English,Hindi,Bengali
+Student_980,Information Technology,2023,Male,HTML,React,SQL,UI/UX Design,Machine Learning,Data Science,Yoga,Painting,Gardening,91,64,Good Job Placement,Google,Internship,Telugu,English,Marathi
+Student_981,Civil,2025,Non-binary,SQL,React,Node.js,Machine Learning,Coding,UI/UX Design,Reading,Football,Yoga,86,90,Higher Studies,LTI Mindtree,Final Year Project,Tamil,Bengali,Marathi
+Student_982,Civil,2026,Non-binary,Python,React,CSS,Gaming,Drawing,Coding,Football,Reading,Cricket,63,88,Entrepreneurship,Infosys,Personal Project,Bengali,English,Marathi
+Student_983,Civil,2025,Male,SQL,Java,Node.js,Data Science,Gaming,Sports,Singing,Dancing,Painting,83,95,Entrepreneurship,Infosys,Internship,Telugu,Hindi,Marathi
+Student_984,Civil,2024,Male,SQL,JavaScript,C++,UI/UX Design,Coding,Gaming,Football,Gardening,Singing,89,67,Higher Studies,TCS,Personal Project,Telugu,Marathi,Tamil
+Student_985,Mechanical,2024,Non-binary,Node.js,Java,CSS,Music,Data Science,Machine Learning,Yoga,Painting,Gardening,63,94,Higher Studies,Microsoft,Final Year Project,Hindi,English,Tamil
+Student_986,Electronics,2024,Non-binary,Java,DBMS,C++,Music,Data Science,UI/UX Design,Dancing,Cricket,Singing,84,91,Entrepreneurship,Microsoft,Final Year Project,Tamil,Telugu,English
+Student_987,Information Technology,2027,Male,DBMS,CSS,SQL,Machine Learning,Coding,Gaming,Painting,Dancing,Singing,91,83,Good Job Placement,EPAM,Personal Project,English,Hindi,Marathi
+Student_988,Mechanical,2024,Non-binary,SQL,CSS,HTML,Coding,Sports,Data Science,Painting,Dancing,Yoga,71,82,Entrepreneurship,Microsoft,Internship,English,Bengali,Tamil
+Student_989,Electronics,2024,Female,C++,HTML,SQL,Drawing,UI/UX Design,Machine Learning,Reading,Football,Gardening,99,92,Good Job Placement,Infosys,Personal Project,Marathi,Bengali,Tamil
+Student_990,Computer Science,2025,Non-binary,C++,SQL,Node.js,Coding,Music,Machine Learning,Painting,Dancing,Reading,95,77,Higher Studies,Microsoft,Personal Project,English,Hindi,Telugu
+Student_991,Civil,2025,Female,DBMS,CSS,Java,Music,Gaming,UI/UX Design,Reading,Painting,Cricket,87,94,Good Job Placement,LTI Mindtree,Final Year Project,Marathi,English,Bengali
+Student_992,Mechanical,2024,Female,SQL,JavaScript,Node.js,Data Science,UI/UX Design,Music,Reading,Gardening,Singing,87,84,Higher Studies,TCS,Personal Project,English,Tamil,Bengali
+Student_993,Electronics,2024,Non-binary,Python,C++,React,Music,Data Science,Coding,Gardening,Singing,Football,95,99,Good Job Placement,LTI Mindtree,Final Year Project,English,Telugu,Tamil
+Student_994,Electronics,2024,Female,JavaScript,Python,Java,UI/UX Design,Coding,Machine Learning,Painting,Yoga,Reading,89,82,Entrepreneurship,Amazon,Internship,Telugu,English,Marathi
+Student_995,Computer Science,2025,Male,SQL,C++,HTML,Coding,Sports,Machine Learning,Reading,Yoga,Singing,62,84,Higher Studies,EPAM,Personal Project,Hindi,English,Telugu
+Student_996,Computer Science,2024,Female,DBMS,JavaScript,HTML,Coding,Sports,Music,Gardening,Reading,Yoga,64,92,Entrepreneurship,Infosys,Final Year Project,Hindi,Bengali,Marathi
+Student_997,Mechanical,2023,Non-binary,Node.js,C++,SQL,Data Science,Gaming,Coding,Painting,Cricket,Yoga,92,68,Entrepreneurship,Infosys,Internship,English,Marathi,Hindi
+Student_998,Computer Science,2026,Female,React,DBMS,HTML,Drawing,Data Science,Sports,Cricket,Reading,Gardening,70,67,Good Job Placement,Wipro,Internship,Bengali,English,Marathi
+Student_999,Information Technology,2027,Male,CSS,SQL,JavaScript,Sports,Drawing,UI/UX Design,Yoga,Cricket,Painting,75,64,Entrepreneurship,TCS,Internship,English,Tamil,Marathi
+Student_1000,Information Technology,2026,Male,Python,SQL,Node.js,Drawing,Music,Machine Learning,Reading,Dancing,Singing,65,72,Entrepreneurship,Microsoft,Internship,Telugu,Hindi,English
+Sangam Gorde,Information Technology,2027,Male,C++,Node.js,Java,Coding,Drawing,Data Science,Cricket,Reading,Singing,72,87,Entrepreneurship,EPAM,Internship,English,Tamil,Telugu
+Abhi Jakate,Information Technology,2027,Male,C++,Node.js,Java,Coding,Drawing,Data Science,Cricket,Reading,Singing,72,87,Entrepreneurship,EPAM,Internship,English,Marathi,Telugu
